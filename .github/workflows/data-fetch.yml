@@ -2,15 +2,14 @@ name: Daily Portfolio Data Fetch
 
 on:
   schedule:
-    # 06:00 UTC is exactly 12:00 PM in Bangladesh time
-    - cron: "0 6 * * *"
-  workflow_dispatch: # Keeps the manual run button
+    - cron: "0 6 * * *" # Runs at 12:00 PM Bangladesh Time (06:00 UTC)
+  workflow_dispatch:
 
 jobs:
   generate-api:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Required to push the updated data back to the repo
+      contents: write
 
     steps:
       - name: Checkout repository
@@ -21,9 +20,7 @@ jobs:
         with:
           bun-version: latest
 
-      - name: Fetch Data and Generate API
-        # This is the crucial part that was missing or misconfigured!
-        # It hands the repository secret to your Bun script.
+      - name: Fetch Data and Generate JSON
         env:
           PERSONAL_GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         run: bun run build-data.ts

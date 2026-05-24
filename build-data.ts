@@ -4,124 +4,143 @@ import { mkdir } from "node:fs/promises";
 const GITHUB_TOKEN = process.env.PERSONAL_GITHUB_TOKEN;
 const USERNAME = "JaberChowdhury";
 
-// Fail immediately if no token is found
 if (!GITHUB_TOKEN) {
   console.error("❌ CRITICAL ERROR: PERSONAL_GITHUB_TOKEN is missing.");
   process.exit(1);
 }
 
-const query = `
-  query {
-    user(login: "${USERNAME}") {
-      repositories(first: 100, privacy: PUBLIC, orderBy: {field: UPDATED_AT, direction: DESC}) {
-        nodes {
-          name
-          description
-          url
-          homepageUrl
-          stargazerCount
-          updatedAt
-          defaultBranchRef {
-            name
-          }
-          repositoryTopics(first: 10) {
-            nodes {
-              topic {
-                name
-              }
-            }
-          }
-          languages(first: 3, orderBy: {field: SIZE, direction: DESC}) {
-            nodes {
-              name
-            }
-          }
-        }
-      }
-    }
-  }
-`;
+// 1. Define your exact interfaces
+interface Repository {
+  id: number;
+  name: string;
+  full_name: string;
+  html_url: string;
+  description: string | null;
+  homepage: string | null;
+  stargazers_count: number;
+  watchers_count: number;
+  forks_count: number;
+  language: string | null;
+  updated_at: string;
+  pushed_at: string;
+  default_branch?: string;
+  fork?: boolean;
+}
+
+interface GitHubBranch {
+  name: string;
+  commit?: { sha: string; url: string };
+  protected?: boolean;
+}
+
+interface BranchData {
+  name: string;
+  readmeHtml: string;
+}
+
+// The final combined object
+interface CombinedRepo extends Repository {
+  branches: GitHubBranch[];
+  readmes: BranchData[];
+}
+
+const headers = {
+  Authorization: `Bearer ${GITHUB_TOKEN}`,
+  Accept: "application/vnd.github.v3+json",
+};
 
 async function buildPortfolioAPI() {
-  // Ensure directories exist before writing so local testing doesn't crash
-  await mkdir("./api/readmes", { recursive: true });
+  await mkdir("./api", { recursive: true });
+  console.log("Fetching main repository list...");
 
-  console.log("Fetching repository metadata via GraphQL...");
+  // Fetch all repos (up to 100)
+  const repoRes = await fetch(
+    `https://api.github.com/users/${USERNAME}/repos?per_page=100`,
+    { headers },
+  );
+  if (!repoRes.ok) throw new Error(`Failed to fetch repos: ${repoRes.status}`);
+  const rawRepos = await repoRes.json();
 
-  const response = await fetch("https://api.github.com/graphql", {
-    method: "POST",
-    headers: {
-      Authorization: `Bearer ${GITHUB_TOKEN}`,
-      "Content-Type": "application/json",
-    },
-    body: JSON.stringify({ query }),
-  });
+  const finalData: CombinedRepo[] = [];
 
-  // Strict Failure 1: HTTP Error (e.g., 500 Internal Server Error, 401 Unauthorized)
-  if (!response.ok) {
-    console.error(
-      `❌ CRITICAL ERROR: API responded with status ${response.status}`,
+  // Loop through each repo sequentially to respect rate limits
+  for (const repo of rawRepos) {
+    console.log(`Processing: ${repo.name}...`);
+
+    // Extract only the fields you requested for the base Repository interface
+    const baseRepo: Repository = {
+      id: repo.id,
+      name: repo.name,
+      full_name: repo.full_name,
+      html_url: repo.html_url,
+      description: repo.description,
+      homepage: repo.homepage,
+      stargazers_count: repo.stargazers_count,
+      watchers_count: repo.watchers_count,
+      forks_count: repo.forks_count,
+      language: repo.language,
+      updated_at: repo.updated_at,
+      pushed_at: repo.pushed_at,
+      default_branch: repo.default_branch,
+      fork: repo.fork,
+    };
+
+    // Fetch branches for this repo
+    const branchRes = await fetch(
+      `https://api.github.com/repos/${USERNAME}/${repo.name}/branches`,
+      { headers },
     );
-    process.exit(1);
-  }
-
-  const result = await response.json();
-
-  // Strict Failure 2: GraphQL Specific Errors (Query typos, permissions)
-  if (result.errors) {
-    console.error(
-      "❌ CRITICAL ERROR: GraphQL returned errors:",
-      JSON.stringify(result.errors, null, 2),
-    );
-    process.exit(1);
-  }
-
-  const { data } = result;
-
-  // Format the metadata
-  const repos = data.user.repositories.nodes.map((repo: any) => ({
-    name: repo.name,
-    description: repo.description,
-    githubUrl: repo.url,
-    liveUrl: repo.homepageUrl,
-    stars: repo.stargazerCount,
-    lastUpdated: repo.updatedAt,
-    defaultBranch: repo.defaultBranchRef?.name || "main",
-    topics: repo.repositoryTopics.nodes.map((t: any) => t.topic.name),
-    languages: repo.languages.nodes.map((l: any) => l.name),
-  }));
-
-  // Save the master list
-  await Bun.write("./api/repos.json", JSON.stringify(repos, null, 2));
-  console.log(`✅ Successfully saved master list: ${repos.length} repos.`);
-
-  console.log("Fetching README files...");
-
-  // Fetch READMEs sequentially to prevent network race conditions/dropped connections
-  for (const repo of repos) {
-    const rawUrl = `https://raw.githubusercontent.com/${USERNAME}/${repo.name}/refs/heads/${repo.defaultBranch}/README.md`;
-
-    try {
-      const res = await fetch(rawUrl);
-      if (res.ok) {
-        const markdown = await res.text();
-        await Bun.write(`./api/readmes/${repo.name}.md`, markdown);
-        console.log(`  ➔ Saved README for ${repo.name}`);
-      } else {
-        console.log(
-          `  ➔ No README found for ${repo.name} (Status: ${res.status})`,
-        );
-      }
-    } catch (error) {
-      console.error(`  ➔ Failed to fetch README for ${repo.name}`);
+    let branches: GitHubBranch[] = [];
+    if (branchRes.ok) {
+      const rawBranches = await branchRes.json();
+      branches = rawBranches.map((b: any) => ({
+        name: b.name,
+        commit: { sha: b.commit.sha, url: b.commit.url },
+        protected: b.protected,
+      }));
     }
+
+    // Fetch HTML Readme for the default branch
+    // Note: We are fetching just the default branch to keep the JSON size manageable,
+    // but storing it in the BranchData array exactly as requested.
+    const readmes: BranchData[] = [];
+    if (baseRepo.default_branch) {
+      const readmeRes = await fetch(
+        `https://api.github.com/repos/${USERNAME}/${repo.name}/readme?ref=${baseRepo.default_branch}`,
+        {
+          headers: {
+            ...headers,
+            // This special header tells GitHub to return HTML instead of JSON!
+            Accept: "application/vnd.github.v3.html",
+          },
+        },
+      );
+
+      if (readmeRes.ok) {
+        const readmeHtml = await readmeRes.text();
+        readmes.push({
+          name: baseRepo.default_branch,
+          readmeHtml: readmeHtml,
+        });
+      }
+    }
+
+    // Combine it all
+    finalData.push({
+      ...baseRepo,
+      branches,
+      readmes,
+    });
   }
 
-  console.log("🎉 Portfolio data generation complete!");
+  // Save the massive combined JSON file
+  await Bun.write("./api/portfolio.json", JSON.stringify(finalData, null, 2));
+  console.log(
+    `✅ Complete! Saved ${finalData.length} repos to api/portfolio.json`,
+  );
 }
 
 buildPortfolioAPI().catch((err) => {
-  // Strict Failure 3: Unhandled script crashes
-  console.error("❌ FATAL SCRIPT ERROR:", err);
+  console.error("❌ FATAL ERROR:", err);
   process.exit(1);
 });
