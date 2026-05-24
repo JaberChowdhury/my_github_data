@@ -1286,16 +1286,16 @@
     "watchers_count": 0,
     "forks_count": 0,
     "language": "TypeScript",
-    "updated_at": "2026-05-24T15:49:15Z",
-    "pushed_at": "2026-05-24T15:49:12Z",
+    "updated_at": "2026-05-24T15:50:10Z",
+    "pushed_at": "2026-05-24T15:50:06Z",
     "default_branch": "main",
     "fork": false,
     "branches": [
       {
         "name": "main",
         "commit": {
-          "sha": "3a631ad7efe1c2043de3f7a3d8b77bf2c500b315",
-          "url": "https://api.github.com/repos/JaberChowdhury/my_github_data/commits/3a631ad7efe1c2043de3f7a3d8b77bf2c500b315"
+          "sha": "d5c7640f8255f0d7d989c8b59b32d5c11c07b953",
+          "url": "https://api.github.com/repos/JaberChowdhury/my_github_data/commits/d5c7640f8255f0d7d989c8b59b32d5c11c07b953"
         },
         "protected": false
       }
@@ -1376,14 +1376,14 @@
     "name": "NextJs_project",
     "full_name": "JaberChowdhury/NextJs_project",
     "html_url": "https://github.com/JaberChowdhury/NextJs_project",
-    "description": null,
+    "description": "Collection of all my nextjs practises",
     "homepage": "https://jabers-project.vercel.app/",
     "stargazers_count": 0,
     "watchers_count": 0,
     "forks_count": 0,
     "language": "TypeScript",
-    "updated_at": "2026-05-18T18:20:51Z",
-    "pushed_at": "2026-05-24T13:49:32Z",
+    "updated_at": "2026-05-24T18:24:17Z",
+    "pushed_at": "2026-05-24T18:00:57Z",
     "default_branch": "main",
     "fork": false,
     "branches": [
@@ -1550,8 +1550,8 @@
       {
         "name": "portfolio-v2",
         "commit": {
-          "sha": "6815bdd9c6c1518cf47f92e166a8f7a691f3cd34",
-          "url": "https://api.github.com/repos/JaberChowdhury/NextJs_project/commits/6815bdd9c6c1518cf47f92e166a8f7a691f3cd34"
+          "sha": "182f6278f6bcd162ca508253df6c8a1bfe8c340e",
+          "url": "https://api.github.com/repos/JaberChowdhury/NextJs_project/commits/182f6278f6bcd162ca508253df6c8a1bfe8c340e"
         },
         "protected": false
       },
