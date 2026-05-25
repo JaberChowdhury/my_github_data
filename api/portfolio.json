@@ -31,7 +31,10 @@
           "sha": "f50b4139ca724d93b867047493aba9aac60fb432",
           "url": "https://api.github.com/repos/JaberChowdhury/Aria-attributes/commits/f50b4139ca724d93b867047493aba9aac60fb432"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 12
+        }
       }
     ],
     "readmes": [
@@ -137,7 +140,17 @@
           "sha": "2637995bf0067fcf6f5c3875c758868b62a13ca0",
           "url": "https://api.github.com/repos/JaberChowdhury/Astro-express-project/commits/2637995bf0067fcf6f5c3875c758868b62a13ca0"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 2,
+          "JSON": 9,
+          "JavaScript": 18,
+          "Text": 1,
+          "React": 10,
+          "TypeScript": 5,
+          "Astro": 7,
+          "CSS": 1
+        }
       }
     ],
     "readmes": [
@@ -255,7 +268,13 @@
           "sha": "189b518d6ddaea6cabee9fee10143bb9ef51fe49",
           "url": "https://api.github.com/repos/JaberChowdhury/blog/commits/189b518d6ddaea6cabee9fee10143bb9ef51fe49"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "JavaScript": 3,
+          "CSS": 2,
+          "HTML": 1
+        }
       }
     ],
     "readmes": [
@@ -379,7 +398,12 @@
           "sha": "3babd4d1352d14de587ea86a71627161c2ea8062",
           "url": "https://api.github.com/repos/JaberChowdhury/bun-cpp-runner/commits/3babd4d1352d14de587ea86a71627161c2ea8062"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "JSON": 1,
+          "HTML": 1,
+          "TypeScript": 1
+        }
       }
     ],
     "readmes": [],
@@ -483,7 +507,16 @@
           "sha": "76a161c6a5a94cd7f39310e77af92543681b9f3f",
           "url": "https://api.github.com/repos/JaberChowdhury/BU_Routine_Parser/commits/76a161c6a5a94cd7f39310e77af92543681b9f3f"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "JSON": 5,
+          "JavaScript": 1,
+          "HTML": 1,
+          "React": 32,
+          "TypeScript": 7,
+          "CSS": 1
+        }
       },
       {
         "name": "v1",
@@ -491,7 +524,16 @@
           "sha": "bf4c84b1cdf15b29bda685552d46686f109002cb",
           "url": "https://api.github.com/repos/JaberChowdhury/BU_Routine_Parser/commits/bf4c84b1cdf15b29bda685552d46686f109002cb"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "JSON": 5,
+          "JavaScript": 1,
+          "HTML": 1,
+          "React": 32,
+          "TypeScript": 6,
+          "CSS": 1
+        }
       }
     ],
     "readmes": [
@@ -623,7 +665,13 @@
           "sha": "644a130aa95255037baa1be1536b5dfff86e4ea8",
           "url": "https://api.github.com/repos/JaberChowdhury/c-programming/commits/644a130aa95255037baa1be1536b5dfff86e4ea8"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "JSON": 1,
+          "Markdown": 28,
+          "C": 99,
+          "C++": 1
+        }
       }
     ],
     "readmes": [
@@ -760,7 +808,14 @@
           "sha": "2d9a3cf88e32e60cd97a1acb316c7b2d413505d7",
           "url": "https://api.github.com/repos/JaberChowdhury/canvas-projects/commits/2d9a3cf88e32e60cd97a1acb316c7b2d413505d7"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "HTML": 1,
+          "JavaScript": 3,
+          "JSON": 2,
+          "CSS": 1
+        }
       },
       {
         "name": "bouncing-ball-2.0",
@@ -768,7 +823,14 @@
           "sha": "f2048995e5ad52cacf0183ab453a463649bdf436",
           "url": "https://api.github.com/repos/JaberChowdhury/canvas-projects/commits/f2048995e5ad52cacf0183ab453a463649bdf436"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "HTML": 1,
+          "JavaScript": 5,
+          "JSON": 2,
+          "CSS": 1
+        }
       },
       {
         "name": "bouncing-ball-3.0",
@@ -776,7 +838,14 @@
           "sha": "dd6d35025f54c758d52b46caed41e31e94480863",
           "url": "https://api.github.com/repos/JaberChowdhury/canvas-projects/commits/dd6d35025f54c758d52b46caed41e31e94480863"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "HTML": 1,
+          "JavaScript": 5,
+          "JSON": 2,
+          "CSS": 1
+        }
       },
       {
         "name": "collision",
@@ -784,7 +853,14 @@
           "sha": "c2ebef167ed4fb7f95cdc9fdc3f70bfb3647e5a2",
           "url": "https://api.github.com/repos/JaberChowdhury/canvas-projects/commits/c2ebef167ed4fb7f95cdc9fdc3f70bfb3647e5a2"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "HTML": 1,
+          "JavaScript": 3,
+          "JSON": 2,
+          "CSS": 1
+        }
       },
       {
         "name": "collision-2.0",
@@ -792,7 +868,14 @@
           "sha": "069f3523d336104182b426b475cb0f96d9d402cd",
           "url": "https://api.github.com/repos/JaberChowdhury/canvas-projects/commits/069f3523d336104182b426b475cb0f96d9d402cd"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "HTML": 1,
+          "JavaScript": 3,
+          "JSON": 2,
+          "CSS": 1
+        }
       },
       {
         "name": "collision-3.0",
@@ -800,7 +883,14 @@
           "sha": "24991fcba4bf33b6f566352d905c3620ad9cea55",
           "url": "https://api.github.com/repos/JaberChowdhury/canvas-projects/commits/24991fcba4bf33b6f566352d905c3620ad9cea55"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "HTML": 1,
+          "JavaScript": 7,
+          "JSON": 2,
+          "CSS": 1
+        }
       },
       {
         "name": "glowing-perticle",
@@ -808,7 +898,15 @@
           "sha": "f3e7ddf8cf5426c60af52e0cb57807e586699900",
           "url": "https://api.github.com/repos/JaberChowdhury/canvas-projects/commits/f3e7ddf8cf5426c60af52e0cb57807e586699900"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "HTML": 1,
+          "JavaScript": 4,
+          "JSON": 2,
+          "YAML": 1,
+          "CSS": 1
+        }
       },
       {
         "name": "glowing-perticle-2.0",
@@ -816,7 +914,14 @@
           "sha": "db673a97ae1b6b88dd7407fd3d9090fa76859826",
           "url": "https://api.github.com/repos/JaberChowdhury/canvas-projects/commits/db673a97ae1b6b88dd7407fd3d9090fa76859826"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "HTML": 1,
+          "JSON": 1,
+          "JavaScript": 2,
+          "CSS": 1
+        }
       },
       {
         "name": "gravity",
@@ -824,7 +929,14 @@
           "sha": "2447b61cc28e06235d58678dc7c65133c46f9894",
           "url": "https://api.github.com/repos/JaberChowdhury/canvas-projects/commits/2447b61cc28e06235d58678dc7c65133c46f9894"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "HTML": 1,
+          "JavaScript": 3,
+          "JSON": 2,
+          "CSS": 1
+        }
       },
       {
         "name": "gravity-2.0",
@@ -832,7 +944,14 @@
           "sha": "e09abbc04ae806c5b2d2152e9f0279b125e803d5",
           "url": "https://api.github.com/repos/JaberChowdhury/canvas-projects/commits/e09abbc04ae806c5b2d2152e9f0279b125e803d5"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "HTML": 1,
+          "JavaScript": 3,
+          "JSON": 2,
+          "CSS": 1
+        }
       },
       {
         "name": "lib",
@@ -840,7 +959,13 @@
           "sha": "50b5dab85dcee93c29e6ab3c8c920bf7c6053cbe",
           "url": "https://api.github.com/repos/JaberChowdhury/canvas-projects/commits/50b5dab85dcee93c29e6ab3c8c920bf7c6053cbe"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "JavaScript": 1,
+          "JSON": 3,
+          "TypeScript": 4
+        }
       },
       {
         "name": "main",
@@ -848,7 +973,10 @@
           "sha": "8df99ac979370d86a6d5134710ee5a722a7f7f68",
           "url": "https://api.github.com/repos/JaberChowdhury/canvas-projects/commits/8df99ac979370d86a6d5134710ee5a722a7f7f68"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1
+        }
       },
       {
         "name": "sine-wave",
@@ -856,7 +984,15 @@
           "sha": "1d1db483ce89cf16cad1dca62cd61083a332d2e8",
           "url": "https://api.github.com/repos/JaberChowdhury/canvas-projects/commits/1d1db483ce89cf16cad1dca62cd61083a332d2e8"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "HTML": 1,
+          "JSON": 1,
+          "YAML": 1,
+          "JavaScript": 4,
+          "CSS": 1
+        }
       },
       {
         "name": "starter-code",
@@ -864,7 +1000,14 @@
           "sha": "1fe3e44743e9d11bcd5d58df6e8bd4af082ca8b4",
           "url": "https://api.github.com/repos/JaberChowdhury/canvas-projects/commits/1fe3e44743e9d11bcd5d58df6e8bd4af082ca8b4"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "HTML": 1,
+          "JSON": 1,
+          "JavaScript": 2,
+          "CSS": 1
+        }
       },
       {
         "name": "touchmove-1st",
@@ -872,7 +1015,14 @@
           "sha": "a0ea8cb2ab58c2e2c43b31f31757b1c526e98ed7",
           "url": "https://api.github.com/repos/JaberChowdhury/canvas-projects/commits/a0ea8cb2ab58c2e2c43b31f31757b1c526e98ed7"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "HTML": 1,
+          "JavaScript": 3,
+          "JSON": 2,
+          "CSS": 1
+        }
       },
       {
         "name": "touchmove-1st-auto",
@@ -880,7 +1030,14 @@
           "sha": "c501e891ff7380335b74a5b3beb5d91c4c4b5dff",
           "url": "https://api.github.com/repos/JaberChowdhury/canvas-projects/commits/c501e891ff7380335b74a5b3beb5d91c4c4b5dff"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "HTML": 1,
+          "JavaScript": 3,
+          "JSON": 2,
+          "CSS": 1
+        }
       }
     ],
     "readmes": [
@@ -1007,7 +1164,17 @@
           "sha": "654ee16fc0d299efb6075694062a875aca717603",
           "url": "https://api.github.com/repos/JaberChowdhury/Clock/commits/654ee16fc0d299efb6075694062a875aca717603"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "JavaScript": 3,
+          "JSON": 5,
+          "Markdown": 1,
+          "HTML": 1,
+          "YAML": 1,
+          "React": 9,
+          "TypeScript": 6,
+          "CSS": 1
+        }
       }
     ],
     "readmes": [
@@ -1139,7 +1306,17 @@
           "sha": "6de2636e755ba5f331f010c6096069b547b777a0",
           "url": "https://api.github.com/repos/JaberChowdhury/clock_design/commits/6de2636e755ba5f331f010c6096069b547b777a0"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "JavaScript": 1,
+          "HTML": 1,
+          "JSON": 4,
+          "YAML": 1,
+          "React": 10,
+          "CSS": 1,
+          "TypeScript": 2
+        }
       }
     ],
     "readmes": [
@@ -1264,7 +1441,15 @@
           "sha": "72ce3720681bd56704e603525528be9124e1e67d",
           "url": "https://api.github.com/repos/JaberChowdhury/ColorCodeGenerator/commits/72ce3720681bd56704e603525528be9124e1e67d"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "JavaScript": 17,
+          "JSON": 4,
+          "HTML": 1,
+          "React": 21,
+          "Text": 1,
+          "CSS": 2
+        }
       }
     ],
     "readmes": [],
@@ -1390,7 +1575,14 @@
           "sha": "ec3b85561ea91008c8d43cc81fcbf758a5dbe265",
           "url": "https://api.github.com/repos/JaberChowdhury/Colorutils/commits/ec3b85561ea91008c8d43cc81fcbf758a5dbe265"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "JSON": 2,
+          "YAML": 1,
+          "TypeScript": 16,
+          "Text": 1
+        }
       },
       {
         "name": "library-v2",
@@ -1398,7 +1590,13 @@
           "sha": "3c434d8cdf4937eab5b7ef395e3f816355c19692",
           "url": "https://api.github.com/repos/JaberChowdhury/Colorutils/commits/3c434d8cdf4937eab5b7ef395e3f816355c19692"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "JSON": 2,
+          "TypeScript": 21,
+          "Text": 1
+        }
       },
       {
         "name": "main",
@@ -1406,7 +1604,15 @@
           "sha": "a9caabc5e4ae70948ec947d942385ceedfc69b7a",
           "url": "https://api.github.com/repos/JaberChowdhury/Colorutils/commits/a9caabc5e4ae70948ec947d942385ceedfc69b7a"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "YAML": 1,
+          "Markdown": 1,
+          "JavaScript": 1,
+          "JSON": 4,
+          "TypeScript": 27,
+          "Text": 1
+        }
       },
       {
         "name": "rslib-integration",
@@ -1414,7 +1620,15 @@
           "sha": "4925d2967578ee6f49267f9f1f09d927c5872b21",
           "url": "https://api.github.com/repos/JaberChowdhury/Colorutils/commits/4925d2967578ee6f49267f9f1f09d927c5872b21"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "YAML": 1,
+          "Markdown": 1,
+          "JavaScript": 1,
+          "JSON": 3,
+          "TypeScript": 27,
+          "Text": 1
+        }
       },
       {
         "name": "vanilla_js",
@@ -1422,7 +1636,17 @@
           "sha": "d24cd8382098032932bd585604fe1c4744fabfbd",
           "url": "https://api.github.com/repos/JaberChowdhury/Colorutils/commits/d24cd8382098032932bd585604fe1c4744fabfbd"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "HTML": 1,
+          "JSON": 2,
+          "YAML": 1,
+          "JavaScript": 2,
+          "TypeScript": 19,
+          "CSS": 1,
+          "Text": 1
+        }
       }
     ],
     "readmes": [
@@ -1566,7 +1790,16 @@
           "sha": "f8b734c9477db81bb76ad445c5551a1463540224",
           "url": "https://api.github.com/repos/JaberChowdhury/Colorvoid/commits/f8b734c9477db81bb76ad445c5551a1463540224"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "JavaScript": 4,
+          "Markdown": 1,
+          "JSON": 7,
+          "HTML": 1,
+          "React": 65,
+          "TypeScript": 16,
+          "CSS": 1
+        }
       },
       {
         "name": "main",
@@ -1574,7 +1807,16 @@
           "sha": "f8b734c9477db81bb76ad445c5551a1463540224",
           "url": "https://api.github.com/repos/JaberChowdhury/Colorvoid/commits/f8b734c9477db81bb76ad445c5551a1463540224"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "JavaScript": 4,
+          "Markdown": 1,
+          "JSON": 7,
+          "HTML": 1,
+          "React": 65,
+          "TypeScript": 16,
+          "CSS": 1
+        }
       },
       {
         "name": "million-testing",
@@ -1582,7 +1824,16 @@
           "sha": "31d2fdbfb2b25dc2b199d888215c7cc5f5326bd9",
           "url": "https://api.github.com/repos/JaberChowdhury/Colorvoid/commits/31d2fdbfb2b25dc2b199d888215c7cc5f5326bd9"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "JavaScript": 4,
+          "Markdown": 1,
+          "JSON": 7,
+          "HTML": 1,
+          "React": 66,
+          "TypeScript": 16,
+          "CSS": 1
+        }
       },
       {
         "name": "v2",
@@ -1590,7 +1841,16 @@
           "sha": "64b4f1512811281cecadf8bcb0311af0e0d384aa",
           "url": "https://api.github.com/repos/JaberChowdhury/Colorvoid/commits/64b4f1512811281cecadf8bcb0311af0e0d384aa"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "JavaScript": 4,
+          "Markdown": 1,
+          "JSON": 6,
+          "HTML": 1,
+          "React": 65,
+          "TypeScript": 16,
+          "CSS": 1
+        }
       }
     ],
     "readmes": [
@@ -1731,7 +1991,17 @@
           "sha": "da50e980a4f2d0329ff5d4dceeefe4cfbe13a16a",
           "url": "https://api.github.com/repos/JaberChowdhury/cpp_tutorial/commits/da50e980a4f2d0329ff5d4dceeefe4cfbe13a16a"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "JSON": 3,
+          "Text": 5,
+          "Markdown": 48,
+          "C++": 661,
+          "C++ Header": 5,
+          "TOML": 1,
+          "Assembly": 2,
+          "C/C++ Header": 104
+        }
       },
       {
         "name": "yt-tutorial",
@@ -1739,7 +2009,11 @@
           "sha": "31ac31f15855cbc50724b566a6ae11c939de2fc8",
           "url": "https://api.github.com/repos/JaberChowdhury/cpp_tutorial/commits/31ac31f15855cbc50724b566a6ae11c939de2fc8"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "C++": 1,
+          "Markdown": 1
+        }
       }
     ],
     "readmes": [
@@ -1872,7 +2146,11 @@
           "sha": "f57ed81d993b387ad5da9f62d22c76775de02efe",
           "url": "https://api.github.com/repos/JaberChowdhury/Danbooru-dataset/commits/f57ed81d993b387ad5da9f62d22c76775de02efe"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "JSON": 2,
+          "HTML": 2
+        }
       }
     ],
     "readmes": [],
@@ -1996,7 +2274,16 @@
           "sha": "23e80d40dc52950dbc737f133eb34cdf80bf7e0b",
           "url": "https://api.github.com/repos/JaberChowdhury/Designtree/commits/23e80d40dc52950dbc737f133eb34cdf80bf7e0b"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "JavaScript": 3,
+          "Markdown": 1,
+          "JSON": 7,
+          "HTML": 1,
+          "React": 22,
+          "CSS": 1,
+          "TypeScript": 3
+        }
       }
     ],
     "readmes": [
@@ -2128,7 +2415,13 @@
           "sha": "4e1111a5fa23ccfcd1bea014e59c523aa7699f21",
           "url": "https://api.github.com/repos/JaberChowdhury/Express_js_project/commits/4e1111a5fa23ccfcd1bea014e59c523aa7699f21"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "YAML": 21,
+          "Markdown": 1,
+          "JSON": 2,
+          "TypeScript": 13
+        }
       },
       {
         "name": "main",
@@ -2136,7 +2429,12 @@
           "sha": "769e3c37b25fea410da2d44ed711672993491666",
           "url": "https://api.github.com/repos/JaberChowdhury/Express_js_project/commits/769e3c37b25fea410da2d44ed711672993491666"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "YAML": 17,
+          "JSON": 2,
+          "TypeScript": 16
+        }
       },
       {
         "name": "old_og_branch",
@@ -2144,7 +2442,12 @@
           "sha": "a45f3e543ed4068f42ea909415f928b6b55876b1",
           "url": "https://api.github.com/repos/JaberChowdhury/Express_js_project/commits/a45f3e543ed4068f42ea909415f928b6b55876b1"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "JSON": 3,
+          "Text": 3,
+          "JavaScript": 21
+        }
       }
     ],
     "readmes": [],
@@ -2261,7 +2564,13 @@
           "sha": "e3084bfb16e902b66271d629f66bd632cdac089a",
           "url": "https://api.github.com/repos/JaberChowdhury/fruit_website/commits/e3084bfb16e902b66271d629f66bd632cdac089a"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "JavaScript": 1,
+          "CSS": 1,
+          "HTML": 1
+        }
       }
     ],
     "readmes": [
@@ -2400,7 +2709,15 @@
           "sha": "b104a1b2ab90bbad7c61b2f2a9680ab74826c4f5",
           "url": "https://api.github.com/repos/JaberChowdhury/gowall_showcase/commits/b104a1b2ab90bbad7c61b2f2a9680ab74826c4f5"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "JavaScript": 8,
+          "Shell": 1,
+          "Text": 1,
+          "JSON": 2,
+          "CSS": 2
+        }
       }
     ],
     "readmes": [
@@ -2531,7 +2848,11 @@
           "sha": "f199934b7d67c154059685a5aa59114a1043573a",
           "url": "https://api.github.com/repos/JaberChowdhury/guessing-game/commits/f199934b7d67c154059685a5aa59114a1043573a"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "HTML": 1
+        }
       }
     ],
     "readmes": [
@@ -2660,7 +2981,13 @@
           "sha": "31020173f87423a4f29742143966f911c30e62f6",
           "url": "https://api.github.com/repos/JaberChowdhury/hyperloop/commits/31020173f87423a4f29742143966f911c30e62f6"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "HTML": 108,
+          "JavaScript": 2,
+          "CSS": 1
+        }
       }
     ],
     "readmes": [
@@ -2791,7 +3118,11 @@
           "sha": "2228811fd204a908c95fe194be85f9ffa77469a7",
           "url": "https://api.github.com/repos/JaberChowdhury/image-gallery-/commits/2228811fd204a908c95fe194be85f9ffa77469a7"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "HTML": 1
+        }
       }
     ],
     "readmes": [
@@ -2906,7 +3237,12 @@
           "sha": "fc1e5037139828fd6656fd7cb6f8282b2a69abe6",
           "url": "https://api.github.com/repos/JaberChowdhury/Image-source/commits/fc1e5037139828fd6656fd7cb6f8282b2a69abe6"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "JSON": 4,
+          "JavaScript": 1,
+          "Markdown": 1
+        }
       }
     ],
     "readmes": [
@@ -3035,7 +3371,10 @@
           "sha": "a083035892c46e7aea873f750823c83d9131d86c",
           "url": "https://api.github.com/repos/JaberChowdhury/JaberChowdhury/commits/a083035892c46e7aea873f750823c83d9131d86c"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1
+        }
       }
     ],
     "readmes": [
@@ -3148,7 +3487,13 @@
           "sha": "65076bfaa259ef79a40944f9bd8522f6b0cdb5f4",
           "url": "https://api.github.com/repos/JaberChowdhury/JaberChowdhury-/commits/65076bfaa259ef79a40944f9bd8522f6b0cdb5f4"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "JavaScript": 5,
+          "CSS": 6,
+          "HTML": 5
+        }
       }
     ],
     "readmes": [
@@ -3258,7 +3603,12 @@
           "sha": "2fbd2148fb35a869af477278302c2d2fc6a0679b",
           "url": "https://api.github.com/repos/JaberChowdhury/Java-programming/commits/2fbd2148fb35a869af477278302c2d2fc6a0679b"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 2,
+          "Text": 2,
+          "Java": 13
+        }
       },
       {
         "name": "hospital-management",
@@ -3266,7 +3616,11 @@
           "sha": "9895446b5d8519e53601a7c98516be9c5bb58e79",
           "url": "https://api.github.com/repos/JaberChowdhury/Java-programming/commits/9895446b5d8519e53601a7c98516be9c5bb58e79"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "Java": 8
+        }
       },
       {
         "name": "javafx-practise",
@@ -3274,7 +3628,13 @@
           "sha": "4dffe28cb3cc0fc14bd43918fc2d93dc5c27acad",
           "url": "https://api.github.com/repos/JaberChowdhury/Java-programming/commits/4dffe28cb3cc0fc14bd43918fc2d93dc5c27acad"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "XML": 4,
+          "Kotlin": 2,
+          "Batch": 1,
+          "Java": 6
+        }
       },
       {
         "name": "javafx-template",
@@ -3282,7 +3642,12 @@
           "sha": "08d9342283709683d091286bb1dd8b857f7312fd",
           "url": "https://api.github.com/repos/JaberChowdhury/Java-programming/commits/08d9342283709683d091286bb1dd8b857f7312fd"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "Java": 1,
+          "CSS": 2
+        }
       },
       {
         "name": "main",
@@ -3290,7 +3655,13 @@
           "sha": "324072cd4973ad9c3e01db5f21af0cf00435db12",
           "url": "https://api.github.com/repos/JaberChowdhury/Java-programming/commits/324072cd4973ad9c3e01db5f21af0cf00435db12"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Java": 60,
+          "Markdown": 8,
+          "Text": 3,
+          "XML": 6
+        }
       },
       {
         "name": "todo_app_v2",
@@ -3298,7 +3669,12 @@
           "sha": "83bc0d8f48ee1caa3b111c1830a428b1f4d4a0b0",
           "url": "https://api.github.com/repos/JaberChowdhury/Java-programming/commits/83bc0d8f48ee1caa3b111c1830a428b1f4d4a0b0"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "Java": 2,
+          "CSS": 1
+        }
       },
       {
         "name": "todo_app",
@@ -3306,7 +3682,12 @@
           "sha": "d550208ca341dbba46bca92b2d193cd8c38708e1",
           "url": "https://api.github.com/repos/JaberChowdhury/Java-programming/commits/d550208ca341dbba46bca92b2d193cd8c38708e1"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "Java": 1,
+          "CSS": 1
+        }
       }
     ],
     "readmes": [
@@ -3445,7 +3826,12 @@
           "sha": "f5471a7870d8eb78ca8da3abd517fa7ec19f119f",
           "url": "https://api.github.com/repos/JaberChowdhury/javascript/commits/f5471a7870d8eb78ca8da3abd517fa7ec19f119f"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "JSON": 2,
+          "Markdown": 1,
+          "JavaScript": 1
+        }
       },
       {
         "name": "mastar",
@@ -3453,7 +3839,17 @@
           "sha": "b1d36233d0515436eddc623c6ae671b216a25a35",
           "url": "https://api.github.com/repos/JaberChowdhury/javascript/commits/b1d36233d0515436eddc623c6ae671b216a25a35"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 2,
+          "HTML": 159,
+          "JavaScript": 272,
+          "Shell": 3,
+          "Text": 5,
+          "CSS": 3,
+          "Java": 1,
+          "JSON": 2
+        }
       },
       {
         "name": "master",
@@ -3461,7 +3857,19 @@
           "sha": "2cae4665819b2819f1b09f2dfdec538e5f3a20ce",
           "url": "https://api.github.com/repos/JaberChowdhury/javascript/commits/2cae4665819b2819f1b09f2dfdec538e5f3a20ce"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "JSON": 37,
+          "JavaScript": 200,
+          "Markdown": 5,
+          "HTML": 182,
+          "Environment Variables": 2,
+          "Text": 17,
+          "CSS": 5,
+          "TypeScript": 10,
+          "Shell": 3,
+          "React": 1
+        }
       }
     ],
     "readmes": [
@@ -3594,7 +4002,12 @@
           "sha": "a21f4686c9f9e19f17143e7e70d0cc36c2ca90a5",
           "url": "https://api.github.com/repos/JaberChowdhury/material-3/commits/a21f4686c9f9e19f17143e7e70d0cc36c2ca90a5"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "HTML": 3,
+          "CSS": 1
+        }
       }
     ],
     "readmes": [
@@ -3710,7 +4123,13 @@
           "sha": "78061858156e4034f3fe40d5e9c2b213d6332fa0",
           "url": "https://api.github.com/repos/JaberChowdhury/memory-games/commits/78061858156e4034f3fe40d5e9c2b213d6332fa0"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "JavaScript": 1,
+          "HTML": 1,
+          "CSS": 1
+        }
       }
     ],
     "readmes": [
@@ -3820,7 +4239,17 @@
           "sha": "41bab5a01fe3b67f5793f1d07c1656d2d2b1543d",
           "url": "https://api.github.com/repos/JaberChowdhury/mesh-gradient-generator/commits/41bab5a01fe3b67f5793f1d07c1656d2d2b1543d"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "JavaScript": 3,
+          "Markdown": 1,
+          "JSON": 4,
+          "HTML": 1,
+          "YAML": 1,
+          "React": 25,
+          "TypeScript": 11,
+          "CSS": 1
+        }
       }
     ],
     "readmes": [
@@ -3952,7 +4381,13 @@
           "sha": "a3a2aa90f515499765bc34669216d9efc10b4ea3",
           "url": "https://api.github.com/repos/JaberChowdhury/mongoose/commits/a3a2aa90f515499765bc34669216d9efc10b4ea3"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "JSON": 1,
+          "YAML": 1,
+          "JavaScript": 3
+        }
       }
     ],
     "readmes": [
@@ -4060,7 +4495,11 @@
           "sha": "1158b44a020e84aba1a0c56febf399c595fdbaec",
           "url": "https://api.github.com/repos/JaberChowdhury/my-python-code/commits/1158b44a020e84aba1a0c56febf399c595fdbaec"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Python": 7,
+          "Markdown": 1
+        }
       }
     ],
     "readmes": [
@@ -4175,7 +4614,13 @@
           "sha": "96e775bf7e577b51db5963d2d96a5da09b695892",
           "url": "https://api.github.com/repos/JaberChowdhury/myhtmlcode/commits/96e775bf7e577b51db5963d2d96a5da09b695892"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "CSS": 4,
+          "HTML": 132,
+          "Markdown": 1,
+          "JavaScript": 8
+        }
       }
     ],
     "readmes": [
@@ -4292,8 +4737,8 @@
     "watchers_count": 0,
     "forks_count": 0,
     "language": "TypeScript",
-    "updated_at": "2026-05-25T13:39:19Z",
-    "pushed_at": "2026-05-25T13:39:15Z",
+    "updated_at": "2026-05-25T14:38:05Z",
+    "pushed_at": "2026-05-25T14:38:01Z",
     "default_branch": "main",
     "fork": false,
     "topics": [],
@@ -4303,10 +4748,17 @@
       {
         "name": "main",
         "commit": {
-          "sha": "6210c27a734986cd645540642dc6102be5235a16",
-          "url": "https://api.github.com/repos/JaberChowdhury/my_github_data/commits/6210c27a734986cd645540642dc6102be5235a16"
+          "sha": "30dad4ce483c0a01b00ba5c30e895b13d2ecc305",
+          "url": "https://api.github.com/repos/JaberChowdhury/my_github_data/commits/30dad4ce483c0a01b00ba5c30e895b13d2ecc305"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Environment Variables": 1,
+          "YAML": 1,
+          "Markdown": 59,
+          "JSON": 2,
+          "TypeScript": 1
+        }
       }
     ],
     "readmes": [
@@ -4316,9 +4768,30 @@
       }
     ],
     "languages": {
-      "TypeScript": 5732
+      "TypeScript": 8774
     },
     "recentCommits": [
+      {
+        "sha": "30dad4ce483c0a01b00ba5c30e895b13d2ecc305",
+        "message": "Expand language extension map in build-data.ts\n\nAdded comprehensive support for additional file extensions across web,\nsystems, scripting, enterprise, and infrastructure categories.",
+        "author": "jaber",
+        "date": "2026-05-25T14:37:59Z",
+        "url": "https://github.com/JaberChowdhury/my_github_data/commit/30dad4ce483c0a01b00ba5c30e895b13d2ecc305"
+      },
+      {
+        "sha": "52ce9eb0a7add6f83d376f9012d857b49d307ece",
+        "message": "Update build-data.ts",
+        "author": "jaber",
+        "date": "2026-05-25T14:34:00Z",
+        "url": "https://github.com/JaberChowdhury/my_github_data/commit/52ce9eb0a7add6f83d376f9012d857b49d307ece"
+      },
+      {
+        "sha": "c7e32d846a738dc60734c24f1628a5204f00e24d",
+        "message": "chore: auto-update portfolio data",
+        "author": "github-actions[bot]",
+        "date": "2026-05-25T13:41:22Z",
+        "url": "https://github.com/JaberChowdhury/my_github_data/commit/c7e32d846a738dc60734c24f1628a5204f00e24d"
+      },
       {
         "sha": "6210c27a734986cd645540642dc6102be5235a16",
         "message": "Merge remote-tracking branch 'origin/main'",
@@ -4332,27 +4805,6 @@
         "author": "jaber",
         "date": "2026-05-25T13:34:38Z",
         "url": "https://github.com/JaberChowdhury/my_github_data/commit/a0db090c5479eaa6000d1131b714faab9e1b8dd4"
-      },
-      {
-        "sha": "937123a3f7355360c20b773af9ea09231f98bb7e",
-        "message": "chore: auto-update portfolio data",
-        "author": "github-actions[bot]",
-        "date": "2026-05-25T09:59:25Z",
-        "url": "https://github.com/JaberChowdhury/my_github_data/commit/937123a3f7355360c20b773af9ea09231f98bb7e"
-      },
-      {
-        "sha": "668cd34dc4819cb9590944d24093c82cd6ecda7a",
-        "message": "chore: auto-update portfolio data",
-        "author": "github-actions[bot]",
-        "date": "2026-05-24T18:25:15Z",
-        "url": "https://github.com/JaberChowdhury/my_github_data/commit/668cd34dc4819cb9590944d24093c82cd6ecda7a"
-      },
-      {
-        "sha": "d5c7640f8255f0d7d989c8b59b32d5c11c07b953",
-        "message": "chore: auto-update portfolio data",
-        "author": "github-actions[bot]",
-        "date": "2026-05-24T15:50:05Z",
-        "url": "https://github.com/JaberChowdhury/my_github_data/commit/d5c7640f8255f0d7d989c8b59b32d5c11c07b953"
       }
     ],
     "weeklyActivity": [
@@ -4435,7 +4887,13 @@
           "sha": "1c8927f52097167c51563ef64b5a807c2607f318",
           "url": "https://api.github.com/repos/JaberChowdhury/newsite/commits/1c8927f52097167c51563ef64b5a807c2607f318"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "JavaScript": 1,
+          "CSS": 1,
+          "Markdown": 1,
+          "HTML": 2
+        }
       }
     ],
     "readmes": [
@@ -4566,7 +5024,14 @@
           "sha": "dcbe265ea1afbf3698984543774fd57b85c4fc02",
           "url": "https://api.github.com/repos/JaberChowdhury/Nextjs-13/commits/dcbe265ea1afbf3698984543774fd57b85c4fc02"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "JSON": 5,
+          "JavaScript": 5,
+          "Markdown": 1,
+          "React": 10,
+          "CSS": 1
+        }
       }
     ],
     "readmes": [
@@ -4696,7 +5161,15 @@
           "sha": "b0cd42673246d2df710d21804af74b45caae1d3a",
           "url": "https://api.github.com/repos/JaberChowdhury/NextJs_project/commits/b0cd42673246d2df710d21804af74b45caae1d3a"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "CSS": 1,
+          "React": 9,
+          "JavaScript": 1,
+          "TypeScript": 2,
+          "JSON": 2
+        }
       },
       {
         "name": "code_shot",
@@ -4704,7 +5177,16 @@
           "sha": "d840a232f371ef1afe9cbefcc13c48ba94508995",
           "url": "https://api.github.com/repos/JaberChowdhury/NextJs_project/commits/d840a232f371ef1afe9cbefcc13c48ba94508995"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "CSS": 1,
+          "React": 14,
+          "JSON": 3,
+          "TypeScript": 9,
+          "JavaScript": 2,
+          "YAML": 1
+        }
       },
       {
         "name": "color-web",
@@ -4712,7 +5194,17 @@
           "sha": "5632213fe0f09c256a67a2bcabde472aa918bac7",
           "url": "https://api.github.com/repos/JaberChowdhury/NextJs_project/commits/5632213fe0f09c256a67a2bcabde472aa918bac7"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Environment Variables": 1,
+          "JSON": 3,
+          "Markdown": 1,
+          "React": 28,
+          "TypeScript": 15,
+          "CSS": 1,
+          "JavaScript": 2,
+          "YAML": 1
+        }
       },
       {
         "name": "color-web-v0.0",
@@ -4720,7 +5212,15 @@
           "sha": "ed437714cebbbc3c6a7a099cd4b72fd1f966e316",
           "url": "https://api.github.com/repos/JaberChowdhury/NextJs_project/commits/ed437714cebbbc3c6a7a099cd4b72fd1f966e316"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "JSON": 4,
+          "Markdown": 1,
+          "React": 25,
+          "CSS": 1,
+          "TypeScript": 4,
+          "JavaScript": 2
+        }
       },
       {
         "name": "colorOcean",
@@ -4728,7 +5228,16 @@
           "sha": "3406e782f7290736b49bf436c0029696af4d8815",
           "url": "https://api.github.com/repos/JaberChowdhury/NextJs_project/commits/3406e782f7290736b49bf436c0029696af4d8815"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "React": 32,
+          "CSS": 1,
+          "JSON": 3,
+          "TypeScript": 20,
+          "Text": 1,
+          "JavaScript": 1
+        }
       },
       {
         "name": "colorOcean-v2",
@@ -4736,7 +5245,16 @@
           "sha": "a669bd058c5e63a9c87027306d630bcbe3e2b52c",
           "url": "https://api.github.com/repos/JaberChowdhury/NextJs_project/commits/a669bd058c5e63a9c87027306d630bcbe3e2b52c"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "React": 45,
+          "CSS": 1,
+          "JSON": 3,
+          "TypeScript": 22,
+          "Text": 1,
+          "JavaScript": 1
+        }
       },
       {
         "name": "colorOcean-v3",
@@ -4744,7 +5262,16 @@
           "sha": "b621f293ee381a7227f41830f12a41c4dde0851f",
           "url": "https://api.github.com/repos/JaberChowdhury/NextJs_project/commits/b621f293ee381a7227f41830f12a41c4dde0851f"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "React": 24,
+          "CSS": 1,
+          "TypeScript": 21,
+          "JavaScript": 1,
+          "Text": 1,
+          "JSON": 2
+        }
       },
       {
         "name": "colorOcean-v4",
@@ -4752,7 +5279,17 @@
           "sha": "7ee93cfef5b24cfe340e6b3c769bf520b9e20984",
           "url": "https://api.github.com/repos/JaberChowdhury/NextJs_project/commits/7ee93cfef5b24cfe340e6b3c769bf520b9e20984"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "CSS": 1,
+          "React": 8,
+          "JavaScript": 1,
+          "TypeScript": 18,
+          "JSON": 2,
+          "YAML": 1,
+          "Text": 1
+        }
       },
       {
         "name": "cp-website",
@@ -4760,7 +5297,14 @@
           "sha": "fa4f17b23a75235d70435419dfc7c2cc4b774434",
           "url": "https://api.github.com/repos/JaberChowdhury/NextJs_project/commits/fa4f17b23a75235d70435419dfc7c2cc4b774434"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "CSS": 1,
+          "React": 18,
+          "JSON": 5,
+          "JavaScript": 2,
+          "TypeScript": 4
+        }
       },
       {
         "name": "daraz-clone",
@@ -4768,7 +5312,16 @@
           "sha": "62a3eee956dbeb8855a4c0dd7471b05aaa808a90",
           "url": "https://api.github.com/repos/JaberChowdhury/NextJs_project/commits/62a3eee956dbeb8855a4c0dd7471b05aaa808a90"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "CSS": 2,
+          "React": 6,
+          "JavaScript": 1,
+          "TypeScript": 2,
+          "JSON": 2,
+          "YAML": 1
+        }
       },
       {
         "name": "faker-js",
@@ -4776,7 +5329,15 @@
           "sha": "e42a6ad932f81ee07e8d764d751267215ac21119",
           "url": "https://api.github.com/repos/JaberChowdhury/NextJs_project/commits/e42a6ad932f81ee07e8d764d751267215ac21119"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "React": 11,
+          "CSS": 2,
+          "TypeScript": 3,
+          "JavaScript": 1,
+          "JSON": 2
+        }
       },
       {
         "name": "flower-shop",
@@ -4784,7 +5345,15 @@
           "sha": "47d52828ac9c734668917e151fa4c18164fa7e63",
           "url": "https://api.github.com/repos/JaberChowdhury/NextJs_project/commits/47d52828ac9c734668917e151fa4c18164fa7e63"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "CSS": 1,
+          "React": 10,
+          "JavaScript": 2,
+          "TypeScript": 3,
+          "JSON": 2
+        }
       },
       {
         "name": "g3-assignment",
@@ -4792,7 +5361,15 @@
           "sha": "e80d16557637f09f6e125cf9d08115abebd140df",
           "url": "https://api.github.com/repos/JaberChowdhury/NextJs_project/commits/e80d16557637f09f6e125cf9d08115abebd140df"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "CSS": 1,
+          "React": 9,
+          "JavaScript": 1,
+          "TypeScript": 2,
+          "JSON": 2
+        }
       },
       {
         "name": "generate-static-page",
@@ -4800,7 +5377,15 @@
           "sha": "4ac21ea45c17bebd20789fb332e2f98f776c186e",
           "url": "https://api.github.com/repos/JaberChowdhury/NextJs_project/commits/4ac21ea45c17bebd20789fb332e2f98f776c186e"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "JSON": 4,
+          "Markdown": 1,
+          "CSS": 1,
+          "React": 13,
+          "TypeScript": 2,
+          "JavaScript": 2
+        }
       },
       {
         "name": "image-gallery",
@@ -4808,7 +5393,15 @@
           "sha": "964bf8958dc31d321dc1bc1f6e36a715d1e8345a",
           "url": "https://api.github.com/repos/JaberChowdhury/NextJs_project/commits/964bf8958dc31d321dc1bc1f6e36a715d1e8345a"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "TypeScript": 9,
+          "CSS": 1,
+          "React": 9,
+          "JSON": 5,
+          "JavaScript": 2
+        }
       },
       {
         "name": "kids-education",
@@ -4816,7 +5409,16 @@
           "sha": "4512f3f1ca8bc7519a46845c66c32c0f7928fa7a",
           "url": "https://api.github.com/repos/JaberChowdhury/NextJs_project/commits/4512f3f1ca8bc7519a46845c66c32c0f7928fa7a"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "CSS": 2,
+          "React": 8,
+          "JavaScript": 1,
+          "TypeScript": 2,
+          "JSON": 2,
+          "YAML": 1
+        }
       },
       {
         "name": "main",
@@ -4824,7 +5426,14 @@
           "sha": "2fa27fdcc38afabbc8a70a26d2ae80dcc179829b",
           "url": "https://api.github.com/repos/JaberChowdhury/NextJs_project/commits/2fa27fdcc38afabbc8a70a26d2ae80dcc179829b"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 3,
+          "JSON": 3,
+          "TypeScript": 2,
+          "CSS": 1,
+          "React": 8
+        }
       },
       {
         "name": "material_you",
@@ -4832,7 +5441,16 @@
           "sha": "e732fec43ddf2166375e590286298d79f0f9968d",
           "url": "https://api.github.com/repos/JaberChowdhury/NextJs_project/commits/e732fec43ddf2166375e590286298d79f0f9968d"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 2,
+          "React": 9,
+          "CSS": 1,
+          "JSON": 3,
+          "JavaScript": 2,
+          "TypeScript": 19,
+          "Text": 1
+        }
       },
       {
         "name": "model_task",
@@ -4840,7 +5458,15 @@
           "sha": "f0026f35e3276cca733d83e262f004bb0d186975",
           "url": "https://api.github.com/repos/JaberChowdhury/NextJs_project/commits/f0026f35e3276cca733d83e262f004bb0d186975"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "CSS": 1,
+          "React": 9,
+          "JSON": 3,
+          "TypeScript": 5,
+          "JavaScript": 2
+        }
       },
       {
         "name": "portfolio",
@@ -4848,7 +5474,14 @@
           "sha": "2fa27fdcc38afabbc8a70a26d2ae80dcc179829b",
           "url": "https://api.github.com/repos/JaberChowdhury/NextJs_project/commits/2fa27fdcc38afabbc8a70a26d2ae80dcc179829b"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 3,
+          "JSON": 3,
+          "TypeScript": 2,
+          "CSS": 1,
+          "React": 8
+        }
       },
       {
         "name": "portfolio-v2",
@@ -4856,7 +5489,14 @@
           "sha": "88d16d2d19daa7a38bb6d276c6e05c543f189f59",
           "url": "https://api.github.com/repos/JaberChowdhury/NextJs_project/commits/88d16d2d19daa7a38bb6d276c6e05c543f189f59"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 3,
+          "JSON": 4,
+          "TypeScript": 17,
+          "React": 40,
+          "CSS": 1
+        }
       },
       {
         "name": "practise-mui",
@@ -4864,7 +5504,16 @@
           "sha": "888a8ca2b77d16d29d9d221de5b88438da54f63b",
           "url": "https://api.github.com/repos/JaberChowdhury/NextJs_project/commits/888a8ca2b77d16d29d9d221de5b88438da54f63b"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "React": 7,
+          "CSS": 1,
+          "JavaScript": 1,
+          "TypeScript": 2,
+          "JSON": 2,
+          "YAML": 1
+        }
       },
       {
         "name": "pro-cleaning",
@@ -4872,7 +5521,16 @@
           "sha": "8edf5f8ed8f67427192e3501b7a3b2092c1f9dd9",
           "url": "https://api.github.com/repos/JaberChowdhury/NextJs_project/commits/8edf5f8ed8f67427192e3501b7a3b2092c1f9dd9"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "JSON": 4,
+          "Markdown": 1,
+          "JavaScript": 3,
+          "YAML": 1,
+          "CSS": 2,
+          "React": 7,
+          "TypeScript": 1
+        }
       },
       {
         "name": "protfolio-senior",
@@ -4880,7 +5538,16 @@
           "sha": "b4c3d93265c5ea4a0f0efb6cbe932cb97489e2c2",
           "url": "https://api.github.com/repos/JaberChowdhury/NextJs_project/commits/b4c3d93265c5ea4a0f0efb6cbe932cb97489e2c2"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "React": 41,
+          "MDX": 10,
+          "CSS": 1,
+          "TypeScript": 7,
+          "JSON": 3,
+          "JavaScript": 2
+        }
       },
       {
         "name": "starter-code",
@@ -4888,7 +5555,14 @@
           "sha": "d8613a2c6e890014b18f82be7a92add1ddd8fe08",
           "url": "https://api.github.com/repos/JaberChowdhury/NextJs_project/commits/d8613a2c6e890014b18f82be7a92add1ddd8fe08"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 3,
+          "JSON": 3,
+          "TypeScript": 2,
+          "CSS": 2,
+          "React": 4
+        }
       },
       {
         "name": "testing",
@@ -4896,7 +5570,15 @@
           "sha": "c3a5ba190b8d19a71a04dacffda5be6d117c4daa",
           "url": "https://api.github.com/repos/JaberChowdhury/NextJs_project/commits/c3a5ba190b8d19a71a04dacffda5be6d117c4daa"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "CSS": 1,
+          "React": 3,
+          "JSON": 3,
+          "JavaScript": 2,
+          "TypeScript": 2
+        }
       },
       {
         "name": "todo-app",
@@ -4904,7 +5586,16 @@
           "sha": "849f25d2ffb0ee5e6251924d710f8a8e0dc0a946",
           "url": "https://api.github.com/repos/JaberChowdhury/NextJs_project/commits/849f25d2ffb0ee5e6251924d710f8a8e0dc0a946"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "CSS": 1,
+          "React": 26,
+          "JSON": 3,
+          "JavaScript": 2,
+          "TypeScript": 7,
+          "YAML": 1
+        }
       },
       {
         "name": "todo-app-v1",
@@ -4912,7 +5603,16 @@
           "sha": "50cebf817da44bad0d3de17d68b52b7761d85a00",
           "url": "https://api.github.com/repos/JaberChowdhury/NextJs_project/commits/50cebf817da44bad0d3de17d68b52b7761d85a00"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "JSON": 4,
+          "Markdown": 1,
+          "JavaScript": 3,
+          "YAML": 1,
+          "CSS": 5,
+          "React": 16,
+          "TypeScript": 5
+        }
       },
       {
         "name": "vercel/react-server-components-cve-vu-ibqh43",
@@ -4920,7 +5620,15 @@
           "sha": "18c217951f06cd5b6102f981337e8cc1ab2a0528",
           "url": "https://api.github.com/repos/JaberChowdhury/NextJs_project/commits/18c217951f06cd5b6102f981337e8cc1ab2a0528"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "CSS": 1,
+          "React": 9,
+          "JavaScript": 1,
+          "TypeScript": 2,
+          "JSON": 3
+        }
       },
       {
         "name": "with-mui",
@@ -4928,7 +5636,16 @@
           "sha": "4cdebccf1bee40766a588b64489f01243fdec63d",
           "url": "https://api.github.com/repos/JaberChowdhury/NextJs_project/commits/4cdebccf1bee40766a588b64489f01243fdec63d"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "React": 6,
+          "CSS": 2,
+          "JavaScript": 1,
+          "TypeScript": 2,
+          "JSON": 2,
+          "YAML": 1
+        }
       }
     ],
     "readmes": [
@@ -5058,7 +5775,16 @@
           "sha": "acc2965369f0e701192627a2e3d61773c8408329",
           "url": "https://api.github.com/repos/JaberChowdhury/Pokeapi-reactjs/commits/acc2965369f0e701192627a2e3d61773c8408329"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "JavaScript": 3,
+          "Markdown": 1,
+          "JSON": 5,
+          "HTML": 1,
+          "React": 16,
+          "TypeScript": 4,
+          "CSS": 1
+        }
       }
     ],
     "readmes": [
@@ -5190,7 +5916,14 @@
           "sha": "535a54390c9b4344b7c70b26d7cb189b46752064",
           "url": "https://api.github.com/repos/JaberChowdhury/pokemonsCard/commits/535a54390c9b4344b7c70b26d7cb189b46752064"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "JSON": 2,
+          "HTML": 1,
+          "Text": 2,
+          "CSS": 1,
+          "JavaScript": 1
+        }
       },
       {
         "name": "main",
@@ -5198,7 +5931,16 @@
           "sha": "7c16df97fc225af44108576caa27b82f6a92c48b",
           "url": "https://api.github.com/repos/JaberChowdhury/pokemonsCard/commits/7c16df97fc225af44108576caa27b82f6a92c48b"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "JSON": 5,
+          "HTML": 2,
+          "Text": 2,
+          "JavaScript": 4,
+          "React": 2,
+          "CSS": 2
+        }
       }
     ],
     "readmes": [
@@ -5340,7 +6082,14 @@
           "sha": "63f3e4de7ad2bdffd59c8e3ea1098e377826d818",
           "url": "https://api.github.com/repos/JaberChowdhury/profast/commits/63f3e4de7ad2bdffd59c8e3ea1098e377826d818"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 2,
+          "JSON": 15,
+          "CSS": 1,
+          "React": 20,
+          "TypeScript": 4
+        }
       },
       {
         "name": "old",
@@ -5348,7 +6097,14 @@
           "sha": "428bef6bd2faad1a2c5153dfeb26222df02219d7",
           "url": "https://api.github.com/repos/JaberChowdhury/profast/commits/428bef6bd2faad1a2c5153dfeb26222df02219d7"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 2,
+          "JSON": 15,
+          "CSS": 1,
+          "React": 16,
+          "TypeScript": 4
+        }
       }
     ],
     "readmes": [
@@ -5492,7 +6248,17 @@
           "sha": "55459a32965c8e533110ab0d74700a909d55d797",
           "url": "https://api.github.com/repos/JaberChowdhury/quotes-showcase/commits/55459a32965c8e533110ab0d74700a909d55d797"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "HTML": 1,
+          "JSON": 4,
+          "YAML": 1,
+          "JavaScript": 2,
+          "React": 8,
+          "CSS": 1,
+          "TypeScript": 3
+        }
       },
       {
         "name": "old",
@@ -5500,7 +6266,17 @@
           "sha": "7b376f60ab88321d3e0224a1a8e41a0f9248f1d5",
           "url": "https://api.github.com/repos/JaberChowdhury/quotes-showcase/commits/7b376f60ab88321d3e0224a1a8e41a0f9248f1d5"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "HTML": 1,
+          "JSON": 4,
+          "YAML": 1,
+          "JavaScript": 2,
+          "React": 8,
+          "CSS": 1,
+          "TypeScript": 3
+        }
       },
       {
         "name": "v2",
@@ -5508,7 +6284,17 @@
           "sha": "55459a32965c8e533110ab0d74700a909d55d797",
           "url": "https://api.github.com/repos/JaberChowdhury/quotes-showcase/commits/55459a32965c8e533110ab0d74700a909d55d797"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "HTML": 1,
+          "JSON": 4,
+          "YAML": 1,
+          "JavaScript": 2,
+          "React": 8,
+          "CSS": 1,
+          "TypeScript": 3
+        }
       }
     ],
     "readmes": [
@@ -5640,7 +6426,15 @@
           "sha": "bf35d10705f24318e0664258291c4e843bdffe97",
           "url": "https://api.github.com/repos/JaberChowdhury/raylib-projects/commits/bf35d10705f24318e0664258291c4e843bdffe97"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "JSON": 1,
+          "Text": 1,
+          "C++": 3,
+          "C/C++ Header": 2,
+          "Markdown": 1,
+          "Shell": 1
+        }
       },
       {
         "name": "click-button",
@@ -5648,7 +6442,13 @@
           "sha": "cb36fa508f193f14090f0decade624aaebfb5ef1",
           "url": "https://api.github.com/repos/JaberChowdhury/raylib-projects/commits/cb36fa508f193f14090f0decade624aaebfb5ef1"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "JSON": 1,
+          "C++": 2,
+          "Text": 1,
+          "Markdown": 1
+        }
       },
       {
         "name": "main",
@@ -5656,7 +6456,12 @@
           "sha": "58052836ad3f117f5219cf4c337e4e7531f01fbd",
           "url": "https://api.github.com/repos/JaberChowdhury/raylib-projects/commits/58052836ad3f117f5219cf4c337e4e7531f01fbd"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Text": 1,
+          "Markdown": 1,
+          "C++": 1
+        }
       },
       {
         "name": "material_you_color",
@@ -5664,7 +6469,15 @@
           "sha": "85c18067e407d4f3ee6552fac4b24cefe06e1c4b",
           "url": "https://api.github.com/repos/JaberChowdhury/raylib-projects/commits/85c18067e407d4f3ee6552fac4b24cefe06e1c4b"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "XML": 6,
+          "JSON": 1,
+          "Text": 2,
+          "C++": 8,
+          "C++ Header": 1,
+          "Markdown": 1
+        }
       },
       {
         "name": "practise",
@@ -5672,7 +6485,14 @@
           "sha": "759137f8b1ca6aecd69a527dda770f470245163a",
           "url": "https://api.github.com/repos/JaberChowdhury/raylib-projects/commits/759137f8b1ca6aecd69a527dda770f470245163a"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "XML": 6,
+          "JSON": 1,
+          "Text": 1,
+          "Markdown": 1,
+          "C++": 13
+        }
       },
       {
         "name": "tic-toc-toe",
@@ -5680,7 +6500,14 @@
           "sha": "db15ed835863bc7b6521ab1262e975b784458c61",
           "url": "https://api.github.com/repos/JaberChowdhury/raylib-projects/commits/db15ed835863bc7b6521ab1262e975b784458c61"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "JSON": 1,
+          "Text": 1,
+          "C++": 4,
+          "C/C++ Header": 2,
+          "Markdown": 1
+        }
       },
       {
         "name": "tic-toc-toe-v2",
@@ -5688,7 +6515,13 @@
           "sha": "e1e79202918dcabe1d1980b0f0f14526185d9356",
           "url": "https://api.github.com/repos/JaberChowdhury/raylib-projects/commits/e1e79202918dcabe1d1980b0f0f14526185d9356"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "JSON": 1,
+          "Text": 1,
+          "Markdown": 1,
+          "C++": 1
+        }
       }
     ],
     "readmes": [
@@ -5804,7 +6637,12 @@
           "sha": "2f48d6a232964bfb2b5273ff6906f44a837a2431",
           "url": "https://api.github.com/repos/JaberChowdhury/react-age-calculator/commits/2f48d6a232964bfb2b5273ff6906f44a837a2431"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "CSS": 1,
+          "JavaScript": 2,
+          "HTML": 1
+        }
       },
       {
         "name": "master",
@@ -5812,7 +6650,15 @@
           "sha": "fe3c26fc5c439a82a963c595a0a92fe1b6f67dd2",
           "url": "https://api.github.com/repos/JaberChowdhury/react-age-calculator/commits/fe3c26fc5c439a82a963c595a0a92fe1b6f67dd2"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "HTML": 1,
+          "JSON": 1,
+          "JavaScript": 3,
+          "React": 2,
+          "CSS": 1
+        }
       }
     ],
     "readmes": [
@@ -5936,7 +6782,17 @@
           "sha": "6acefc2291b1563f04ab4e84b62478848771ecb1",
           "url": "https://api.github.com/repos/JaberChowdhury/react-bangla-tutorial/commits/6acefc2291b1563f04ab4e84b62478848771ecb1"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "JSON": 9,
+          "Markdown": 1,
+          "CSS": 2,
+          "React": 3,
+          "TypeScript": 1,
+          "JavaScript": 1,
+          "MDX": 16,
+          "YAML": 1
+        }
       },
       {
         "name": "main",
@@ -5944,7 +6800,17 @@
           "sha": "f8af5548a1a7ee163617ef2ed5f80afac28a454b",
           "url": "https://api.github.com/repos/JaberChowdhury/react-bangla-tutorial/commits/f8af5548a1a7ee163617ef2ed5f80afac28a454b"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "JSON": 8,
+          "Markdown": 1,
+          "CSS": 2,
+          "React": 3,
+          "TypeScript": 1,
+          "JavaScript": 1,
+          "MDX": 15,
+          "YAML": 1
+        }
       }
     ],
     "readmes": [
@@ -6088,7 +6954,16 @@
           "sha": "07804a30217ff6c39320da6b78804a3877d839f1",
           "url": "https://api.github.com/repos/JaberChowdhury/React-hook-form-project/commits/07804a30217ff6c39320da6b78804a3877d839f1"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "JavaScript": 3,
+          "Markdown": 1,
+          "JSON": 4,
+          "HTML": 1,
+          "React": 21,
+          "TypeScript": 7,
+          "CSS": 2
+        }
       }
     ],
     "readmes": [
@@ -6220,7 +7095,15 @@
           "sha": "d202723bdacd49433e25efa48b0a180d2d8abb25",
           "url": "https://api.github.com/repos/JaberChowdhury/react-native-projects/commits/d202723bdacd49433e25efa48b0a180d2d8abb25"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "JSON": 4,
+          "React": 18,
+          "CSS": 1,
+          "TypeScript": 5,
+          "JavaScript": 1
+        }
       },
       {
         "name": "main",
@@ -6228,7 +7111,15 @@
           "sha": "d202723bdacd49433e25efa48b0a180d2d8abb25",
           "url": "https://api.github.com/repos/JaberChowdhury/react-native-projects/commits/d202723bdacd49433e25efa48b0a180d2d8abb25"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "JSON": 4,
+          "React": 18,
+          "CSS": 1,
+          "TypeScript": 5,
+          "JavaScript": 1
+        }
       },
       {
         "name": "with-nativewind",
@@ -6236,7 +7127,16 @@
           "sha": "38ad44ef3b92c22e43c25267f24b0866749abca2",
           "url": "https://api.github.com/repos/JaberChowdhury/react-native-projects/commits/38ad44ef3b92c22e43c25267f24b0866749abca2"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "YAML": 2,
+          "TypeScript": 27,
+          "JSON": 6,
+          "React": 17,
+          "JavaScript": 4,
+          "CSS": 1,
+          "Text": 1
+        }
       },
       {
         "name": "with-tamagui",
@@ -6244,7 +7144,13 @@
           "sha": "fb74ab72cc8e07fbf09a385681ed5a70327108d1",
           "url": "https://api.github.com/repos/JaberChowdhury/react-native-projects/commits/fb74ab72cc8e07fbf09a385681ed5a70327108d1"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "JSON": 4,
+          "React": 15,
+          "JavaScript": 3,
+          "TypeScript": 2
+        }
       }
     ],
     "readmes": [
@@ -6368,7 +7274,16 @@
           "sha": "6932a76dc7f0bb71728e84cbbd2aa911b189a8dd",
           "url": "https://api.github.com/repos/JaberChowdhury/react-practise/commits/6932a76dc7f0bb71728e84cbbd2aa911b189a8dd"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "JSON": 4,
+          "Markdown": 1,
+          "JavaScript": 7,
+          "HTML": 1,
+          "Text": 1,
+          "React": 25,
+          "CSS": 19
+        }
       }
     ],
     "readmes": [
@@ -6499,7 +7414,14 @@
           "sha": "1451d8892c2ac7a79cc9d8097567e33089473ec7",
           "url": "https://api.github.com/repos/JaberChowdhury/react-text-utils/commits/1451d8892c2ac7a79cc9d8097567e33089473ec7"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "React": 22,
+          "CSS": 1,
+          "TypeScript": 7,
+          "JSON": 3
+        }
       },
       {
         "name": "testing",
@@ -6507,7 +7429,14 @@
           "sha": "622801c547107193d78c3d9367b03e0d2d6021a2",
           "url": "https://api.github.com/repos/JaberChowdhury/react-text-utils/commits/622801c547107193d78c3d9367b03e0d2d6021a2"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "React": 22,
+          "CSS": 1,
+          "TypeScript": 7,
+          "JSON": 3
+        }
       }
     ],
     "readmes": [
@@ -6631,7 +7560,23 @@
           "sha": "489f9b054a9a6911660b4e89982f98282bc18be9",
           "url": "https://api.github.com/repos/JaberChowdhury/reactcode/commits/489f9b054a9a6911660b4e89982f98282bc18be9"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1950,
+          "JSON": 1786,
+          "HTML": 26,
+          "Text": 64,
+          "CSS": 25,
+          "JavaScript": 21590,
+          "TypeScript": 3314,
+          "YAML": 163,
+          "Shell": 5,
+          "PHP": 1,
+          "Config": 1,
+          "Nix": 1,
+          "Environment Variables": 1,
+          "XML": 5
+        }
       }
     ],
     "readmes": [
@@ -6734,7 +7679,16 @@
           "sha": "7da055db370df72ce5884aca71b0d453fb33e156",
           "url": "https://api.github.com/repos/JaberChowdhury/react_practise2.0/commits/7da055db370df72ce5884aca71b0d453fb33e156"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "JSON": 3,
+          "Markdown": 1,
+          "JavaScript": 8,
+          "HTML": 1,
+          "Text": 1,
+          "React": 3,
+          "CSS": 1
+        }
       }
     ],
     "readmes": [
@@ -6861,7 +7815,15 @@
           "sha": "0e4ca99db97e5bc2c314b936898dad04c84a5b5a",
           "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/0e4ca99db97e5bc2c314b936898dad04c84a5b5a"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "HTML": 1,
+          "JSON": 5,
+          "React": 12,
+          "TypeScript": 12,
+          "CSS": 1
+        }
       },
       {
         "name": "all-quran-project-2.0",
@@ -6869,7 +7831,17 @@
           "sha": "04c0f77392794724007d866e45bff0cd1e40128e",
           "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/04c0f77392794724007d866e45bff0cd1e40128e"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "JavaScript": 2,
+          "JSON": 5,
+          "Markdown": 1,
+          "YAML": 1,
+          "React": 4,
+          "TypeScript": 3,
+          "Astro": 3,
+          "CSS": 1
+        }
       },
       {
         "name": "assignment-7",
@@ -6877,7 +7849,16 @@
           "sha": "a6490044da27e1f89406ecd97698c35c3dd2dcfa",
           "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/a6490044da27e1f89406ecd97698c35c3dd2dcfa"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "JSON": 4,
+          "JavaScript": 2,
+          "HTML": 1,
+          "TypeScript": 3,
+          "React": 14,
+          "CSS": 1
+        }
       },
       {
         "name": "assignment-8",
@@ -6885,7 +7866,15 @@
           "sha": "8599ad6a8f85b252023c431a2679cb424781fe1c",
           "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/8599ad6a8f85b252023c431a2679cb424781fe1c"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "CSS": 1,
+          "React": 19,
+          "TypeScript": 5,
+          "JSON": 4,
+          "JavaScript": 1
+        }
       },
       {
         "name": "asthetic-design",
@@ -6893,7 +7882,16 @@
           "sha": "3cb0123b9573cc422ab95d0466eb4722500895fd",
           "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/3cb0123b9573cc422ab95d0466eb4722500895fd"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "JavaScript": 1,
+          "HTML": 1,
+          "JSON": 4,
+          "React": 2,
+          "CSS": 1,
+          "TypeScript": 3
+        }
       },
       {
         "name": "bento-grid",
@@ -6901,7 +7899,16 @@
           "sha": "83240cf23ca18f0ef338f29929469dead8efae89",
           "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/83240cf23ca18f0ef338f29929469dead8efae89"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "HTML": 1,
+          "JSON": 4,
+          "JavaScript": 2,
+          "React": 6,
+          "TypeScript": 17,
+          "CSS": 1
+        }
       },
       {
         "name": "boipoka-site",
@@ -6909,7 +7916,14 @@
           "sha": "58bd41d059db57f62d4d134cbbad87b70743e749",
           "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/58bd41d059db57f62d4d134cbbad87b70743e749"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "React": 10,
+          "CSS": 1,
+          "TypeScript": 3,
+          "JSON": 2
+        }
       },
       {
         "name": "color-web",
@@ -6917,7 +7931,16 @@
           "sha": "a92eb3bb4aec2724b3591cc5d0be1f3bc33a724c",
           "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/a92eb3bb4aec2724b3591cc5d0be1f3bc33a724c"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "JavaScript": 2,
+          "Markdown": 1,
+          "JSON": 4,
+          "HTML": 1,
+          "TypeScript": 8,
+          "React": 15,
+          "CSS": 1
+        }
       },
       {
         "name": "custom_selector",
@@ -6925,7 +7948,16 @@
           "sha": "e063e0a4e894cc6f609d26c686017d3e1550e3a2",
           "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/e063e0a4e894cc6f609d26c686017d3e1550e3a2"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "HTML": 1,
+          "JSON": 5,
+          "JavaScript": 2,
+          "React": 6,
+          "CSS": 1,
+          "TypeScript": 2
+        }
       },
       {
         "name": "expense-tracker",
@@ -6933,7 +7965,16 @@
           "sha": "28e2a68489ebafa1752d070011b1cdda22b3c72b",
           "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/28e2a68489ebafa1752d070011b1cdda22b3c72b"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "JavaScript": 1,
+          "HTML": 1,
+          "JSON": 4,
+          "React": 2,
+          "CSS": 1,
+          "TypeScript": 4
+        }
       },
       {
         "name": "file-based-route-demo",
@@ -6941,7 +7982,16 @@
           "sha": "7909e60c2239c10583c6cf56caa6520ec52997aa",
           "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/7909e60c2239c10583c6cf56caa6520ec52997aa"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "JavaScript": 3,
+          "Markdown": 1,
+          "HTML": 1,
+          "JSON": 4,
+          "React": 23,
+          "TypeScript": 6,
+          "CSS": 1
+        }
       },
       {
         "name": "file-based-route-v1",
@@ -6949,7 +7999,16 @@
           "sha": "0dc24c00b9b8b57937150a5eca23edcfb8e43472",
           "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/0dc24c00b9b8b57937150a5eca23edcfb8e43472"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "JavaScript": 6,
+          "HTML": 5,
+          "JSON": 16,
+          "CSS": 5,
+          "React": 26,
+          "TypeScript": 17
+        }
       },
       {
         "name": "habit-tracker",
@@ -6957,7 +8016,17 @@
           "sha": "51cb6f39a1888c471e00c13e0be144b83b3e783c",
           "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/51cb6f39a1888c471e00c13e0be144b83b3e783c"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "HTML": 1,
+          "JSON": 3,
+          "YAML": 1,
+          "JavaScript": 1,
+          "React": 4,
+          "TypeScript": 4,
+          "CSS": 1
+        }
       },
       {
         "name": "jsonTable-v2",
@@ -6965,7 +8034,17 @@
           "sha": "990a3311407e1c44cc43000ea5466807f3313ff0",
           "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/990a3311407e1c44cc43000ea5466807f3313ff0"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "JavaScript": 1,
+          "HTML": 1,
+          "JSON": 5,
+          "YAML": 1,
+          "CSS": 2,
+          "React": 2,
+          "TypeScript": 2
+        }
       },
       {
         "name": "jsonTable-v3",
@@ -6973,7 +8052,16 @@
           "sha": "3900bea5bf67f90496dbae0ed7ef6872b40f10c3",
           "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/3900bea5bf67f90496dbae0ed7ef6872b40f10c3"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "JavaScript": 1,
+          "HTML": 1,
+          "JSON": 5,
+          "CSS": 2,
+          "React": 2,
+          "TypeScript": 2
+        }
       },
       {
         "name": "jsonToTable",
@@ -6981,7 +8069,17 @@
           "sha": "a90912324e7951957019386176d68e6a16d7cb73",
           "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/a90912324e7951957019386176d68e6a16d7cb73"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "JavaScript": 1,
+          "HTML": 1,
+          "JSON": 5,
+          "YAML": 1,
+          "React": 2,
+          "CSS": 1,
+          "TypeScript": 3
+        }
       },
       {
         "name": "main",
@@ -6989,7 +8087,14 @@
           "sha": "13ba1c1451f826da1c1f6a58997971dc722f5be7",
           "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/13ba1c1451f826da1c1f6a58997971dc722f5be7"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "React": 21,
+          "CSS": 1,
+          "TypeScript": 7,
+          "JSON": 3
+        }
       },
       {
         "name": "master",
@@ -6997,7 +8102,10 @@
           "sha": "e3fd6d3c6636af434d63ece3fe85eff524b17dc7",
           "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/e3fd6d3c6636af434d63ece3fe85eff524b17dc7"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1
+        }
       },
       {
         "name": "muiColors",
@@ -7005,7 +8113,16 @@
           "sha": "10af97342c09544df323a3835ed5b012350b3a2f",
           "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/10af97342c09544df323a3835ed5b012350b3a2f"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "HTML": 1,
+          "JSON": 4,
+          "JavaScript": 2,
+          "React": 3,
+          "TypeScript": 6,
+          "CSS": 1
+        }
       },
       {
         "name": "note-app",
@@ -7013,7 +8130,16 @@
           "sha": "43bd9f999eaf116c90221247a68ac528b6c26e4f",
           "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/43bd9f999eaf116c90221247a68ac528b6c26e4f"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "HTML": 1,
+          "JSON": 3,
+          "YAML": 1,
+          "TypeScript": 5,
+          "React": 6,
+          "CSS": 1
+        }
       },
       {
         "name": "password-generator",
@@ -7021,7 +8147,16 @@
           "sha": "48f208bf2b9dbd2567c65304576914a8b77aabc6",
           "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/48f208bf2b9dbd2567c65304576914a8b77aabc6"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "JSON": 5,
+          "Markdown": 1,
+          "JavaScript": 1,
+          "HTML": 1,
+          "React": 2,
+          "TypeScript": 4,
+          "CSS": 1
+        }
       },
       {
         "name": "password-generator-v2",
@@ -7029,7 +8164,16 @@
           "sha": "6f86d17cf52d01019971d8396154a9c728b50190",
           "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/6f86d17cf52d01019971d8396154a9c728b50190"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "JSON": 5,
+          "Markdown": 1,
+          "JavaScript": 1,
+          "HTML": 1,
+          "React": 2,
+          "CSS": 1,
+          "TypeScript": 3
+        }
       },
       {
         "name": "periodic_table",
@@ -7037,7 +8181,16 @@
           "sha": "1d9f192569994695bb37195869d44e4c41aa1cc9",
           "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/1d9f192569994695bb37195869d44e4c41aa1cc9"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "JavaScript": 3,
+          "Markdown": 1,
+          "JSON": 5,
+          "HTML": 1,
+          "React": 8,
+          "TypeScript": 6,
+          "CSS": 1
+        }
       },
       {
         "name": "portfolio",
@@ -7053,7 +8206,16 @@
           "sha": "4ef2a5dce92142a583233f53bde0a2aac16690f6",
           "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/4ef2a5dce92142a583233f53bde0a2aac16690f6"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "JSON": 5,
+          "HTML": 1,
+          "JavaScript": 2,
+          "React": 3,
+          "CSS": 1,
+          "TypeScript": 3
+        }
       },
       {
         "name": "pro-cleaning",
@@ -7061,7 +8223,16 @@
           "sha": "9beca59d495a6c4b69bd40591974686f3c520df8",
           "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/9beca59d495a6c4b69bd40591974686f3c520df8"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "JavaScript": 2,
+          "HTML": 1,
+          "JSON": 2,
+          "TypeScript": 2,
+          "CSS": 2,
+          "React": 2
+        }
       },
       {
         "name": "react-router-starter",
@@ -7069,7 +8240,14 @@
           "sha": "207383f8db94a910c6492f623697c25456682c86",
           "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/207383f8db94a910c6492f623697c25456682c86"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "CSS": 1,
+          "React": 3,
+          "TypeScript": 4,
+          "JSON": 3
+        }
       },
       {
         "name": "redux-toolkit-1.0",
@@ -7077,7 +8255,16 @@
           "sha": "fc9ed0692e9086147e3904794aa9e970d7339af7",
           "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/fc9ed0692e9086147e3904794aa9e970d7339af7"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "HTML": 1,
+          "JSON": 4,
+          "JavaScript": 2,
+          "React": 3,
+          "TypeScript": 4,
+          "CSS": 1
+        }
       },
       {
         "name": "redux-toolkit-data-fetching",
@@ -7085,7 +8272,15 @@
           "sha": "982fab9bd971f3b629e9d04ca4d4f77b4a80e7df",
           "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/982fab9bd971f3b629e9d04ca4d4f77b4a80e7df"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "HTML": 1,
+          "JSON": 4,
+          "TypeScript": 13,
+          "React": 9,
+          "CSS": 1
+        }
       },
       {
         "name": "reset-css",
@@ -7093,7 +8288,15 @@
           "sha": "85536945665a80d371826915df626ba3d4536c4c",
           "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/85536945665a80d371826915df626ba3d4536c4c"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "JavaScript": 1,
+          "JSON": 2,
+          "TypeScript": 2,
+          "CSS": 2,
+          "React": 2
+        }
       }
     ],
     "readmes": [
@@ -7234,7 +8437,18 @@
           "sha": "da557781c76efd200a0f1159af3880c1fc3df67c",
           "url": "https://api.github.com/repos/JaberChowdhury/Redux-express-todoapp/commits/da557781c76efd200a0f1159af3880c1fc3df67c"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "JSON": 8,
+          "YAML": 2,
+          "JavaScript": 18,
+          "Text": 1,
+          "HTML": 1,
+          "React": 15,
+          "CSS": 1,
+          "TypeScript": 9
+        }
       }
     ],
     "readmes": [
@@ -7366,7 +8580,10 @@
           "sha": "966e0202803d1a6447923a2cb4cc84f3e0c3f5a3",
           "url": "https://api.github.com/repos/JaberChowdhury/rust_programming/commits/966e0202803d1a6447923a2cb4cc84f3e0c3f5a3"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1
+        }
       }
     ],
     "readmes": [
@@ -7465,7 +8682,12 @@
           "sha": "b6ea3c7bf44cbd53fab7dba1c137f2a2783b4958",
           "url": "https://api.github.com/repos/JaberChowdhury/simple-full-stack/commits/b6ea3c7bf44cbd53fab7dba1c137f2a2783b4958"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 2,
+          "JSON": 4,
+          "TypeScript": 3
+        }
       }
     ],
     "readmes": [
@@ -7573,7 +8795,11 @@
           "sha": "b793b9c5fcde823c8dac15dbc5f2a926c61f9d9f",
           "url": "https://api.github.com/repos/JaberChowdhury/temperature-converter-/commits/b793b9c5fcde823c8dac15dbc5f2a926c61f9d9f"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "HTML": 1
+        }
       }
     ],
     "readmes": [
@@ -7702,7 +8928,35 @@
           "sha": "a23228e6280848f95927b95816dfeb114e811e82",
           "url": "https://api.github.com/repos/JaberChowdhury/Termux_guide/commits/a23228e6280848f95927b95816dfeb114e811e82"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 3,
+          "PowerShell": 6,
+          "Shell": 37,
+          "Config": 4,
+          "SQL": 1,
+          "Clojure": 1,
+          "C++": 1,
+          "CSS": 1,
+          "Dart": 1,
+          "Erlang": 1,
+          "F#": 1,
+          "Go": 1,
+          "Haskell": 1,
+          "HTML": 1,
+          "Java": 1,
+          "JavaScript": 2,
+          "JSON": 1,
+          "Lua": 2,
+          "PHP": 2,
+          "Perl": 2,
+          "Python": 1,
+          "Ruby": 1,
+          "Rust": 1,
+          "TypeScript": 1,
+          "Zsh": 1,
+          "Text": 2
+        }
       }
     ],
     "readmes": [
@@ -7838,7 +9092,16 @@
           "sha": "9d04cae08b6c4042584491f198f257e0c011c527",
           "url": "https://api.github.com/repos/JaberChowdhury/Text-to-svg-Generator/commits/9d04cae08b6c4042584491f198f257e0c011c527"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "HTML": 2,
+          "Markdown": 1,
+          "TypeScript": 2,
+          "CSS": 2,
+          "JavaScript": 2,
+          "Text": 1,
+          "JSON": 3
+        }
       }
     ],
     "readmes": [
@@ -7942,7 +9205,16 @@
           "sha": "f96f608ef692f3706ec84dba9b2651f4591c6805",
           "url": "https://api.github.com/repos/JaberChowdhury/text2svg-maker/commits/f96f608ef692f3706ec84dba9b2651f4591c6805"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "JavaScript": 5,
+          "Markdown": 1,
+          "JSON": 4,
+          "HTML": 1,
+          "React": 53,
+          "TypeScript": 10,
+          "CSS": 1
+        }
       },
       {
         "name": "testing-v1",
@@ -7950,7 +9222,16 @@
           "sha": "5355222020777535760d459f4b1d1a5706f782ac",
           "url": "https://api.github.com/repos/JaberChowdhury/text2svg-maker/commits/5355222020777535760d459f4b1d1a5706f782ac"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "JavaScript": 5,
+          "Markdown": 1,
+          "JSON": 4,
+          "HTML": 1,
+          "React": 53,
+          "TypeScript": 10,
+          "CSS": 1
+        }
       },
       {
         "name": "testing-v2",
@@ -7958,7 +9239,16 @@
           "sha": "42872fce1e51b6ecd08bf6c5f40c3d1d42a7db96",
           "url": "https://api.github.com/repos/JaberChowdhury/text2svg-maker/commits/42872fce1e51b6ecd08bf6c5f40c3d1d42a7db96"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "JSON": 5,
+          "JavaScript": 4,
+          "HTML": 1,
+          "TypeScript": 11,
+          "React": 53,
+          "CSS": 1
+        }
       },
       {
         "name": "testing-v3",
@@ -7966,7 +9256,16 @@
           "sha": "7d061d04a59064ab8f5e3ba0a4474d4349e8cfc9",
           "url": "https://api.github.com/repos/JaberChowdhury/text2svg-maker/commits/7d061d04a59064ab8f5e3ba0a4474d4349e8cfc9"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "JavaScript": 5,
+          "Markdown": 1,
+          "JSON": 4,
+          "HTML": 2,
+          "React": 53,
+          "TypeScript": 10,
+          "CSS": 1
+        }
       }
     ],
     "readmes": [
@@ -8098,7 +9397,15 @@
           "sha": "bcf98dc6cefc0116eb0a5291bcae7f7f0f788de2",
           "url": "https://api.github.com/repos/JaberChowdhury/Threejs-project/commits/bcf98dc6cefc0116eb0a5291bcae7f7f0f788de2"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "HTML": 1,
+          "JavaScript": 1,
+          "JSON": 1,
+          "YAML": 1,
+          "CSS": 1
+        }
       },
       {
         "name": "axesHelper",
@@ -8106,7 +9413,15 @@
           "sha": "c22ec13a58db50ff5d4d084075b371e591aaed7c",
           "url": "https://api.github.com/repos/JaberChowdhury/Threejs-project/commits/c22ec13a58db50ff5d4d084075b371e591aaed7c"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "HTML": 1,
+          "JavaScript": 1,
+          "JSON": 1,
+          "YAML": 1,
+          "CSS": 1
+        }
       },
       {
         "name": "main",
@@ -8114,7 +9429,15 @@
           "sha": "898198ed750279a72a3eea44b27a4d2c714f5290",
           "url": "https://api.github.com/repos/JaberChowdhury/Threejs-project/commits/898198ed750279a72a3eea44b27a4d2c714f5290"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "HTML": 1,
+          "JavaScript": 1,
+          "JSON": 1,
+          "YAML": 1,
+          "CSS": 1
+        }
       },
       {
         "name": "master",
@@ -8122,7 +9445,14 @@
           "sha": "651f36943c12a8882bce62e7ec7e2f8a66ba13aa",
           "url": "https://api.github.com/repos/JaberChowdhury/Threejs-project/commits/651f36943c12a8882bce62e7ec7e2f8a66ba13aa"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "HTML": 1,
+          "JavaScript": 2,
+          "JSON": 1,
+          "CSS": 1
+        }
       },
       {
         "name": "multiple_cub3_m3sh",
@@ -8130,7 +9460,15 @@
           "sha": "ca3a30836b2e4fbdf0cdcf6740786cc759847853",
           "url": "https://api.github.com/repos/JaberChowdhury/Threejs-project/commits/ca3a30836b2e4fbdf0cdcf6740786cc759847853"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "HTML": 1,
+          "JavaScript": 1,
+          "JSON": 1,
+          "YAML": 1,
+          "CSS": 1
+        }
       },
       {
         "name": "multiple_cub3_m3sh_2.0",
@@ -8138,7 +9476,15 @@
           "sha": "7de3618cc8cd7ff454f25f08816b735ddca79dcd",
           "url": "https://api.github.com/repos/JaberChowdhury/Threejs-project/commits/7de3618cc8cd7ff454f25f08816b735ddca79dcd"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "HTML": 1,
+          "JavaScript": 2,
+          "JSON": 1,
+          "YAML": 1,
+          "CSS": 1
+        }
       },
       {
         "name": "multiple_cub3_m3sh_3.0",
@@ -8146,7 +9492,15 @@
           "sha": "7ef6798eaf57b94134c265b15866d9d5b4193aef",
           "url": "https://api.github.com/repos/JaberChowdhury/Threejs-project/commits/7ef6798eaf57b94134c265b15866d9d5b4193aef"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "HTML": 1,
+          "JavaScript": 4,
+          "JSON": 1,
+          "YAML": 1,
+          "CSS": 1
+        }
       },
       {
         "name": "orbit_controls",
@@ -8154,7 +9508,15 @@
           "sha": "f8fff391f9a576dffed7d67eaf58752c4ed457e2",
           "url": "https://api.github.com/repos/JaberChowdhury/Threejs-project/commits/f8fff391f9a576dffed7d67eaf58752c4ed457e2"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "HTML": 1,
+          "JavaScript": 1,
+          "JSON": 1,
+          "YAML": 1,
+          "CSS": 1
+        }
       },
       {
         "name": "orthographic_camera",
@@ -8162,7 +9524,15 @@
           "sha": "720359cfd8f9c82fd121fde0a155ba764b8ed755",
           "url": "https://api.github.com/repos/JaberChowdhury/Threejs-project/commits/720359cfd8f9c82fd121fde0a155ba764b8ed755"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "HTML": 1,
+          "JavaScript": 1,
+          "JSON": 1,
+          "YAML": 1,
+          "CSS": 1
+        }
       },
       {
         "name": "perspective_camera",
@@ -8170,7 +9540,15 @@
           "sha": "f91f79ede57d00628f1312195d33bbcfe24c085f",
           "url": "https://api.github.com/repos/JaberChowdhury/Threejs-project/commits/f91f79ede57d00628f1312195d33bbcfe24c085f"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "HTML": 1,
+          "JavaScript": 1,
+          "JSON": 1,
+          "YAML": 1,
+          "CSS": 1
+        }
       },
       {
         "name": "template",
@@ -8178,7 +9556,15 @@
           "sha": "898198ed750279a72a3eea44b27a4d2c714f5290",
           "url": "https://api.github.com/repos/JaberChowdhury/Threejs-project/commits/898198ed750279a72a3eea44b27a4d2c714f5290"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "HTML": 1,
+          "JavaScript": 1,
+          "JSON": 1,
+          "YAML": 1,
+          "CSS": 1
+        }
       }
     ],
     "readmes": [
@@ -8309,7 +9695,15 @@
           "sha": "04fecc70475625d15bd69d33a0d875a2560bde3a",
           "url": "https://api.github.com/repos/JaberChowdhury/VanillaJs_project/commits/04fecc70475625d15bd69d33a0d875a2560bde3a"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "HTML": 1,
+          "JavaScript": 1,
+          "JSON": 1,
+          "YAML": 1,
+          "CSS": 1
+        }
       },
       {
         "name": "background-animation-effect-v2.0",
@@ -8317,7 +9711,15 @@
           "sha": "626c214739afc7c4576749f74f9d222245fa9de5",
           "url": "https://api.github.com/repos/JaberChowdhury/VanillaJs_project/commits/626c214739afc7c4576749f74f9d222245fa9de5"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "HTML": 1,
+          "JavaScript": 1,
+          "JSON": 1,
+          "YAML": 1,
+          "CSS": 1
+        }
       },
       {
         "name": "browse-pet",
@@ -8325,7 +9727,16 @@
           "sha": "55a8ab1282305c32827a27b921694209bb0f2dbd",
           "url": "https://api.github.com/repos/JaberChowdhury/VanillaJs_project/commits/55a8ab1282305c32827a27b921694209bb0f2dbd"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "HTML": 1,
+          "JSON": 2,
+          "YAML": 1,
+          "JavaScript": 2,
+          "TypeScript": 2,
+          "CSS": 1
+        }
       },
       {
         "name": "calculator",
@@ -8333,7 +9744,15 @@
           "sha": "a499349886dbf0ca9d04b0775f958ad8e06ec5d5",
           "url": "https://api.github.com/repos/JaberChowdhury/VanillaJs_project/commits/a499349886dbf0ca9d04b0775f958ad8e06ec5d5"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "HTML": 1,
+          "JavaScript": 1,
+          "JSON": 1,
+          "YAML": 1,
+          "CSS": 1
+        }
       },
       {
         "name": "code-collection",
@@ -8341,7 +9760,11 @@
           "sha": "24468ed75ecc1d90f88f124c92f4feae382a35d4",
           "url": "https://api.github.com/repos/JaberChowdhury/VanillaJs_project/commits/24468ed75ecc1d90f88f124c92f4feae382a35d4"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "HTML": 1
+        }
       },
       {
         "name": "cssbattel",
@@ -8349,7 +9772,11 @@
           "sha": "7a8385e5aa654d07e42830eb44b7c896e4a6606c",
           "url": "https://api.github.com/repos/JaberChowdhury/VanillaJs_project/commits/7a8385e5aa654d07e42830eb44b7c896e4a6606c"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "HTML": 12
+        }
       },
       {
         "name": "grid-layout",
@@ -8357,7 +9784,15 @@
           "sha": "324a5a1ff4fcee8a7d30895858dd168831a2a7c1",
           "url": "https://api.github.com/repos/JaberChowdhury/VanillaJs_project/commits/324a5a1ff4fcee8a7d30895858dd168831a2a7c1"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "HTML": 1,
+          "JSON": 2,
+          "YAML": 1,
+          "JavaScript": 2,
+          "TypeScript": 2,
+          "CSS": 1
+        }
       },
       {
         "name": "image-slider",
@@ -8365,7 +9800,15 @@
           "sha": "066431be75bf17b1514014590f8636178d466a14",
           "url": "https://api.github.com/repos/JaberChowdhury/VanillaJs_project/commits/066431be75bf17b1514014590f8636178d466a14"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "HTML": 1,
+          "JavaScript": 1,
+          "JSON": 1,
+          "YAML": 1,
+          "CSS": 1
+        }
       },
       {
         "name": "json-table-v1",
@@ -8373,7 +9816,15 @@
           "sha": "82d15e9e584fc8ca156ccf6513a971b2c6659ef5",
           "url": "https://api.github.com/repos/JaberChowdhury/VanillaJs_project/commits/82d15e9e584fc8ca156ccf6513a971b2c6659ef5"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "JSON": 3,
+          "HTML": 1,
+          "JavaScript": 2,
+          "YAML": 1,
+          "CSS": 1
+        }
       },
       {
         "name": "legal_solution",
@@ -8381,7 +9832,16 @@
           "sha": "49bdf257016e99d4e01d17eeff69b3523992006e",
           "url": "https://api.github.com/repos/JaberChowdhury/VanillaJs_project/commits/49bdf257016e99d4e01d17eeff69b3523992006e"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "HTML": 1,
+          "JSON": 2,
+          "YAML": 1,
+          "JavaScript": 2,
+          "TypeScript": 2,
+          "CSS": 1
+        }
       },
       {
         "name": "main",
@@ -8389,7 +9849,15 @@
           "sha": "eb708b5519a576403ad9b63af5c45a7e421d824c",
           "url": "https://api.github.com/repos/JaberChowdhury/VanillaJs_project/commits/eb708b5519a576403ad9b63af5c45a7e421d824c"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "HTML": 1,
+          "JavaScript": 1,
+          "JSON": 1,
+          "YAML": 1,
+          "CSS": 1
+        }
       },
       {
         "name": "nature-platter",
@@ -8397,7 +9865,16 @@
           "sha": "3ab2987b94eb4b3a4e42bf2df51c4985d9d68fd4",
           "url": "https://api.github.com/repos/JaberChowdhury/VanillaJs_project/commits/3ab2987b94eb4b3a4e42bf2df51c4985d9d68fd4"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "HTML": 1,
+          "JSON": 2,
+          "YAML": 1,
+          "JavaScript": 2,
+          "TypeScript": 2,
+          "CSS": 1
+        }
       },
       {
         "name": "smart-watch",
@@ -8405,7 +9882,12 @@
           "sha": "6d390d1c08442f179bf5f8edae9694b1a77bc469",
           "url": "https://api.github.com/repos/JaberChowdhury/VanillaJs_project/commits/6d390d1c08442f179bf5f8edae9694b1a77bc469"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "JSON": 1,
+          "HTML": 3,
+          "JavaScript": 2
+        }
       },
       {
         "name": "start-tailwind",
@@ -8413,7 +9895,15 @@
           "sha": "6644a9443339e176210e358be524c92886f45464",
           "url": "https://api.github.com/repos/JaberChowdhury/VanillaJs_project/commits/6644a9443339e176210e358be524c92886f45464"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "HTML": 1,
+          "JSON": 2,
+          "YAML": 1,
+          "JavaScript": 2,
+          "TypeScript": 2,
+          "CSS": 1
+        }
       },
       {
         "name": "starter",
@@ -8421,7 +9911,14 @@
           "sha": "789267cdd7c1cc91889977ecceb617a15fdfa4c5",
           "url": "https://api.github.com/repos/JaberChowdhury/VanillaJs_project/commits/789267cdd7c1cc91889977ecceb617a15fdfa4c5"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "HTML": 1,
+          "JSON": 2,
+          "YAML": 1,
+          "TypeScript": 2,
+          "CSS": 1
+        }
       },
       {
         "name": "threejs",
@@ -8429,7 +9926,15 @@
           "sha": "4d803fb664d4677de8cc4738048580e134372a48",
           "url": "https://api.github.com/repos/JaberChowdhury/VanillaJs_project/commits/4d803fb664d4677de8cc4738048580e134372a48"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "HTML": 1,
+          "JavaScript": 1,
+          "JSON": 1,
+          "YAML": 1,
+          "CSS": 1
+        }
       },
       {
         "name": "vitest-testing",
@@ -8437,7 +9942,12 @@
           "sha": "5c631d9268ae305785c8b2726f3637ce826b5240",
           "url": "https://api.github.com/repos/JaberChowdhury/VanillaJs_project/commits/5c631d9268ae305785c8b2726f3637ce826b5240"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "JSON": 2,
+          "TypeScript": 16
+        }
       }
     ],
     "readmes": [
@@ -8561,7 +10071,13 @@
           "sha": "1ea53cba1a9ac25ef0cd32487985806a168dd526",
           "url": "https://api.github.com/repos/JaberChowdhury/vitest-testing/commits/1ea53cba1a9ac25ef0cd32487985806a168dd526"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "YAML": 2,
+          "Markdown": 1,
+          "JSON": 3,
+          "TypeScript": 16
+        }
       }
     ],
     "readmes": [
@@ -8690,7 +10206,11 @@
           "sha": "db3b8c76819d13e7045e989432cc78701a22f2a5",
           "url": "https://api.github.com/repos/JaberChowdhury/walk-with-python/commits/db3b8c76819d13e7045e989432cc78701a22f2a5"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "Markdown": 1,
+          "Python": 6
+        }
       }
     ],
     "readmes": [
@@ -8791,7 +10311,8 @@
           "sha": "c07e06d27ffbf5f13deaf20fc7249ca74eb0ce88",
           "url": "https://api.github.com/repos/JaberChowdhury/Wallpaper/commits/c07e06d27ffbf5f13deaf20fc7249ca74eb0ce88"
         },
-        "protected": false
+        "protected": false,
+        "languages": {}
       }
     ],
     "readmes": [],
@@ -8892,7 +10413,14 @@
           "sha": "999f54c4b068354e23d41f205e207f55b9748d46",
           "url": "https://api.github.com/repos/JaberChowdhury/Zed_testing/commits/999f54c4b068354e23d41f205e207f55b9748d46"
         },
-        "protected": false
+        "protected": false,
+        "languages": {
+          "TOML": 1,
+          "YAML": 6,
+          "Markdown": 2,
+          "PowerShell": 1,
+          "Shell": 3
+        }
       }
     ],
     "readmes": [
