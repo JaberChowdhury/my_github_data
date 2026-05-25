@@ -9,7 +9,7 @@ if (!GITHUB_TOKEN) {
 }
 
 const extMap: Record<string, string> = {
-  // --- Web & UI ---
+  // Web & UI
   ".js": "JavaScript",
   ".cjs": "JavaScript",
   ".mjs": "JavaScript",
@@ -20,29 +20,21 @@ const extMap: Record<string, string> = {
   ".svelte": "Svelte",
   ".astro": "Astro",
   ".html": "HTML",
-  ".htm": "HTML",
   ".css": "CSS",
   ".scss": "SCSS",
   ".sass": "Sass",
   ".less": "Less",
-
-  // --- Systems & High Performance ---
+  // Systems & High Performance
   ".c": "C",
   ".h": "C/C++ Header",
   ".cpp": "C++",
-  ".cxx": "C++",
-  ".cc": "C++",
   ".hpp": "C++ Header",
   ".rs": "Rust",
   ".go": "Go",
   ".zig": "Zig",
-  ".nim": "Nim",
   ".asm": "Assembly",
-  ".s": "Assembly",
-
-  // --- Scripting & Shell ---
+  // Scripting & Shell
   ".py": "Python",
-  ".pyw": "Python",
   ".lua": "Lua",
   ".sh": "Shell",
   ".bash": "Bash",
@@ -50,61 +42,24 @@ const extMap: Record<string, string> = {
   ".fish": "Fish",
   ".bat": "Batch",
   ".ps1": "PowerShell",
-  ".rb": "Ruby",
-  ".pl": "Perl",
-
-  // --- Backend, Mobile & Enterprise ---
+  // Backend & Mobile
   ".java": "Java",
   ".cs": "C#",
   ".kt": "Kotlin",
-  ".kts": "Kotlin",
   ".swift": "Swift",
-  ".m": "Objective-C",
-  ".mm": "Objective-C++",
   ".php": "PHP",
   ".dart": "Dart",
-  ".ex": "Elixir",
-  ".exs": "Elixir",
-  ".erl": "Erlang",
-  ".ml": "OCaml",
-  ".fs": "F#",
-  ".clj": "Clojure",
-  ".hs": "Haskell",
-
-  // --- Graphics & Game Dev ---
-  ".wgsl": "WebGPU",
-  ".glsl": "GLSL",
-  ".vert": "Vertex Shader",
-  ".frag": "Fragment Shader",
-  ".shader": "Shader",
-  ".gd": "GDScript",
-
-  // --- Data, Config & Markup ---
+  ".sql": "SQL",
+  // Data, Config & Shader
   ".json": "JSON",
-  ".json5": "JSON5",
-  ".jsonc": "JSON with Comments",
   ".yml": "YAML",
   ".yaml": "YAML",
   ".toml": "TOML",
-  ".ini": "INI",
-  ".cfg": "Config",
-  ".conf": "Config",
-  ".env": "Environment Variables",
-  ".xml": "XML",
-  ".csv": "CSV",
   ".md": "Markdown",
-  ".mdx": "MDX",
-  ".txt": "Text",
-
-  // --- Infrastructure & Tools ---
+  ".wgsl": "WebGPU",
+  ".glsl": "GLSL",
   ".dockerfile": "Dockerfile",
-  ".tf": "Terraform",
-  ".hcl": "HCL",
-  ".nix": "Nix",
-  ".sql": "SQL",
-  ".graphql": "GraphQL",
-  ".gql": "GraphQL",
-  ".prisma": "Prisma",
+  ".env": "Config",
 };
 
 interface Repository {
@@ -127,11 +82,20 @@ interface Repository {
   open_issues_count: number;
 }
 
+interface CommitData {
+  sha: string;
+  message: string;
+  author: string;
+  date: string;
+  url: string;
+}
+
 interface GitHubBranch {
   name: string;
   commit?: { sha: string; url: string };
   protected?: boolean;
   languages?: Record<string, number>;
+  recentCommits?: CommitData[];
 }
 
 interface BranchData {
@@ -141,19 +105,11 @@ interface BranchData {
 interface LanguageStats {
   [language: string]: number;
 }
-interface CommitData {
-  sha: string;
-  message: string;
-  author: string;
-  date: string;
-  url: string;
-}
 
 interface CombinedRepo extends Repository {
   branches: GitHubBranch[];
   readmes: BranchData[];
   languages: LanguageStats;
-  recentCommits: CommitData[];
   weeklyActivity: number[];
 }
 
@@ -193,23 +149,16 @@ async function processRepository(repo: any): Promise<CombinedRepo> {
 
   const repoUrl = `https://api.github.com/repos/${USERNAME}/${repo.name}`;
 
-  const [branchRes, langRes, statsRes, readmeRes, commitRes] =
-    await Promise.allSettled([
-      fetch(`${repoUrl}/branches`, { headers }),
-      fetch(`${repoUrl}/languages`, { headers }),
-      fetch(`${repoUrl}/stats/participation`, { headers }),
-      baseRepo.default_branch
-        ? fetch(`${repoUrl}/readme?ref=${baseRepo.default_branch}`, {
-            headers: { ...headers, Accept: "application/vnd.github.v3.html" },
-          })
-        : Promise.resolve(null),
-      baseRepo.default_branch
-        ? fetch(
-            `${repoUrl}/commits?sha=${baseRepo.default_branch}&per_page=5`,
-            { headers },
-          )
-        : Promise.resolve(null),
-    ]);
+  const [branchRes, langRes, statsRes, readmeRes] = await Promise.allSettled([
+    fetch(`${repoUrl}/branches`, { headers }),
+    fetch(`${repoUrl}/languages`, { headers }),
+    fetch(`${repoUrl}/stats/participation`, { headers }),
+    baseRepo.default_branch
+      ? fetch(`${repoUrl}/readme?ref=${baseRepo.default_branch}`, {
+          headers: { ...headers, Accept: "application/vnd.github.v3.html" },
+        })
+      : Promise.resolve(null),
+  ]);
 
   let branches: GitHubBranch[] = [];
   if (branchRes.status === "fulfilled" && branchRes.value.ok) {
@@ -222,9 +171,8 @@ async function processRepository(repo: any): Promise<CombinedRepo> {
   }
 
   let languages: LanguageStats = {};
-  if (langRes.status === "fulfilled" && langRes.value.ok) {
+  if (langRes.status === "fulfilled" && langRes.value.ok)
     languages = await langRes.value.json();
-  }
 
   let weeklyActivity: number[] = [];
   if (
@@ -248,35 +196,25 @@ async function processRepository(repo: any): Promise<CombinedRepo> {
     });
   }
 
-  let recentCommits: CommitData[] = [];
-  if (
-    commitRes.status === "fulfilled" &&
-    commitRes.value &&
-    commitRes.value.ok
-  ) {
-    const rawCommits = await commitRes.value.json();
-    recentCommits = rawCommits.map((c: any) => ({
-      sha: c.sha,
-      message: c.commit.message,
-      author: c.commit.author?.name || "Unknown",
-      date: c.commit.author?.date || "",
-      url: c.html_url,
-    }));
-  }
-
   if (branches.length > 0) {
     const branchChunks = chunkArray(branches, 3);
     for (const chunk of branchChunks) {
       await Promise.all(
         chunk.map(async (branch) => {
           if (!branch.commit?.sha) return;
+
           try {
-            const treeRes = await fetch(
-              `${repoUrl}/git/trees/${branch.commit.sha}?recursive=1`,
-              { headers },
-            );
-            if (treeRes.ok) {
-              const treeData = await treeRes.json();
+            const [treeRes, commitRes] = await Promise.allSettled([
+              fetch(`${repoUrl}/git/trees/${branch.commit.sha}?recursive=1`, {
+                headers,
+              }),
+              fetch(`${repoUrl}/commits?sha=${branch.commit.sha}&per_page=5`, {
+                headers,
+              }),
+            ]);
+
+            if (treeRes.status === "fulfilled" && treeRes.value.ok) {
+              const treeData = await treeRes.value.json();
               const branchLanguages: Record<string, number> = {};
               for (const file of treeData.tree || []) {
                 if (file.type === "blob") {
@@ -290,20 +228,24 @@ async function processRepository(repo: any): Promise<CombinedRepo> {
               }
               branch.languages = branchLanguages;
             }
+
+            if (commitRes.status === "fulfilled" && commitRes.value.ok) {
+              const rawCommits = await commitRes.value.json();
+              branch.recentCommits = rawCommits.map((c: any) => ({
+                sha: c.sha,
+                message: c.commit.message,
+                author: c.commit.author?.name || "Unknown",
+                date: c.commit.author?.date || "",
+                url: c.html_url,
+              }));
+            }
           } catch (err) {}
         }),
       );
     }
   }
 
-  return {
-    ...baseRepo,
-    branches,
-    readmes,
-    languages,
-    recentCommits,
-    weeklyActivity,
-  };
+  return { ...baseRepo, branches, readmes, languages, weeklyActivity };
 }
 
 async function buildPortfolioAPI() {
@@ -332,7 +274,6 @@ async function buildPortfolioAPI() {
     );
     finalData.push(...chunkResults);
 
-    // CRITICAL: Prevent GitHub Abuse Detection bans in CI environments
     if (i < repoChunks.length - 1) {
       await Bun.sleep(1500);
     }
