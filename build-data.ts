@@ -62,26 +62,22 @@ const extMap: Record<string, string> = {
   ".env": "Config",
 };
 
-interface Repository {
+// --- SPLIT INTERFACES ---
+
+// 1. Lightweight Summary (For the index page grid)
+interface RepoSummary {
   id: number;
   name: string;
-  full_name: string;
-  html_url: string;
   description: string | null;
+  html_url: string;
   homepage: string | null;
-  stargazers_count: number;
-  watchers_count: number;
-  forks_count: number;
   language: string | null;
-  updated_at: string;
-  pushed_at: string;
-  default_branch?: string;
-  fork?: boolean;
   topics: string[];
-  size: number;
-  open_issues_count: number;
+  stargazers_count: number;
+  updated_at: string;
 }
 
+// 2. Full Detailed Interfaces (For individual repo files)
 interface CommitData {
   sha: string;
   message: string;
@@ -106,7 +102,15 @@ interface LanguageStats {
   [language: string]: number;
 }
 
-interface CombinedRepo extends Repository {
+interface DetailedRepo extends RepoSummary {
+  full_name: string;
+  watchers_count: number;
+  forks_count: number;
+  pushed_at: string;
+  default_branch?: string;
+  fork?: boolean;
+  size: number;
+  open_issues_count: number;
   branches: GitHubBranch[];
   readmes: BranchData[];
   languages: LanguageStats;
@@ -126,25 +130,37 @@ function chunkArray<T>(array: T[], size: number): T[][] {
   return chunks;
 }
 
-async function processRepository(repo: any): Promise<CombinedRepo> {
-  const baseRepo: Repository = {
+async function processRepository(
+  repo: any,
+): Promise<{ summary: RepoSummary; detailed: DetailedRepo }> {
+  // Extract Lightweight Summary
+  const summary: RepoSummary = {
     id: repo.id,
     name: repo.name,
-    full_name: repo.full_name,
-    html_url: repo.html_url,
     description: repo.description,
+    html_url: repo.html_url,
     homepage: repo.homepage,
+    language: repo.language,
+    topics: repo.topics || [],
     stargazers_count: repo.stargazers_count,
+    updated_at: repo.updated_at,
+  };
+
+  // Base setup for Detailed Repo
+  const baseDetailedRepo: DetailedRepo = {
+    ...summary,
+    full_name: repo.full_name,
     watchers_count: repo.watchers_count,
     forks_count: repo.forks_count,
-    language: repo.language,
-    updated_at: repo.updated_at,
     pushed_at: repo.pushed_at,
     default_branch: repo.default_branch,
     fork: repo.fork,
-    topics: repo.topics || [],
     size: repo.size || 0,
     open_issues_count: repo.open_issues_count || 0,
+    branches: [],
+    readmes: [],
+    languages: {},
+    weeklyActivity: [],
   };
 
   const repoUrl = `https://api.github.com/repos/${USERNAME}/${repo.name}`;
@@ -153,51 +169,48 @@ async function processRepository(repo: any): Promise<CombinedRepo> {
     fetch(`${repoUrl}/branches`, { headers }),
     fetch(`${repoUrl}/languages`, { headers }),
     fetch(`${repoUrl}/stats/participation`, { headers }),
-    baseRepo.default_branch
-      ? fetch(`${repoUrl}/readme?ref=${baseRepo.default_branch}`, {
+    baseDetailedRepo.default_branch
+      ? fetch(`${repoUrl}/readme?ref=${baseDetailedRepo.default_branch}`, {
           headers: { ...headers, Accept: "application/vnd.github.v3.html" },
         })
       : Promise.resolve(null),
   ]);
 
-  let branches: GitHubBranch[] = [];
   if (branchRes.status === "fulfilled" && branchRes.value.ok) {
     const rawBranches = await branchRes.value.json();
-    branches = rawBranches.map((b: any) => ({
+    baseDetailedRepo.branches = rawBranches.map((b: any) => ({
       name: b.name,
       commit: { sha: b.commit.sha, url: b.commit.url },
       protected: b.protected,
     }));
   }
 
-  let languages: LanguageStats = {};
-  if (langRes.status === "fulfilled" && langRes.value.ok)
-    languages = await langRes.value.json();
+  if (langRes.status === "fulfilled" && langRes.value.ok) {
+    baseDetailedRepo.languages = await langRes.value.json();
+  }
 
-  let weeklyActivity: number[] = [];
   if (
     statsRes.status === "fulfilled" &&
     statsRes.value.ok &&
     statsRes.value.status === 200
   ) {
     const statsData = await statsRes.value.json();
-    weeklyActivity = statsData.owner || [];
+    baseDetailedRepo.weeklyActivity = statsData.owner || [];
   }
 
-  const readmes: BranchData[] = [];
   if (
     readmeRes.status === "fulfilled" &&
     readmeRes.value &&
     readmeRes.value.ok
   ) {
-    readmes.push({
-      name: baseRepo.default_branch as string,
+    baseDetailedRepo.readmes.push({
+      name: baseDetailedRepo.default_branch as string,
       readmeHtml: await readmeRes.value.text(),
     });
   }
 
-  if (branches.length > 0) {
-    const branchChunks = chunkArray(branches, 3);
+  if (baseDetailedRepo.branches.length > 0) {
+    const branchChunks = chunkArray(baseDetailedRepo.branches, 3);
     for (const chunk of branchChunks) {
       await Promise.all(
         chunk.map(async (branch) => {
@@ -245,11 +258,14 @@ async function processRepository(repo: any): Promise<CombinedRepo> {
     }
   }
 
-  return { ...baseRepo, branches, readmes, languages, weeklyActivity };
+  return { summary, detailed: baseDetailedRepo };
 }
 
 async function buildPortfolioAPI() {
-  await mkdir("./api", { recursive: true });
+  // Create a sub-folder specifically for our new routed API
+  const outDir = "./api/projects";
+  await mkdir(outDir, { recursive: true });
+
   console.log("Fetching main repository list...");
 
   const repoRes = await fetch(
@@ -259,7 +275,7 @@ async function buildPortfolioAPI() {
   if (!repoRes.ok) throw new Error(`Failed to fetch repos: ${repoRes.status}`);
 
   const rawRepos = await repoRes.json();
-  const finalData: CombinedRepo[] = [];
+  const summaryFeed: RepoSummary[] = [];
 
   const repoChunks = chunkArray(rawRepos, 5);
 
@@ -269,19 +285,34 @@ async function buildPortfolioAPI() {
       `-> Processing batch ${i + 1} of ${repoChunks.length} (${chunk.length} repos)...`,
     );
 
+    // Process the chunk concurrently
     const chunkResults = await Promise.all(
       chunk.map((repo) => processRepository(repo)),
     );
-    finalData.push(...chunkResults);
+
+    for (const result of chunkResults) {
+      // 1. Add the lightweight summary to our index array
+      summaryFeed.push(result.summary);
+
+      // 2. Immediately write the detailed, heavy JSON file for this specific repository
+      await Bun.write(
+        `${outDir}/${result.summary.name}.json`,
+        JSON.stringify(result.detailed, null, 2),
+      );
+    }
 
     if (i < repoChunks.length - 1) {
       await Bun.sleep(1500);
     }
   }
 
-  await Bun.write("./api/portfolio.json", JSON.stringify(finalData, null, 2));
+  // 3. Write the final lightweight index file
+  await Bun.write(`${outDir}/index.json`, JSON.stringify(summaryFeed, null, 2));
+
+  console.log(`\n✅ Complete! `);
+  console.log(`📄 Saved lightweight feed to: ${outDir}/index.json`);
   console.log(
-    `\n✅ Complete! Saved ${finalData.length} repos to api/portfolio.json`,
+    `📂 Saved ${summaryFeed.length} detailed repo files into: ${outDir}/`,
   );
 }
 
