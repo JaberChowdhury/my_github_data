@@ -1,4 +1,3 @@
-// build-data.ts
 import { mkdir } from "node:fs/promises";
 
 const GITHUB_TOKEN = process.env.PERSONAL_GITHUB_TOKEN;
@@ -9,7 +8,7 @@ if (!GITHUB_TOKEN) {
   process.exit(1);
 }
 
-// 1. Define your exact interfaces
+// --- CORE INTERFACES ---
 interface Repository {
   id: number;
   name: string;
@@ -25,6 +24,9 @@ interface Repository {
   pushed_at: string;
   default_branch?: string;
   fork?: boolean;
+  topics: string[];
+  size: number;
+  open_issues_count: number;
 }
 
 interface GitHubBranch {
@@ -38,10 +40,26 @@ interface BranchData {
   readmeHtml: string;
 }
 
-// The final combined object
+// --- STATS & COMMITS INTERFACES ---
+interface LanguageStats {
+  [language: string]: number;
+}
+
+interface CommitData {
+  sha: string;
+  message: string;
+  author: string;
+  date: string;
+  url: string;
+}
+
+// --- FINAL COMBINED OBJECT ---
 interface CombinedRepo extends Repository {
   branches: GitHubBranch[];
   readmes: BranchData[];
+  languages: LanguageStats;
+  recentCommits: CommitData[];
+  weeklyActivity: number[];
 }
 
 const headers = {
@@ -58,6 +76,7 @@ async function buildPortfolioAPI() {
     `https://api.github.com/users/${USERNAME}/repos?per_page=100`,
     { headers },
   );
+
   if (!repoRes.ok) throw new Error(`Failed to fetch repos: ${repoRes.status}`);
   const rawRepos = await repoRes.json();
 
@@ -65,9 +84,8 @@ async function buildPortfolioAPI() {
 
   // Loop through each repo sequentially to respect rate limits
   for (const repo of rawRepos) {
-    console.log(`Processing: ${repo.name}...`);
+    console.log(`\nProcessing: ${repo.name}...`);
 
-    // Extract only the fields you requested for the base Repository interface
     const baseRepo: Repository = {
       id: repo.id,
       name: repo.name,
@@ -83,9 +101,12 @@ async function buildPortfolioAPI() {
       pushed_at: repo.pushed_at,
       default_branch: repo.default_branch,
       fork: repo.fork,
+      topics: repo.topics || [],
+      size: repo.size || 0,
+      open_issues_count: repo.open_issues_count || 0,
     };
 
-    // Fetch branches for this repo
+    // 1. Fetch Branches
     const branchRes = await fetch(
       `https://api.github.com/repos/${USERNAME}/${repo.name}/branches`,
       { headers },
@@ -100,9 +121,7 @@ async function buildPortfolioAPI() {
       }));
     }
 
-    // Fetch HTML Readme for the default branch
-    // Note: We are fetching just the default branch to keep the JSON size manageable,
-    // but storing it in the BranchData array exactly as requested.
+    // 2. Fetch HTML Readme
     const readmes: BranchData[] = [];
     if (baseRepo.default_branch) {
       const readmeRes = await fetch(
@@ -110,7 +129,6 @@ async function buildPortfolioAPI() {
         {
           headers: {
             ...headers,
-            // This special header tells GitHub to return HTML instead of JSON!
             Accept: "application/vnd.github.v3.html",
           },
         },
@@ -125,18 +143,71 @@ async function buildPortfolioAPI() {
       }
     }
 
+    // 3. Fetch Language Stats
+    const langRes = await fetch(
+      `https://api.github.com/repos/${USERNAME}/${repo.name}/languages`,
+      { headers },
+    );
+    let languages: LanguageStats = {};
+    if (langRes.ok) {
+      languages = await langRes.json();
+    }
+
+    // 4. Fetch Recent Commits (Top 5)
+    let recentCommits: CommitData[] = [];
+    if (baseRepo.default_branch) {
+      const commitRes = await fetch(
+        `https://api.github.com/repos/${USERNAME}/${repo.name}/commits?sha=${baseRepo.default_branch}&per_page=5`,
+        { headers },
+      );
+
+      if (commitRes.ok) {
+        const rawCommits = await commitRes.json();
+        recentCommits = rawCommits.map((c: any) => ({
+          sha: c.sha,
+          message: c.commit.message,
+          author: c.commit.author?.name || "Unknown",
+          date: c.commit.author?.date || "",
+          url: c.html_url,
+        }));
+      }
+    }
+
+    // 5. Fetch 52-Week Activity Sparkline (Single Pass)
+    let weeklyActivity: number[] = [];
+    try {
+      const statsRes = await fetch(
+        `https://api.github.com/repos/${USERNAME}/${repo.name}/stats/participation`,
+        { headers },
+      );
+
+      if (statsRes.ok && statsRes.status === 200) {
+        const statsData = await statsRes.json();
+        weeklyActivity = statsData.owner || [];
+      } else if (statsRes.status === 202) {
+        console.log(
+          `  ℹ️ GitHub is calculating stats. Will populate on next Action run.`,
+        );
+      }
+    } catch (err) {
+      console.error(`  ⚠️ Network error fetching activity stats.`);
+    }
+
     // Combine it all
     finalData.push({
       ...baseRepo,
       branches,
       readmes,
+      languages,
+      recentCommits,
+      weeklyActivity,
     });
   }
 
   // Save the massive combined JSON file
   await Bun.write("./api/portfolio.json", JSON.stringify(finalData, null, 2));
   console.log(
-    `✅ Complete! Saved ${finalData.length} repos to api/portfolio.json`,
+    `\n✅ Complete! Saved ${finalData.length} repos to api/portfolio.json`,
   );
 }
 
