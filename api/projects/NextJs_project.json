@@ -11,10 +11,10 @@
   "full_name": "JaberChowdhury/NextJs_project",
   "watchers_count": 0,
   "forks_count": 0,
-  "pushed_at": "2026-05-25T17:09:52Z",
+  "pushed_at": "2026-05-25T19:17:42Z",
   "default_branch": "main",
   "fork": false,
-  "size": 60708,
+  "size": 60741,
   "open_issues_count": 0,
   "branches": [
     {
@@ -1083,18 +1083,32 @@
     {
       "name": "portfolio-v2",
       "commit": {
-        "sha": "d29bf44a548e957a54a433536b8bbc6026f4512d",
-        "url": "https://api.github.com/repos/JaberChowdhury/NextJs_project/commits/d29bf44a548e957a54a433536b8bbc6026f4512d"
+        "sha": "8af4ef0ec257cc82eb106a8218dc1f8d48b6ac38",
+        "url": "https://api.github.com/repos/JaberChowdhury/NextJs_project/commits/8af4ef0ec257cc82eb106a8218dc1f8d48b6ac38"
       },
       "protected": false,
       "languages": {
         "Markdown": 3,
         "JSON": 4,
-        "TypeScript": 20,
+        "TypeScript": 21,
         "React": 48,
         "CSS": 1
       },
       "recentCommits": [
+        {
+          "sha": "8af4ef0ec257cc82eb106a8218dc1f8d48b6ac38",
+          "message": "Improve Preloader navigation and project metadata\n\n- Implement client-side routing detection in Preloader to display\n  loading\n  states on navigation.\n- Update project section metadata and localization labels.\n- Clean up minor code formatting and import order issues.",
+          "author": "jaber",
+          "date": "2026-05-25T19:17:39Z",
+          "url": "https://github.com/JaberChowdhury/NextJs_project/commit/8af4ef0ec257cc82eb106a8218dc1f8d48b6ac38"
+        },
+        {
+          "sha": "09adfa94376b20a9d83a665a0e9106a0fc90c757",
+          "message": "feat: integrate preloader, simplify project data model, and implement server-side route for repo fetching",
+          "author": "jaber",
+          "date": "2026-05-25T18:16:22Z",
+          "url": "https://github.com/JaberChowdhury/NextJs_project/commit/09adfa94376b20a9d83a665a0e9106a0fc90c757"
+        },
         {
           "sha": "d29bf44a548e957a54a433536b8bbc6026f4512d",
           "message": "Refactor : project list UI and optimize navbar for mobile\n\n- Replace standard inputs with MUI InputBase and consolidate hover\n  styles\n- Add language-specific icons and color coding to project repository\n  cards\n- Enforce English-only interface for mobile viewports in the navigation",
@@ -1115,20 +1129,6 @@
           "author": "jaber",
           "date": "2026-05-25T09:09:13Z",
           "url": "https://github.com/JaberChowdhury/NextJs_project/commit/88d16d2d19daa7a38bb6d276c6e05c543f189f59"
-        },
-        {
-          "sha": "3309e486d93d1314018bfbbefe5670ab16c97535",
-          "message": "Refactor project structure and cleanup\n\n- Remove unused HeroSection.tsx\n- Refactor theme integration using ThemeRegistry\n- Clean up unused imports and styles across multiple components\n- Update project accessibility and color theme references",
-          "author": "jaber",
-          "date": "2026-05-24T19:06:19Z",
-          "url": "https://github.com/JaberChowdhury/NextJs_project/commit/3309e486d93d1314018bfbbefe5670ab16c97535"
-        },
-        {
-          "sha": "75cad7a8af024ee2be3db33bea1aca7d5a86cf7a",
-          "message": "Move Footer component to RootLayout",
-          "author": "jaber",
-          "date": "2026-05-24T18:30:56Z",
-          "url": "https://github.com/JaberChowdhury/NextJs_project/commit/75cad7a8af024ee2be3db33bea1aca7d5a86cf7a"
         }
       ]
     },

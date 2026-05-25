@@ -7,31 +7,38 @@
   "language": "TypeScript",
   "topics": [],
   "stargazers_count": 0,
-  "updated_at": "2026-05-25T17:09:23Z",
+  "updated_at": "2026-05-25T17:12:22Z",
   "full_name": "JaberChowdhury/my_github_data",
   "watchers_count": 0,
   "forks_count": 0,
-  "pushed_at": "2026-05-25T17:09:19Z",
+  "pushed_at": "2026-05-25T17:12:18Z",
   "default_branch": "main",
   "fork": false,
-  "size": 269,
+  "size": 396,
   "open_issues_count": 0,
   "branches": [
     {
       "name": "main",
       "commit": {
-        "sha": "de620783a3c2d0d257fd9f55a33523f94466de54",
-        "url": "https://api.github.com/repos/JaberChowdhury/my_github_data/commits/de620783a3c2d0d257fd9f55a33523f94466de54"
+        "sha": "ebad27fb12f0bf815632d3ca120b1d164d0074da",
+        "url": "https://api.github.com/repos/JaberChowdhury/my_github_data/commits/ebad27fb12f0bf815632d3ca120b1d164d0074da"
       },
       "protected": false,
       "languages": {
         "Config": 1,
         "YAML": 1,
         "Markdown": 1,
-        "JSON": 1,
+        "JSON": 65,
         "TypeScript": 1
       },
       "recentCommits": [
+        {
+          "sha": "ebad27fb12f0bf815632d3ca120b1d164d0074da",
+          "message": "chore: auto-update portfolio data",
+          "author": "github-actions[bot]",
+          "date": "2026-05-25T17:12:17Z",
+          "url": "https://github.com/JaberChowdhury/my_github_data/commit/ebad27fb12f0bf815632d3ca120b1d164d0074da"
+        },
         {
           "sha": "de620783a3c2d0d257fd9f55a33523f94466de54",
           "message": "Update build-data.ts",
@@ -59,13 +66,6 @@
           "author": "github-actions[bot]",
           "date": "2026-05-25T15:04:14Z",
           "url": "https://github.com/JaberChowdhury/my_github_data/commit/eaccf6871df833d1ea28e738319060c7b6870ea4"
-        },
-        {
-          "sha": "0ff0ed46f287aa7d4c5d9b3c36056c686aed7733",
-          "message": "Refactor repository data processing\n\n- Prune file extension mapping to reduce complexity\n- Move recent commit fetching from global repository scope to per-branch\n- Update repository data interfaces to reflect revised structure",
-          "author": "jaber",
-          "date": "2026-05-25T15:02:37Z",
-          "url": "https://github.com/JaberChowdhury/my_github_data/commit/0ff0ed46f287aa7d4c5d9b3c36056c686aed7733"
         }
       ]
     }
