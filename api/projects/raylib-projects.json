@@ -1,0 +1,424 @@
+{
+  "id": 1131608740,
+  "name": "raylib-projects",
+  "description": "My raylib projects",
+  "html_url": "https://github.com/JaberChowdhury/raylib-projects",
+  "homepage": "",
+  "language": "C++",
+  "topics": [],
+  "stargazers_count": 0,
+  "updated_at": "2026-01-10T18:01:06Z",
+  "full_name": "JaberChowdhury/raylib-projects",
+  "watchers_count": 0,
+  "forks_count": 0,
+  "pushed_at": "2026-02-04T18:14:16Z",
+  "default_branch": "main",
+  "fork": false,
+  "size": 4563,
+  "open_issues_count": 0,
+  "branches": [
+    {
+      "name": "bouncing-ball",
+      "commit": {
+        "sha": "bf35d10705f24318e0664258291c4e843bdffe97",
+        "url": "https://api.github.com/repos/JaberChowdhury/raylib-projects/commits/bf35d10705f24318e0664258291c4e843bdffe97"
+      },
+      "protected": false,
+      "languages": {
+        "JSON": 1,
+        "C++": 3,
+        "C/C++ Header": 2,
+        "Markdown": 1,
+        "Shell": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "bf35d10705f24318e0664258291c4e843bdffe97",
+          "message": "addddddd",
+          "author": "jaber",
+          "date": "2026-01-22T14:32:57Z",
+          "url": "https://github.com/JaberChowdhury/raylib-projects/commit/bf35d10705f24318e0664258291c4e843bdffe97"
+        },
+        {
+          "sha": "0cec1212920f93d68de0b28ab0882344462cc8ab",
+          "message": "add : something",
+          "author": "jaber",
+          "date": "2026-01-22T08:22:58Z",
+          "url": "https://github.com/JaberChowdhury/raylib-projects/commit/0cec1212920f93d68de0b28ab0882344462cc8ab"
+        },
+        {
+          "sha": "f9d61c216ff2ecb3b2ea666ed7c6a418a3570990",
+          "message": "refactor : code",
+          "author": "jaber",
+          "date": "2026-01-11T12:43:17Z",
+          "url": "https://github.com/JaberChowdhury/raylib-projects/commit/f9d61c216ff2ecb3b2ea666ed7c6a418a3570990"
+        },
+        {
+          "sha": "c9eeb4d318e32f80890ff3a4e1cf125e7b8e48e0",
+          "message": "add : bouncing ball",
+          "author": "jaber",
+          "date": "2026-01-11T11:42:29Z",
+          "url": "https://github.com/JaberChowdhury/raylib-projects/commit/c9eeb4d318e32f80890ff3a4e1cf125e7b8e48e0"
+        },
+        {
+          "sha": "c5b14743f172ffb5cc0f0ff287a8e154c2d41e57",
+          "message": "add : some practises",
+          "author": "jaber",
+          "date": "2026-01-10T20:19:32Z",
+          "url": "https://github.com/JaberChowdhury/raylib-projects/commit/c5b14743f172ffb5cc0f0ff287a8e154c2d41e57"
+        }
+      ]
+    },
+    {
+      "name": "click-button",
+      "commit": {
+        "sha": "cb36fa508f193f14090f0decade624aaebfb5ef1",
+        "url": "https://api.github.com/repos/JaberChowdhury/raylib-projects/commits/cb36fa508f193f14090f0decade624aaebfb5ef1"
+      },
+      "protected": false,
+      "languages": {
+        "JSON": 1,
+        "C++": 2,
+        "Markdown": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "cb36fa508f193f14090f0decade624aaebfb5ef1",
+          "message": "done !! I learned something",
+          "author": "jaber",
+          "date": "2026-02-04T18:14:12Z",
+          "url": "https://github.com/JaberChowdhury/raylib-projects/commit/cb36fa508f193f14090f0decade624aaebfb5ef1"
+        },
+        {
+          "sha": "e1e79202918dcabe1d1980b0f0f14526185d9356",
+          "message": "whatever",
+          "author": "jaber",
+          "date": "2026-02-04T16:38:36Z",
+          "url": "https://github.com/JaberChowdhury/raylib-projects/commit/e1e79202918dcabe1d1980b0f0f14526185d9356"
+        },
+        {
+          "sha": "db15ed835863bc7b6521ab1262e975b784458c61",
+          "message": "add : game logic",
+          "author": "jaber",
+          "date": "2026-02-04T10:01:20Z",
+          "url": "https://github.com/JaberChowdhury/raylib-projects/commit/db15ed835863bc7b6521ab1262e975b784458c61"
+        },
+        {
+          "sha": "b7a25047771a20a9774618c8675470a654de803e",
+          "message": "format",
+          "author": "jaber",
+          "date": "2026-02-03T04:38:24Z",
+          "url": "https://github.com/JaberChowdhury/raylib-projects/commit/b7a25047771a20a9774618c8675470a654de803e"
+        },
+        {
+          "sha": "58052836ad3f117f5219cf4c337e4e7531f01fbd",
+          "message": "add : clang format file",
+          "author": "jaber",
+          "date": "2026-01-10T18:00:59Z",
+          "url": "https://github.com/JaberChowdhury/raylib-projects/commit/58052836ad3f117f5219cf4c337e4e7531f01fbd"
+        }
+      ]
+    },
+    {
+      "name": "main",
+      "commit": {
+        "sha": "58052836ad3f117f5219cf4c337e4e7531f01fbd",
+        "url": "https://api.github.com/repos/JaberChowdhury/raylib-projects/commits/58052836ad3f117f5219cf4c337e4e7531f01fbd"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "C++": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "58052836ad3f117f5219cf4c337e4e7531f01fbd",
+          "message": "add : clang format file",
+          "author": "jaber",
+          "date": "2026-01-10T18:00:59Z",
+          "url": "https://github.com/JaberChowdhury/raylib-projects/commit/58052836ad3f117f5219cf4c337e4e7531f01fbd"
+        },
+        {
+          "sha": "f6b2894c46eac4ec7ccb139a5d3c7f8ae30fc67a",
+          "message": "first commit",
+          "author": "jaber",
+          "date": "2026-01-10T10:58:14Z",
+          "url": "https://github.com/JaberChowdhury/raylib-projects/commit/f6b2894c46eac4ec7ccb139a5d3c7f8ae30fc67a"
+        },
+        {
+          "sha": "af9030e5534e41674abe85ef927a6c6d662cc9dc",
+          "message": "init : first commit",
+          "author": "jaber",
+          "date": "2026-01-10T10:57:15Z",
+          "url": "https://github.com/JaberChowdhury/raylib-projects/commit/af9030e5534e41674abe85ef927a6c6d662cc9dc"
+        }
+      ]
+    },
+    {
+      "name": "material_you_color",
+      "commit": {
+        "sha": "85c18067e407d4f3ee6552fac4b24cefe06e1c4b",
+        "url": "https://api.github.com/repos/JaberChowdhury/raylib-projects/commits/85c18067e407d4f3ee6552fac4b24cefe06e1c4b"
+      },
+      "protected": false,
+      "languages": {
+        "JSON": 1,
+        "C++": 8,
+        "C++ Header": 1,
+        "Markdown": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "85c18067e407d4f3ee6552fac4b24cefe06e1c4b",
+          "message": "lol",
+          "author": "jaber",
+          "date": "2026-01-22T10:20:11Z",
+          "url": "https://github.com/JaberChowdhury/raylib-projects/commit/85c18067e407d4f3ee6552fac4b24cefe06e1c4b"
+        },
+        {
+          "sha": "935a47a99f652441ee1dbcdb2a9ee58b68d8b4c6",
+          "message": "add : only color staff",
+          "author": "jaber",
+          "date": "2026-01-22T05:56:41Z",
+          "url": "https://github.com/JaberChowdhury/raylib-projects/commit/935a47a99f652441ee1dbcdb2a9ee58b68d8b4c6"
+        },
+        {
+          "sha": "bd3089ec91887449eadfe41b4dd6829118a32ca4",
+          "message": "add && clean : add updated task.json\nand removed pushed executable",
+          "author": "jaber",
+          "date": "2026-01-22T05:21:42Z",
+          "url": "https://github.com/JaberChowdhury/raylib-projects/commit/bd3089ec91887449eadfe41b4dd6829118a32ca4"
+        },
+        {
+          "sha": "2a38b1ae80b76fe8d64103a643bb01c3c6980649",
+          "message": "add : so many staff !!!",
+          "author": "jaber",
+          "date": "2026-01-22T05:10:12Z",
+          "url": "https://github.com/JaberChowdhury/raylib-projects/commit/2a38b1ae80b76fe8d64103a643bb01c3c6980649"
+        },
+        {
+          "sha": "513bf654f4e88ae127bc580e855e64c3861879b6",
+          "message": "add : clion config !!!",
+          "author": "jaber",
+          "date": "2026-01-14T15:21:51Z",
+          "url": "https://github.com/JaberChowdhury/raylib-projects/commit/513bf654f4e88ae127bc580e855e64c3861879b6"
+        }
+      ]
+    },
+    {
+      "name": "practise",
+      "commit": {
+        "sha": "759137f8b1ca6aecd69a527dda770f470245163a",
+        "url": "https://api.github.com/repos/JaberChowdhury/raylib-projects/commits/759137f8b1ca6aecd69a527dda770f470245163a"
+      },
+      "protected": false,
+      "languages": {
+        "JSON": 1,
+        "Markdown": 1,
+        "C++": 13
+      },
+      "recentCommits": [
+        {
+          "sha": "759137f8b1ca6aecd69a527dda770f470245163a",
+          "message": "update : ??",
+          "author": "jaber",
+          "date": "2026-02-03T04:36:33Z",
+          "url": "https://github.com/JaberChowdhury/raylib-projects/commit/759137f8b1ca6aecd69a527dda770f470245163a"
+        },
+        {
+          "sha": "bd3089ec91887449eadfe41b4dd6829118a32ca4",
+          "message": "add && clean : add updated task.json\nand removed pushed executable",
+          "author": "jaber",
+          "date": "2026-01-22T05:21:42Z",
+          "url": "https://github.com/JaberChowdhury/raylib-projects/commit/bd3089ec91887449eadfe41b4dd6829118a32ca4"
+        },
+        {
+          "sha": "2a38b1ae80b76fe8d64103a643bb01c3c6980649",
+          "message": "add : so many staff !!!",
+          "author": "jaber",
+          "date": "2026-01-22T05:10:12Z",
+          "url": "https://github.com/JaberChowdhury/raylib-projects/commit/2a38b1ae80b76fe8d64103a643bb01c3c6980649"
+        },
+        {
+          "sha": "513bf654f4e88ae127bc580e855e64c3861879b6",
+          "message": "add : clion config !!!",
+          "author": "jaber",
+          "date": "2026-01-14T15:21:51Z",
+          "url": "https://github.com/JaberChowdhury/raylib-projects/commit/513bf654f4e88ae127bc580e855e64c3861879b6"
+        },
+        {
+          "sha": "c9eeb4d318e32f80890ff3a4e1cf125e7b8e48e0",
+          "message": "add : bouncing ball",
+          "author": "jaber",
+          "date": "2026-01-11T11:42:29Z",
+          "url": "https://github.com/JaberChowdhury/raylib-projects/commit/c9eeb4d318e32f80890ff3a4e1cf125e7b8e48e0"
+        }
+      ]
+    },
+    {
+      "name": "tic-toc-toe",
+      "commit": {
+        "sha": "db15ed835863bc7b6521ab1262e975b784458c61",
+        "url": "https://api.github.com/repos/JaberChowdhury/raylib-projects/commits/db15ed835863bc7b6521ab1262e975b784458c61"
+      },
+      "protected": false,
+      "languages": {
+        "JSON": 1,
+        "C++": 4,
+        "C/C++ Header": 2,
+        "Markdown": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "db15ed835863bc7b6521ab1262e975b784458c61",
+          "message": "add : game logic",
+          "author": "jaber",
+          "date": "2026-02-04T10:01:20Z",
+          "url": "https://github.com/JaberChowdhury/raylib-projects/commit/db15ed835863bc7b6521ab1262e975b784458c61"
+        },
+        {
+          "sha": "b7a25047771a20a9774618c8675470a654de803e",
+          "message": "format",
+          "author": "jaber",
+          "date": "2026-02-03T04:38:24Z",
+          "url": "https://github.com/JaberChowdhury/raylib-projects/commit/b7a25047771a20a9774618c8675470a654de803e"
+        },
+        {
+          "sha": "58052836ad3f117f5219cf4c337e4e7531f01fbd",
+          "message": "add : clang format file",
+          "author": "jaber",
+          "date": "2026-01-10T18:00:59Z",
+          "url": "https://github.com/JaberChowdhury/raylib-projects/commit/58052836ad3f117f5219cf4c337e4e7531f01fbd"
+        },
+        {
+          "sha": "f6b2894c46eac4ec7ccb139a5d3c7f8ae30fc67a",
+          "message": "first commit",
+          "author": "jaber",
+          "date": "2026-01-10T10:58:14Z",
+          "url": "https://github.com/JaberChowdhury/raylib-projects/commit/f6b2894c46eac4ec7ccb139a5d3c7f8ae30fc67a"
+        },
+        {
+          "sha": "af9030e5534e41674abe85ef927a6c6d662cc9dc",
+          "message": "init : first commit",
+          "author": "jaber",
+          "date": "2026-01-10T10:57:15Z",
+          "url": "https://github.com/JaberChowdhury/raylib-projects/commit/af9030e5534e41674abe85ef927a6c6d662cc9dc"
+        }
+      ]
+    },
+    {
+      "name": "tic-toc-toe-v2",
+      "commit": {
+        "sha": "e1e79202918dcabe1d1980b0f0f14526185d9356",
+        "url": "https://api.github.com/repos/JaberChowdhury/raylib-projects/commits/e1e79202918dcabe1d1980b0f0f14526185d9356"
+      },
+      "protected": false,
+      "languages": {
+        "JSON": 1,
+        "Markdown": 1,
+        "C++": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "e1e79202918dcabe1d1980b0f0f14526185d9356",
+          "message": "whatever",
+          "author": "jaber",
+          "date": "2026-02-04T16:38:36Z",
+          "url": "https://github.com/JaberChowdhury/raylib-projects/commit/e1e79202918dcabe1d1980b0f0f14526185d9356"
+        },
+        {
+          "sha": "db15ed835863bc7b6521ab1262e975b784458c61",
+          "message": "add : game logic",
+          "author": "jaber",
+          "date": "2026-02-04T10:01:20Z",
+          "url": "https://github.com/JaberChowdhury/raylib-projects/commit/db15ed835863bc7b6521ab1262e975b784458c61"
+        },
+        {
+          "sha": "b7a25047771a20a9774618c8675470a654de803e",
+          "message": "format",
+          "author": "jaber",
+          "date": "2026-02-03T04:38:24Z",
+          "url": "https://github.com/JaberChowdhury/raylib-projects/commit/b7a25047771a20a9774618c8675470a654de803e"
+        },
+        {
+          "sha": "58052836ad3f117f5219cf4c337e4e7531f01fbd",
+          "message": "add : clang format file",
+          "author": "jaber",
+          "date": "2026-01-10T18:00:59Z",
+          "url": "https://github.com/JaberChowdhury/raylib-projects/commit/58052836ad3f117f5219cf4c337e4e7531f01fbd"
+        },
+        {
+          "sha": "f6b2894c46eac4ec7ccb139a5d3c7f8ae30fc67a",
+          "message": "first commit",
+          "author": "jaber",
+          "date": "2026-01-10T10:58:14Z",
+          "url": "https://github.com/JaberChowdhury/raylib-projects/commit/f6b2894c46eac4ec7ccb139a5d3c7f8ae30fc67a"
+        }
+      ]
+    }
+  ],
+  "readmes": [
+    {
+      "name": "main",
+      "readmeHtml": "<div id=\"readme\" class=\"md\" data-path=\"README.md\"><article class=\"markdown-body entry-content container-lg\" itemprop=\"text\"><div class=\"markdown-heading\" dir=\"auto\"><h2 class=\"heading-element\" dir=\"auto\">1. Prerequisites</h2><a id=\"user-content-1-prerequisites\" class=\"anchor\" aria-label=\"Permalink: 1. Prerequisites\" href=\"#1-prerequisites\"><svg data-component=\"Octicon\" class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"><path d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"></path></svg></a></div>\n<p dir=\"auto\">You need <strong>CMake</strong> and a <strong>C++ Compiler</strong> installed.</p>\n<div class=\"markdown-heading\" dir=\"auto\"><h3 class=\"heading-element\" dir=\"auto\">Linux (Debian/Ubuntu/Mint)</h3><a id=\"user-content-linux-debianubuntumint\" class=\"anchor\" aria-label=\"Permalink: Linux (Debian/Ubuntu/Mint)\" href=\"#linux-debianubuntumint\"><svg data-component=\"Octicon\" class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"><path d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"></path></svg></a></div>\n<p dir=\"auto\">You must install the system build tools and windowing libraries required by Raylib:</p>\n<div class=\"highlight highlight-source-shell notranslate position-relative overflow-auto\" dir=\"auto\" data-snippet-clipboard-copy-content=\"sudo apt update\nsudo apt install build-essential git cmake\nsudo apt install libasound2-dev mesa-common-dev libx11-dev libxrandr-dev libxi-dev xorg-dev libgl1-mesa-dev libglu1-mesa-dev\n\"><pre>sudo apt update\nsudo apt install build-essential git cmake\nsudo apt install libasound2-dev mesa-common-dev libx11-dev libxrandr-dev libxi-dev xorg-dev libgl1-mesa-dev libglu1-mesa-dev\n</pre></div>\n<div class=\"markdown-heading\" dir=\"auto\"><h3 class=\"heading-element\" dir=\"auto\">macOS</h3><a id=\"user-content-macos\" class=\"anchor\" aria-label=\"Permalink: macOS\" href=\"#macos\"><svg data-component=\"Octicon\" class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"><path d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"></path></svg></a></div>\n<div class=\"highlight highlight-source-shell notranslate position-relative overflow-auto\" dir=\"auto\" data-snippet-clipboard-copy-content=\"brew install cmake\n\"><pre>brew install cmake\n</pre></div>\n<div class=\"markdown-heading\" dir=\"auto\"><h3 class=\"heading-element\" dir=\"auto\">Windows</h3><a id=\"user-content-windows\" class=\"anchor\" aria-label=\"Permalink: Windows\" href=\"#windows\"><svg data-component=\"Octicon\" class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"><path d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"></path></svg></a></div>\n<ul dir=\"auto\">\n<li>Install <strong>Visual Studio 2022</strong> (Desktop development with C++).</li>\n<li>Or use <strong>MinGW</strong> with CMake added to PATH.</li>\n</ul>\n<hr>\n<div class=\"markdown-heading\" dir=\"auto\"><h2 class=\"heading-element\" dir=\"auto\">2. Quick Start</h2><a id=\"user-content-2-quick-start\" class=\"anchor\" aria-label=\"Permalink: 2. Quick Start\" href=\"#2-quick-start\"><svg data-component=\"Octicon\" class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"><path d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"></path></svg></a></div>\n<p dir=\"auto\">Open your terminal in this folder and run:</p>\n<div class=\"highlight highlight-source-shell notranslate position-relative overflow-auto\" dir=\"auto\" data-snippet-clipboard-copy-content=\"# 1. Configure the project (downloads Raylib automatically)\ncmake -S . -B build\n\n# 2. Build the executable\ncmake --build build\n\n# 3. Run the game\n./build/raylib-project\n\"><pre><span class=\"pl-c\"><span class=\"pl-c\">#</span> 1. Configure the project (downloads Raylib automatically)</span>\ncmake -S <span class=\"pl-c1\">.</span> -B build\n\n<span class=\"pl-c\"><span class=\"pl-c\">#</span> 2. Build the executable</span>\ncmake --build build\n\n<span class=\"pl-c\"><span class=\"pl-c\">#</span> 3. Run the game</span>\n./build/raylib-project\n</pre></div>\n<p dir=\"auto\"><em>Note: On Windows, the executable path will be <code>.\\build\\Debug\\raylib-project.exe</code>.</em></p>\n<hr>\n<div class=\"markdown-heading\" dir=\"auto\"><h2 class=\"heading-element\" dir=\"auto\">3. How to Rename the Project</h2><a id=\"user-content-3-how-to-rename-the-project\" class=\"anchor\" aria-label=\"Permalink: 3. How to Rename the Project\" href=\"#3-how-to-rename-the-project\"><svg data-component=\"Octicon\" class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"><path d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"></path></svg></a></div>\n<p dir=\"auto\">To change the project name from \"raylib-project\" to your own game name:</p>\n<ol dir=\"auto\">\n<li>Open <code>CMakeLists.txt</code>.</li>\n<li>Change line 2:</li>\n</ol>\n<div class=\"highlight highlight-source-cmake notranslate position-relative overflow-auto\" dir=\"auto\" data-snippet-clipboard-copy-content=\"project(MyAwesomeGame)\n\"><pre><span class=\"pl-c1\">project</span>(MyAwesomeGame)\n</pre></div>\n<ol start=\"3\" dir=\"auto\">\n<li>Re-run the build commands.</li>\n</ol>\n<hr>\n<div class=\"markdown-heading\" dir=\"auto\"><h1 class=\"heading-element\" dir=\"auto\">raylib-projects</h1><a id=\"user-content-raylib-projects\" class=\"anchor\" aria-label=\"Permalink: raylib-projects\" href=\"#raylib-projects\"><svg data-component=\"Octicon\" class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"><path d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"></path></svg></a></div>\n</article></div>"
+    }
+  ],
+  "languages": {
+    "C++": 1257,
+    "CMake": 598
+  },
+  "weeklyActivity": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "id": 518683308,
+  "name": "JaberChowdhury-",
+  "description": null,
+  "html_url": "https://github.com/JaberChowdhury/JaberChowdhury-",
+  "homepage": null,
+  "language": "CSS",
+  "topics": [],
+  "stargazers_count": 0,
+  "updated_at": "2022-07-28T03:11:45Z",
+  "full_name": "JaberChowdhury/JaberChowdhury-",
+  "watchers_count": 0,
+  "forks_count": 0,
+  "pushed_at": "2022-07-28T03:16:26Z",
+  "default_branch": "master",
+  "fork": false,
+  "size": 771,
+  "open_issues_count": 0,
+  "branches": [
+    {
+      "name": "master",
+      "commit": {
+        "sha": "65076bfaa259ef79a40944f9bd8522f6b0cdb5f4",
+        "url": "https://api.github.com/repos/JaberChowdhury/JaberChowdhury-/commits/65076bfaa259ef79a40944f9bd8522f6b0cdb5f4"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "JavaScript": 5,
+        "CSS": 6,
+        "HTML": 5
+      },
+      "recentCommits": [
+        {
+          "sha": "65076bfaa259ef79a40944f9bd8522f6b0cdb5f4",
+          "message": "Project Submitted",
+          "author": "black",
+          "date": "2022-07-28T03:16:19Z",
+          "url": "https://github.com/JaberChowdhury/JaberChowdhury-/commit/65076bfaa259ef79a40944f9bd8522f6b0cdb5f4"
+        },
+        {
+          "sha": "8d03afbdf76ad3982b63221ddd94bb591009fe11",
+          "message": "Project Submitted",
+          "author": "black",
+          "date": "2022-07-28T03:11:32Z",
+          "url": "https://github.com/JaberChowdhury/JaberChowdhury-/commit/8d03afbdf76ad3982b63221ddd94bb591009fe11"
+        }
+      ]
+    }
+  ],
+  "readmes": [
+    {
+      "name": "master",
+      "readmeHtml": "<div id=\"readme\" class=\"md\" data-path=\"README.md\"><article class=\"markdown-body entry-content container-lg\" itemprop=\"text\"><div class=\"markdown-heading\" dir=\"auto\"><h2 class=\"heading-element\" dir=\"auto\">This my simple portfilo website</h2><a id=\"user-content-this-my-simple-portfilo-website\" class=\"anchor\" aria-label=\"Permalink: This my simple portfilo website\" href=\"#this-my-simple-portfilo-website\"><svg data-component=\"Octicon\" class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"><path d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"></path></svg></a></div>\n<div class=\"markdown-heading\" dir=\"auto\"><h2 class=\"heading-element\" dir=\"auto\">Link</h2><a id=\"user-content-link\" class=\"anchor\" aria-label=\"Permalink: Link\" href=\"#link\"><svg data-component=\"Octicon\" class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"><path d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"></path></svg></a></div>\n<div class=\"markdown-heading\" dir=\"auto\"><h1 class=\"heading-element\" dir=\"auto\"><a href=\"https://blacklegion69.github.io/JaberChowdhury-/\" rel=\"nofollow\">https://blacklegion69.github.io/JaberChowdhury-/</a></h1><a id=\"user-content-httpsblacklegion69githubiojaberchowdhury-\" class=\"anchor\" aria-label=\"Permalink: https://blacklegion69.github.io/JaberChowdhury-/\" href=\"#httpsblacklegion69githubiojaberchowdhury-\"><svg data-component=\"Octicon\" class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"><path d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"></path></svg></a></div>\n</article></div>"
+    }
+  ],
+  "languages": {
+    "CSS": 150121,
+    "HTML": 39133,
+    "JavaScript": 16824
+  },
+  "weeklyActivity": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+}

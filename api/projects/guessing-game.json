@@ -1,0 +1,133 @@
+{
+  "id": 474922598,
+  "name": "guessing-game",
+  "description": null,
+  "html_url": "https://github.com/JaberChowdhury/guessing-game",
+  "homepage": null,
+  "language": "HTML",
+  "topics": [],
+  "stargazers_count": 1,
+  "updated_at": "2022-04-07T07:19:12Z",
+  "full_name": "JaberChowdhury/guessing-game",
+  "watchers_count": 1,
+  "forks_count": 0,
+  "pushed_at": "2022-03-28T09:05:17Z",
+  "default_branch": "main",
+  "fork": false,
+  "size": 5,
+  "open_issues_count": 0,
+  "branches": [
+    {
+      "name": "main",
+      "commit": {
+        "sha": "f199934b7d67c154059685a5aa59114a1043573a",
+        "url": "https://api.github.com/repos/JaberChowdhury/guessing-game/commits/f199934b7d67c154059685a5aa59114a1043573a"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "HTML": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "f199934b7d67c154059685a5aa59114a1043573a",
+          "message": "Update index.html",
+          "author": "Black Light",
+          "date": "2022-03-28T09:05:17Z",
+          "url": "https://github.com/JaberChowdhury/guessing-game/commit/f199934b7d67c154059685a5aa59114a1043573a"
+        },
+        {
+          "sha": "6ab168dd219d5cb77de2f984947a98812f776e16",
+          "message": "Update README.md",
+          "author": "Black Light",
+          "date": "2022-03-28T09:01:34Z",
+          "url": "https://github.com/JaberChowdhury/guessing-game/commit/6ab168dd219d5cb77de2f984947a98812f776e16"
+        },
+        {
+          "sha": "4fe4ca12c83eeb27f1cfbacdcd08a9ebb9ac3e11",
+          "message": "Rename Guessing Game.html to index.html",
+          "author": "Black Light",
+          "date": "2022-03-28T09:00:43Z",
+          "url": "https://github.com/JaberChowdhury/guessing-game/commit/4fe4ca12c83eeb27f1cfbacdcd08a9ebb9ac3e11"
+        },
+        {
+          "sha": "85b8acd39228b7cc87d1a9c2d117889843f5d546",
+          "message": "Create README.md",
+          "author": "Black Light",
+          "date": "2022-03-28T09:00:17Z",
+          "url": "https://github.com/JaberChowdhury/guessing-game/commit/85b8acd39228b7cc87d1a9c2d117889843f5d546"
+        },
+        {
+          "sha": "0cb7e1f9f94402f9fc89ddece3b91bd4d7444a37",
+          "message": "Add files via upload",
+          "author": "Black Light",
+          "date": "2022-03-28T08:59:54Z",
+          "url": "https://github.com/JaberChowdhury/guessing-game/commit/0cb7e1f9f94402f9fc89ddece3b91bd4d7444a37"
+        }
+      ]
+    }
+  ],
+  "readmes": [
+    {
+      "name": "main",
+      "readmeHtml": "<div id=\"readme\" class=\"md\" data-path=\"README.md\"><article class=\"markdown-body entry-content container-lg\" itemprop=\"text\"><div class=\"markdown-heading\" dir=\"auto\"><h1 class=\"heading-element\" dir=\"auto\">guessing-game</h1><a id=\"user-content-guessing-game\" class=\"anchor\" aria-label=\"Permalink: guessing-game\" href=\"#guessing-game\"><svg data-component=\"Octicon\" class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"><path d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"></path></svg></a></div>\n<div class=\"markdown-heading\" dir=\"auto\"><h2 class=\"heading-element\" dir=\"auto\"><a href=\"https://blacklegion69.github.io/guessing-game/\" rel=\"nofollow\">https://blacklegion69.github.io/guessing-game/</a></h2><a id=\"user-content-httpsblacklegion69githubioguessing-game\" class=\"anchor\" aria-label=\"Permalink: https://blacklegion69.github.io/guessing-game/\" href=\"#httpsblacklegion69githubioguessing-game\"><svg data-component=\"Octicon\" class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"><path d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"></path></svg></a></div>\n</article></div>"
+    }
+  ],
+  "languages": {
+    "HTML": 2552
+  },
+  "weeklyActivity": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+}

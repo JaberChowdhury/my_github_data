@@ -1,0 +1,940 @@
+{
+  "id": 803604817,
+  "name": "VanillaJs_project",
+  "description": "Practising vanilla js with various project",
+  "html_url": "https://github.com/JaberChowdhury/VanillaJs_project",
+  "homepage": "https://vanilla-js-project.vercel.app",
+  "language": "JavaScript",
+  "topics": [],
+  "stargazers_count": 0,
+  "updated_at": "2025-01-01T17:31:21Z",
+  "full_name": "JaberChowdhury/VanillaJs_project",
+  "watchers_count": 0,
+  "forks_count": 0,
+  "pushed_at": "2025-03-06T16:44:59Z",
+  "default_branch": "main",
+  "fork": false,
+  "size": 10117,
+  "open_issues_count": 0,
+  "branches": [
+    {
+      "name": "background-animation-effect",
+      "commit": {
+        "sha": "04fecc70475625d15bd69d33a0d875a2560bde3a",
+        "url": "https://api.github.com/repos/JaberChowdhury/VanillaJs_project/commits/04fecc70475625d15bd69d33a0d875a2560bde3a"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "HTML": 1,
+        "JavaScript": 1,
+        "JSON": 1,
+        "YAML": 1,
+        "CSS": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "04fecc70475625d15bd69d33a0d875a2560bde3a",
+          "message": "first commit",
+          "author": "black",
+          "date": "2024-05-21T03:40:19Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/04fecc70475625d15bd69d33a0d875a2560bde3a"
+        },
+        {
+          "sha": "76aa3eaad6d48684dd7d9763dfc5ccfd1424e7c4",
+          "message": "first commit",
+          "author": "black",
+          "date": "2024-05-21T03:39:36Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/76aa3eaad6d48684dd7d9763dfc5ccfd1424e7c4"
+        }
+      ]
+    },
+    {
+      "name": "background-animation-effect-v2.0",
+      "commit": {
+        "sha": "626c214739afc7c4576749f74f9d222245fa9de5",
+        "url": "https://api.github.com/repos/JaberChowdhury/VanillaJs_project/commits/626c214739afc7c4576749f74f9d222245fa9de5"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "HTML": 1,
+        "JavaScript": 1,
+        "JSON": 1,
+        "YAML": 1,
+        "CSS": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "626c214739afc7c4576749f74f9d222245fa9de5",
+          "message": "fix : more numbers in large screen",
+          "author": "black",
+          "date": "2024-05-23T15:25:24Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/626c214739afc7c4576749f74f9d222245fa9de5"
+        },
+        {
+          "sha": "513360db06d621737bfc14e2448415c362a1cabf",
+          "message": "add : hsl color in hover",
+          "author": "black",
+          "date": "2024-05-22T17:21:22Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/513360db06d621737bfc14e2448415c362a1cabf"
+        },
+        {
+          "sha": "04fecc70475625d15bd69d33a0d875a2560bde3a",
+          "message": "first commit",
+          "author": "black",
+          "date": "2024-05-21T03:40:19Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/04fecc70475625d15bd69d33a0d875a2560bde3a"
+        },
+        {
+          "sha": "76aa3eaad6d48684dd7d9763dfc5ccfd1424e7c4",
+          "message": "first commit",
+          "author": "black",
+          "date": "2024-05-21T03:39:36Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/76aa3eaad6d48684dd7d9763dfc5ccfd1424e7c4"
+        }
+      ]
+    },
+    {
+      "name": "browse-pet",
+      "commit": {
+        "sha": "55a8ab1282305c32827a27b921694209bb0f2dbd",
+        "url": "https://api.github.com/repos/JaberChowdhury/VanillaJs_project/commits/55a8ab1282305c32827a27b921694209bb0f2dbd"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "HTML": 1,
+        "JSON": 2,
+        "YAML": 1,
+        "JavaScript": 2,
+        "TypeScript": 2,
+        "CSS": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "55a8ab1282305c32827a27b921694209bb0f2dbd",
+          "message": "add : implement carousel feature in index.html, integrate daisyUI, and update styling",
+          "author": "Black Light",
+          "date": "2025-02-01T15:57:41Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/55a8ab1282305c32827a27b921694209bb0f2dbd"
+        },
+        {
+          "sha": "0f7c74881368b52ad820c8ca2c7856e5be9c13bd",
+          "message": "add : create README file and add multiple image assets",
+          "author": "Black Light",
+          "date": "2025-01-30T16:09:13Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/0f7c74881368b52ad820c8ca2c7856e5be9c13bd"
+        },
+        {
+          "sha": "6644a9443339e176210e358be524c92886f45464",
+          "message": "add : integrate Tailwind CSS, update main application structure, and enhance styling",
+          "author": "Black Light",
+          "date": "2025-01-22T19:05:47Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/6644a9443339e176210e358be524c92886f45464"
+        },
+        {
+          "sha": "789267cdd7c1cc91889977ecceb617a15fdfa4c5",
+          "message": "refactor : remove unused counter functionality and clean up main application structure",
+          "author": "Black Light",
+          "date": "2025-01-22T18:52:34Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/789267cdd7c1cc91889977ecceb617a15fdfa4c5"
+        },
+        {
+          "sha": "62607900b4f4b9a08aa88b56139a577e2907346a",
+          "message": "refactor : restructure project with TypeScript, update dependencies, and enhance styling",
+          "author": "Black Light",
+          "date": "2025-01-22T18:51:04Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/62607900b4f4b9a08aa88b56139a577e2907346a"
+        }
+      ]
+    },
+    {
+      "name": "calculator",
+      "commit": {
+        "sha": "a499349886dbf0ca9d04b0775f958ad8e06ec5d5",
+        "url": "https://api.github.com/repos/JaberChowdhury/VanillaJs_project/commits/a499349886dbf0ca9d04b0775f958ad8e06ec5d5"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "HTML": 1,
+        "JavaScript": 1,
+        "JSON": 1,
+        "YAML": 1,
+        "CSS": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "a499349886dbf0ca9d04b0775f958ad8e06ec5d5",
+          "message": "done : calculator",
+          "author": "black",
+          "date": "2024-05-21T18:21:56Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/a499349886dbf0ca9d04b0775f958ad8e06ec5d5"
+        },
+        {
+          "sha": "7e733d4e59504c2df36e228407a31d0106f98a61",
+          "message": "add : basic code",
+          "author": "black",
+          "date": "2024-05-21T17:59:04Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/7e733d4e59504c2df36e228407a31d0106f98a61"
+        },
+        {
+          "sha": "9be50eb3204f2dd4af4eef25f1df645373685411",
+          "message": "update : README.md",
+          "author": "black",
+          "date": "2024-05-21T07:35:54Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/9be50eb3204f2dd4af4eef25f1df645373685411"
+        },
+        {
+          "sha": "311d873f3b6fdf317b2d407a32ff107eafe76855",
+          "message": "clean code",
+          "author": "black",
+          "date": "2024-05-21T05:46:54Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/311d873f3b6fdf317b2d407a32ff107eafe76855"
+        },
+        {
+          "sha": "9f89436e50e661012d7bb86acdeb3c1c3161a70e",
+          "message": "add : README.md",
+          "author": "Black Light",
+          "date": "2024-05-21T03:51:05Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/9f89436e50e661012d7bb86acdeb3c1c3161a70e"
+        }
+      ]
+    },
+    {
+      "name": "code-collection",
+      "commit": {
+        "sha": "24468ed75ecc1d90f88f124c92f4feae382a35d4",
+        "url": "https://api.github.com/repos/JaberChowdhury/VanillaJs_project/commits/24468ed75ecc1d90f88f124c92f4feae382a35d4"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "HTML": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "24468ed75ecc1d90f88f124c92f4feae382a35d4",
+          "message": "Add initial HTML structure and styles for css-spiral.html",
+          "author": "black",
+          "date": "2025-01-03T19:49:41Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/24468ed75ecc1d90f88f124c92f4feae382a35d4"
+        },
+        {
+          "sha": "d4eae375134af6b8c65c40639275b42dbcc76cf2",
+          "message": "Remove challenge HTML files and update README title",
+          "author": "black",
+          "date": "2025-01-03T19:46:48Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/d4eae375134af6b8c65c40639275b42dbcc76cf2"
+        },
+        {
+          "sha": "0aaa6d36df13b2b8b65a5ee9e08455efebd11c3a",
+          "message": "Add initial HTML structure and styles for challenge 4",
+          "author": "black",
+          "date": "2025-01-03T12:12:04Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/0aaa6d36df13b2b8b65a5ee9e08455efebd11c3a"
+        },
+        {
+          "sha": "5ea9c547e7b8024e0aff2801cf2bb985cdf9719c",
+          "message": "Rename challange1.html to challenge1.html",
+          "author": "Black Light",
+          "date": "2025-01-03T04:41:10Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/5ea9c547e7b8024e0aff2801cf2bb985cdf9719c"
+        },
+        {
+          "sha": "503e43968f646a76177019d428affb1c2001edc5",
+          "message": "Rename challange2.html to challenge2.html",
+          "author": "Black Light",
+          "date": "2025-01-03T04:40:46Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/503e43968f646a76177019d428affb1c2001edc5"
+        }
+      ]
+    },
+    {
+      "name": "cssbattel",
+      "commit": {
+        "sha": "7a8385e5aa654d07e42830eb44b7c896e4a6606c",
+        "url": "https://api.github.com/repos/JaberChowdhury/VanillaJs_project/commits/7a8385e5aa654d07e42830eb44b7c896e4a6606c"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "HTML": 12
+      },
+      "recentCommits": [
+        {
+          "sha": "7a8385e5aa654d07e42830eb44b7c896e4a6606c",
+          "message": "Add:challenge 12",
+          "author": "Black Light",
+          "date": "2025-01-12T13:13:46Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/7a8385e5aa654d07e42830eb44b7c896e4a6606c"
+        },
+        {
+          "sha": "ab0452e01481db2c52d086df8f3945e9bd80f980",
+          "message": "Add : challenge 11",
+          "author": "black",
+          "date": "2025-01-10T12:40:03Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/ab0452e01481db2c52d086df8f3945e9bd80f980"
+        },
+        {
+          "sha": "de302fc4a261dc9d9504e2ddf6d75e966e90cb8e",
+          "message": "add : challange 10 added with 7 days streak",
+          "author": "black",
+          "date": "2025-01-09T14:28:16Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/de302fc4a261dc9d9504e2ddf6d75e966e90cb8e"
+        },
+        {
+          "sha": "2898277a43a4d44d4163692ff869520b6566e82c",
+          "message": "Add initial HTML structure and styles for challenge 9",
+          "author": "black",
+          "date": "2025-01-08T05:24:55Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/2898277a43a4d44d4163692ff869520b6566e82c"
+        },
+        {
+          "sha": "a8c0d64dbacfa971e37e734a3d30100d6abe7262",
+          "message": "Refactor challenge 7 HTML structure and add challenge 8",
+          "author": "black",
+          "date": "2025-01-07T05:22:24Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/a8c0d64dbacfa971e37e734a3d30100d6abe7262"
+        }
+      ]
+    },
+    {
+      "name": "grid-layout",
+      "commit": {
+        "sha": "324a5a1ff4fcee8a7d30895858dd168831a2a7c1",
+        "url": "https://api.github.com/repos/JaberChowdhury/VanillaJs_project/commits/324a5a1ff4fcee8a7d30895858dd168831a2a7c1"
+      },
+      "protected": false,
+      "languages": {
+        "HTML": 1,
+        "JSON": 2,
+        "YAML": 1,
+        "JavaScript": 2,
+        "TypeScript": 2,
+        "CSS": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "324a5a1ff4fcee8a7d30895858dd168831a2a7c1",
+          "message": "update : enhance index.html layout with grid structure and improve styling; modify package.json for Vite host support; clean up main.ts; add grid styles in style.css",
+          "author": "Black Light",
+          "date": "2025-01-22T19:49:27Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/324a5a1ff4fcee8a7d30895858dd168831a2a7c1"
+        },
+        {
+          "sha": "6644a9443339e176210e358be524c92886f45464",
+          "message": "add : integrate Tailwind CSS, update main application structure, and enhance styling",
+          "author": "Black Light",
+          "date": "2025-01-22T19:05:47Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/6644a9443339e176210e358be524c92886f45464"
+        },
+        {
+          "sha": "789267cdd7c1cc91889977ecceb617a15fdfa4c5",
+          "message": "refactor : remove unused counter functionality and clean up main application structure",
+          "author": "Black Light",
+          "date": "2025-01-22T18:52:34Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/789267cdd7c1cc91889977ecceb617a15fdfa4c5"
+        },
+        {
+          "sha": "62607900b4f4b9a08aa88b56139a577e2907346a",
+          "message": "refactor : restructure project with TypeScript, update dependencies, and enhance styling",
+          "author": "Black Light",
+          "date": "2025-01-22T18:51:04Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/62607900b4f4b9a08aa88b56139a577e2907346a"
+        },
+        {
+          "sha": "5c40029decf317775b8b61b87eebced61ca6e023",
+          "message": "update : packages",
+          "author": "black",
+          "date": "2024-06-27T18:32:45Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/5c40029decf317775b8b61b87eebced61ca6e023"
+        }
+      ]
+    },
+    {
+      "name": "image-slider",
+      "commit": {
+        "sha": "066431be75bf17b1514014590f8636178d466a14",
+        "url": "https://api.github.com/repos/JaberChowdhury/VanillaJs_project/commits/066431be75bf17b1514014590f8636178d466a14"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "HTML": 1,
+        "JavaScript": 1,
+        "JSON": 1,
+        "YAML": 1,
+        "CSS": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "066431be75bf17b1514014590f8636178d466a14",
+          "message": "done : image slider",
+          "author": "black",
+          "date": "2024-05-21T05:42:32Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/066431be75bf17b1514014590f8636178d466a14"
+        },
+        {
+          "sha": "9f89436e50e661012d7bb86acdeb3c1c3161a70e",
+          "message": "add : README.md",
+          "author": "Black Light",
+          "date": "2024-05-21T03:51:05Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/9f89436e50e661012d7bb86acdeb3c1c3161a70e"
+        },
+        {
+          "sha": "b39774d3217edf206eebd338205fac72ce1524bc",
+          "message": "init : starter branch",
+          "author": "black",
+          "date": "2024-05-21T03:49:35Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/b39774d3217edf206eebd338205fac72ce1524bc"
+        },
+        {
+          "sha": "04fecc70475625d15bd69d33a0d875a2560bde3a",
+          "message": "first commit",
+          "author": "black",
+          "date": "2024-05-21T03:40:19Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/04fecc70475625d15bd69d33a0d875a2560bde3a"
+        },
+        {
+          "sha": "76aa3eaad6d48684dd7d9763dfc5ccfd1424e7c4",
+          "message": "first commit",
+          "author": "black",
+          "date": "2024-05-21T03:39:36Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/76aa3eaad6d48684dd7d9763dfc5ccfd1424e7c4"
+        }
+      ]
+    },
+    {
+      "name": "json-table-v1",
+      "commit": {
+        "sha": "82d15e9e584fc8ca156ccf6513a971b2c6659ef5",
+        "url": "https://api.github.com/repos/JaberChowdhury/VanillaJs_project/commits/82d15e9e584fc8ca156ccf6513a971b2c6659ef5"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "JSON": 3,
+        "HTML": 1,
+        "JavaScript": 2,
+        "YAML": 1,
+        "CSS": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "82d15e9e584fc8ca156ccf6513a971b2c6659ef5",
+          "message": "add : css",
+          "author": "Black Light",
+          "date": "2025-03-06T16:44:56Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/82d15e9e584fc8ca156ccf6513a971b2c6659ef5"
+        },
+        {
+          "sha": "5286150d8d6cc58d59b569334031639aa5814677",
+          "message": "add : some utilities",
+          "author": "Black Light",
+          "date": "2025-03-05T10:37:38Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/5286150d8d6cc58d59b569334031639aa5814677"
+        },
+        {
+          "sha": "eb708b5519a576403ad9b63af5c45a7e421d824c",
+          "message": "Update style.css",
+          "author": "Black Light",
+          "date": "2025-01-01T17:31:17Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/eb708b5519a576403ad9b63af5c45a7e421d824c"
+        },
+        {
+          "sha": "513360db06d621737bfc14e2448415c362a1cabf",
+          "message": "add : hsl color in hover",
+          "author": "black",
+          "date": "2024-05-22T17:21:22Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/513360db06d621737bfc14e2448415c362a1cabf"
+        },
+        {
+          "sha": "04fecc70475625d15bd69d33a0d875a2560bde3a",
+          "message": "first commit",
+          "author": "black",
+          "date": "2024-05-21T03:40:19Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/04fecc70475625d15bd69d33a0d875a2560bde3a"
+        }
+      ]
+    },
+    {
+      "name": "legal_solution",
+      "commit": {
+        "sha": "49bdf257016e99d4e01d17eeff69b3523992006e",
+        "url": "https://api.github.com/repos/JaberChowdhury/VanillaJs_project/commits/49bdf257016e99d4e01d17eeff69b3523992006e"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "HTML": 1,
+        "JSON": 2,
+        "YAML": 1,
+        "JavaScript": 2,
+        "TypeScript": 2,
+        "CSS": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "49bdf257016e99d4e01d17eeff69b3523992006e",
+          "message": "add : implement FAQ and Contact sections in index.html, update pnpm-lock.yaml for fastq dependency",
+          "author": "Black Light",
+          "date": "2025-01-30T17:45:34Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/49bdf257016e99d4e01d17eeff69b3523992006e"
+        },
+        {
+          "sha": "b5198112efa5dda90b9aaf4d2bcc9ae7cf406e7b",
+          "message": "add : update README, integrate DaisyUI plugin in Tailwind CSS, and modify global styles",
+          "author": "Black Light",
+          "date": "2025-01-30T15:42:06Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/b5198112efa5dda90b9aaf4d2bcc9ae7cf406e7b"
+        },
+        {
+          "sha": "193a05ac7b6053800955dc0faf6d994e6ae6fc61",
+          "message": "add : upload new image assets for application",
+          "author": "Black Light",
+          "date": "2025-01-30T09:13:12Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/193a05ac7b6053800955dc0faf6d994e6ae6fc61"
+        },
+        {
+          "sha": "6644a9443339e176210e358be524c92886f45464",
+          "message": "add : integrate Tailwind CSS, update main application structure, and enhance styling",
+          "author": "Black Light",
+          "date": "2025-01-22T19:05:47Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/6644a9443339e176210e358be524c92886f45464"
+        },
+        {
+          "sha": "789267cdd7c1cc91889977ecceb617a15fdfa4c5",
+          "message": "refactor : remove unused counter functionality and clean up main application structure",
+          "author": "Black Light",
+          "date": "2025-01-22T18:52:34Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/789267cdd7c1cc91889977ecceb617a15fdfa4c5"
+        }
+      ]
+    },
+    {
+      "name": "main",
+      "commit": {
+        "sha": "eb708b5519a576403ad9b63af5c45a7e421d824c",
+        "url": "https://api.github.com/repos/JaberChowdhury/VanillaJs_project/commits/eb708b5519a576403ad9b63af5c45a7e421d824c"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "HTML": 1,
+        "JavaScript": 1,
+        "JSON": 1,
+        "YAML": 1,
+        "CSS": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "eb708b5519a576403ad9b63af5c45a7e421d824c",
+          "message": "Update style.css",
+          "author": "Black Light",
+          "date": "2025-01-01T17:31:17Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/eb708b5519a576403ad9b63af5c45a7e421d824c"
+        },
+        {
+          "sha": "513360db06d621737bfc14e2448415c362a1cabf",
+          "message": "add : hsl color in hover",
+          "author": "black",
+          "date": "2024-05-22T17:21:22Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/513360db06d621737bfc14e2448415c362a1cabf"
+        },
+        {
+          "sha": "04fecc70475625d15bd69d33a0d875a2560bde3a",
+          "message": "first commit",
+          "author": "black",
+          "date": "2024-05-21T03:40:19Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/04fecc70475625d15bd69d33a0d875a2560bde3a"
+        },
+        {
+          "sha": "76aa3eaad6d48684dd7d9763dfc5ccfd1424e7c4",
+          "message": "first commit",
+          "author": "black",
+          "date": "2024-05-21T03:39:36Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/76aa3eaad6d48684dd7d9763dfc5ccfd1424e7c4"
+        }
+      ]
+    },
+    {
+      "name": "nature-platter",
+      "commit": {
+        "sha": "3ab2987b94eb4b3a4e42bf2df51c4985d9d68fd4",
+        "url": "https://api.github.com/repos/JaberChowdhury/VanillaJs_project/commits/3ab2987b94eb4b3a4e42bf2df51c4985d9d68fd4"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "HTML": 1,
+        "JSON": 2,
+        "YAML": 1,
+        "JavaScript": 2,
+        "TypeScript": 2,
+        "CSS": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "3ab2987b94eb4b3a4e42bf2df51c4985d9d68fd4",
+          "message": "add : implement dynamic product listing in main application",
+          "author": "Black Light",
+          "date": "2025-01-31T06:35:50Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/3ab2987b94eb4b3a4e42bf2df51c4985d9d68fd4"
+        },
+        {
+          "sha": "57a3e7815c26051c0be6e9e59e10aa181d57bee9",
+          "message": "fix : update DaisyUI plugin import syntax and modify global styles",
+          "author": "Black Light",
+          "date": "2025-01-30T19:41:59Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/57a3e7815c26051c0be6e9e59e10aa181d57bee9"
+        },
+        {
+          "sha": "1cdabcc3b8825760b657f141a02639f3db8faece",
+          "message": "add : integrate DaisyUI for enhanced styling and update HTML structure",
+          "author": "Black Light",
+          "date": "2025-01-30T18:07:55Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/1cdabcc3b8825760b657f141a02639f3db8faece"
+        },
+        {
+          "sha": "b7edec2bca699c8825fce4c25fb532a8a9109937",
+          "message": "add : create README file and add multiple image assets",
+          "author": "Black Light",
+          "date": "2025-01-30T16:10:57Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/b7edec2bca699c8825fce4c25fb532a8a9109937"
+        },
+        {
+          "sha": "6644a9443339e176210e358be524c92886f45464",
+          "message": "add : integrate Tailwind CSS, update main application structure, and enhance styling",
+          "author": "Black Light",
+          "date": "2025-01-22T19:05:47Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/6644a9443339e176210e358be524c92886f45464"
+        }
+      ]
+    },
+    {
+      "name": "smart-watch",
+      "commit": {
+        "sha": "6d390d1c08442f179bf5f8edae9694b1a77bc469",
+        "url": "https://api.github.com/repos/JaberChowdhury/VanillaJs_project/commits/6d390d1c08442f179bf5f8edae9694b1a77bc469"
+      },
+      "protected": false,
+      "languages": {
+        "JSON": 1,
+        "HTML": 3,
+        "JavaScript": 2
+      },
+      "recentCommits": [
+        {
+          "sha": "6d390d1c08442f179bf5f8edae9694b1a77bc469",
+          "message": "feat : add initial HTML structure and dynamic rendering functionality",
+          "author": "Black Light",
+          "date": "2025-03-02T06:25:05Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/6d390d1c08442f179bf5f8edae9694b1a77bc469"
+        },
+        {
+          "sha": "cbf2c7d7c15d1663c8a7d19dfb92b81cbafb543d",
+          "message": "feat : add initial HTML structure with a MiniComponent for dynamic rendering",
+          "author": "Black Light",
+          "date": "2025-02-28T04:47:00Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/cbf2c7d7c15d1663c8a7d19dfb92b81cbafb543d"
+        },
+        {
+          "sha": "a6a3c202142f9626b666303591b9806a1a31bd6c",
+          "message": "refactor : remove legacy files and add new main JavaScript functionality",
+          "author": "Black Light",
+          "date": "2025-02-27T20:50:58Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/a6a3c202142f9626b666303591b9806a1a31bd6c"
+        },
+        {
+          "sha": "789267cdd7c1cc91889977ecceb617a15fdfa4c5",
+          "message": "refactor : remove unused counter functionality and clean up main application structure",
+          "author": "Black Light",
+          "date": "2025-01-22T18:52:34Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/789267cdd7c1cc91889977ecceb617a15fdfa4c5"
+        },
+        {
+          "sha": "62607900b4f4b9a08aa88b56139a577e2907346a",
+          "message": "refactor : restructure project with TypeScript, update dependencies, and enhance styling",
+          "author": "Black Light",
+          "date": "2025-01-22T18:51:04Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/62607900b4f4b9a08aa88b56139a577e2907346a"
+        }
+      ]
+    },
+    {
+      "name": "start-tailwind",
+      "commit": {
+        "sha": "6644a9443339e176210e358be524c92886f45464",
+        "url": "https://api.github.com/repos/JaberChowdhury/VanillaJs_project/commits/6644a9443339e176210e358be524c92886f45464"
+      },
+      "protected": false,
+      "languages": {
+        "HTML": 1,
+        "JSON": 2,
+        "YAML": 1,
+        "JavaScript": 2,
+        "TypeScript": 2,
+        "CSS": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "6644a9443339e176210e358be524c92886f45464",
+          "message": "add : integrate Tailwind CSS, update main application structure, and enhance styling",
+          "author": "Black Light",
+          "date": "2025-01-22T19:05:47Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/6644a9443339e176210e358be524c92886f45464"
+        },
+        {
+          "sha": "789267cdd7c1cc91889977ecceb617a15fdfa4c5",
+          "message": "refactor : remove unused counter functionality and clean up main application structure",
+          "author": "Black Light",
+          "date": "2025-01-22T18:52:34Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/789267cdd7c1cc91889977ecceb617a15fdfa4c5"
+        },
+        {
+          "sha": "62607900b4f4b9a08aa88b56139a577e2907346a",
+          "message": "refactor : restructure project with TypeScript, update dependencies, and enhance styling",
+          "author": "Black Light",
+          "date": "2025-01-22T18:51:04Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/62607900b4f4b9a08aa88b56139a577e2907346a"
+        },
+        {
+          "sha": "5c40029decf317775b8b61b87eebced61ca6e023",
+          "message": "update : packages",
+          "author": "black",
+          "date": "2024-06-27T18:32:45Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/5c40029decf317775b8b61b87eebced61ca6e023"
+        },
+        {
+          "sha": "311d873f3b6fdf317b2d407a32ff107eafe76855",
+          "message": "clean code",
+          "author": "black",
+          "date": "2024-05-21T05:46:54Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/311d873f3b6fdf317b2d407a32ff107eafe76855"
+        }
+      ]
+    },
+    {
+      "name": "starter",
+      "commit": {
+        "sha": "789267cdd7c1cc91889977ecceb617a15fdfa4c5",
+        "url": "https://api.github.com/repos/JaberChowdhury/VanillaJs_project/commits/789267cdd7c1cc91889977ecceb617a15fdfa4c5"
+      },
+      "protected": false,
+      "languages": {
+        "HTML": 1,
+        "JSON": 2,
+        "YAML": 1,
+        "TypeScript": 2,
+        "CSS": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "789267cdd7c1cc91889977ecceb617a15fdfa4c5",
+          "message": "refactor : remove unused counter functionality and clean up main application structure",
+          "author": "Black Light",
+          "date": "2025-01-22T18:52:34Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/789267cdd7c1cc91889977ecceb617a15fdfa4c5"
+        },
+        {
+          "sha": "62607900b4f4b9a08aa88b56139a577e2907346a",
+          "message": "refactor : restructure project with TypeScript, update dependencies, and enhance styling",
+          "author": "Black Light",
+          "date": "2025-01-22T18:51:04Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/62607900b4f4b9a08aa88b56139a577e2907346a"
+        },
+        {
+          "sha": "5c40029decf317775b8b61b87eebced61ca6e023",
+          "message": "update : packages",
+          "author": "black",
+          "date": "2024-06-27T18:32:45Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/5c40029decf317775b8b61b87eebced61ca6e023"
+        },
+        {
+          "sha": "311d873f3b6fdf317b2d407a32ff107eafe76855",
+          "message": "clean code",
+          "author": "black",
+          "date": "2024-05-21T05:46:54Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/311d873f3b6fdf317b2d407a32ff107eafe76855"
+        },
+        {
+          "sha": "9f89436e50e661012d7bb86acdeb3c1c3161a70e",
+          "message": "add : README.md",
+          "author": "Black Light",
+          "date": "2024-05-21T03:51:05Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/9f89436e50e661012d7bb86acdeb3c1c3161a70e"
+        }
+      ]
+    },
+    {
+      "name": "threejs",
+      "commit": {
+        "sha": "4d803fb664d4677de8cc4738048580e134372a48",
+        "url": "https://api.github.com/repos/JaberChowdhury/VanillaJs_project/commits/4d803fb664d4677de8cc4738048580e134372a48"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "HTML": 1,
+        "JavaScript": 1,
+        "JSON": 1,
+        "YAML": 1,
+        "CSS": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "4d803fb664d4677de8cc4738048580e134372a48",
+          "message": "new branch : threejs",
+          "author": "black",
+          "date": "2024-06-27T18:47:16Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/4d803fb664d4677de8cc4738048580e134372a48"
+        },
+        {
+          "sha": "5c40029decf317775b8b61b87eebced61ca6e023",
+          "message": "update : packages",
+          "author": "black",
+          "date": "2024-06-27T18:32:45Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/5c40029decf317775b8b61b87eebced61ca6e023"
+        },
+        {
+          "sha": "311d873f3b6fdf317b2d407a32ff107eafe76855",
+          "message": "clean code",
+          "author": "black",
+          "date": "2024-05-21T05:46:54Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/311d873f3b6fdf317b2d407a32ff107eafe76855"
+        },
+        {
+          "sha": "9f89436e50e661012d7bb86acdeb3c1c3161a70e",
+          "message": "add : README.md",
+          "author": "Black Light",
+          "date": "2024-05-21T03:51:05Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/9f89436e50e661012d7bb86acdeb3c1c3161a70e"
+        },
+        {
+          "sha": "b39774d3217edf206eebd338205fac72ce1524bc",
+          "message": "init : starter branch",
+          "author": "black",
+          "date": "2024-05-21T03:49:35Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/b39774d3217edf206eebd338205fac72ce1524bc"
+        }
+      ]
+    },
+    {
+      "name": "vitest-testing",
+      "commit": {
+        "sha": "5c631d9268ae305785c8b2726f3637ce826b5240",
+        "url": "https://api.github.com/repos/JaberChowdhury/VanillaJs_project/commits/5c631d9268ae305785c8b2726f3637ce826b5240"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "JSON": 2,
+        "TypeScript": 16
+      },
+      "recentCommits": [
+        {
+          "sha": "5c631d9268ae305785c8b2726f3637ce826b5240",
+          "message": "add : expand README with advanced testing concepts and examples; add new test cases for parameterized tests, side effects, performance, environment variables, and third-party libraries",
+          "author": "Black Light",
+          "date": "2025-02-15T06:44:11Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/5c631d9268ae305785c8b2726f3637ce826b5240"
+        },
+        {
+          "sha": "2ff9af158eafbbf15fcace9b0ac8121361cd731f",
+          "message": "refactor : remove unused image files and update PostCSS configuration",
+          "author": "Black Light",
+          "date": "2025-02-15T06:09:02Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/2ff9af158eafbbf15fcace9b0ac8121361cd731f"
+        },
+        {
+          "sha": "45e2c6d8bbf5245deee292ed544d117ab48a1ad3",
+          "message": "add : implement snapshot tests for number, array, string, and boolean utilities",
+          "author": "Black Light",
+          "date": "2025-02-15T05:52:59Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/45e2c6d8bbf5245deee292ed544d117ab48a1ad3"
+        },
+        {
+          "sha": "60f497e0d897fdf616b055bcbaf0eb70446fa3e3",
+          "message": "add : configure Vite for testing with coverage support and update package.json dependencies",
+          "author": "Black Light",
+          "date": "2025-02-15T04:58:43Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/60f497e0d897fdf616b055bcbaf0eb70446fa3e3"
+        },
+        {
+          "sha": "089bcb02f7c12bef55f89cdae24103d21cac4765",
+          "message": "add : implement utility functions for arrays, booleans, and strings with corresponding tests",
+          "author": "Black Light",
+          "date": "2025-02-14T20:05:45Z",
+          "url": "https://github.com/JaberChowdhury/VanillaJs_project/commit/089bcb02f7c12bef55f89cdae24103d21cac4765"
+        }
+      ]
+    }
+  ],
+  "readmes": [
+    {
+      "name": "main",
+      "readmeHtml": "<div id=\"readme\" class=\"md\" data-path=\"README.md\"><article class=\"markdown-body entry-content container-lg\" itemprop=\"text\"><div class=\"markdown-heading\" dir=\"auto\"><h1 class=\"heading-element\" dir=\"auto\">VanillaJs_project</h1><a id=\"user-content-vanillajs_project\" class=\"anchor\" aria-label=\"Permalink: VanillaJs_project\" href=\"#vanillajs_project\"><svg data-component=\"Octicon\" class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"><path d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"></path></svg></a></div>\n</article></div>"
+    }
+  ],
+  "languages": {
+    "JavaScript": 1190,
+    "CSS": 661,
+    "HTML": 420
+  },
+  "weeklyActivity": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+}

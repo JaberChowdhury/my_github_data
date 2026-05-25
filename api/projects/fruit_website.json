@@ -1,0 +1,137 @@
+{
+  "id": 481459710,
+  "name": "fruit_website",
+  "description": null,
+  "html_url": "https://github.com/JaberChowdhury/fruit_website",
+  "homepage": null,
+  "language": "CSS",
+  "topics": [],
+  "stargazers_count": 0,
+  "updated_at": "2022-04-14T04:03:57Z",
+  "full_name": "JaberChowdhury/fruit_website",
+  "watchers_count": 0,
+  "forks_count": 0,
+  "pushed_at": "2022-04-14T10:45:55Z",
+  "default_branch": "master",
+  "fork": false,
+  "size": 3877,
+  "open_issues_count": 0,
+  "branches": [
+    {
+      "name": "master",
+      "commit": {
+        "sha": "e3084bfb16e902b66271d629f66bd632cdac089a",
+        "url": "https://api.github.com/repos/JaberChowdhury/fruit_website/commits/e3084bfb16e902b66271d629f66bd632cdac089a"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "JavaScript": 1,
+        "CSS": 1,
+        "HTML": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "e3084bfb16e902b66271d629f66bd632cdac089a",
+          "message": "Project Submitted",
+          "author": "black",
+          "date": "2022-04-14T10:45:45Z",
+          "url": "https://github.com/JaberChowdhury/fruit_website/commit/e3084bfb16e902b66271d629f66bd632cdac089a"
+        },
+        {
+          "sha": "a000e43d159c281619f7fd0c6fa5bfb35754b5a7",
+          "message": "Project Submitted",
+          "author": "black",
+          "date": "2022-04-14T06:28:02Z",
+          "url": "https://github.com/JaberChowdhury/fruit_website/commit/a000e43d159c281619f7fd0c6fa5bfb35754b5a7"
+        },
+        {
+          "sha": "4d7d429113d080b9dad479aefb9d2d419d0454c2",
+          "message": "Project Submitted",
+          "author": "black",
+          "date": "2022-04-14T06:26:55Z",
+          "url": "https://github.com/JaberChowdhury/fruit_website/commit/4d7d429113d080b9dad479aefb9d2d419d0454c2"
+        },
+        {
+          "sha": "5941ed7b4b2e9b10164f58c053c4e25502e8deb0",
+          "message": "Project Submitted",
+          "author": "black",
+          "date": "2022-04-14T04:20:35Z",
+          "url": "https://github.com/JaberChowdhury/fruit_website/commit/5941ed7b4b2e9b10164f58c053c4e25502e8deb0"
+        },
+        {
+          "sha": "9d9fdbe40675b0d025469dc99adfc64f24db1115",
+          "message": "Project Submitted",
+          "author": "black",
+          "date": "2022-04-14T04:04:59Z",
+          "url": "https://github.com/JaberChowdhury/fruit_website/commit/9d9fdbe40675b0d025469dc99adfc64f24db1115"
+        }
+      ]
+    }
+  ],
+  "readmes": [
+    {
+      "name": "master",
+      "readmeHtml": "<div id=\"readme\" class=\"md\" data-path=\"README.md\"><article class=\"markdown-body entry-content container-lg\" itemprop=\"text\"><div class=\"markdown-heading\" dir=\"auto\"><h2 class=\"heading-element\" dir=\"auto\"><a href=\"https://blacklegion69.github.io/fruit_website/\" rel=\"nofollow\">https://blacklegion69.github.io/fruit_website/</a></h2><a id=\"user-content-httpsblacklegion69githubiofruit_website\" class=\"anchor\" aria-label=\"Permalink: https://blacklegion69.github.io/fruit_website/\" href=\"#httpsblacklegion69githubiofruit_website\"><svg data-component=\"Octicon\" class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"><path d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"></path></svg></a></div>\n</article></div>"
+    }
+  ],
+  "languages": {
+    "CSS": 3753,
+    "HTML": 2065,
+    "JavaScript": 1370
+  },
+  "weeklyActivity": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+}

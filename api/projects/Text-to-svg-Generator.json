@@ -1,0 +1,112 @@
+{
+  "id": 745010246,
+  "name": "Text-to-svg-Generator",
+  "description": null,
+  "html_url": "https://github.com/JaberChowdhury/Text-to-svg-Generator",
+  "homepage": null,
+  "language": "JavaScript",
+  "topics": [],
+  "stargazers_count": 0,
+  "updated_at": "2024-01-18T13:14:40Z",
+  "full_name": "JaberChowdhury/Text-to-svg-Generator",
+  "watchers_count": 0,
+  "forks_count": 0,
+  "pushed_at": "2024-01-18T13:14:36Z",
+  "default_branch": "main",
+  "fork": false,
+  "size": 13084,
+  "open_issues_count": 0,
+  "branches": [
+    {
+      "name": "main",
+      "commit": {
+        "sha": "9d04cae08b6c4042584491f198f257e0c011c527",
+        "url": "https://api.github.com/repos/JaberChowdhury/Text-to-svg-Generator/commits/9d04cae08b6c4042584491f198f257e0c011c527"
+      },
+      "protected": false,
+      "languages": {
+        "HTML": 2,
+        "Markdown": 1,
+        "TypeScript": 2,
+        "CSS": 2,
+        "JavaScript": 2,
+        "JSON": 3
+      },
+      "recentCommits": [
+        {
+          "sha": "9d04cae08b6c4042584491f198f257e0c011c527",
+          "message": "add : pico.min.css and other css work",
+          "author": "black",
+          "date": "2024-01-18T13:13:41Z",
+          "url": "https://github.com/JaberChowdhury/Text-to-svg-Generator/commit/9d04cae08b6c4042584491f198f257e0c011c527"
+        }
+      ]
+    }
+  ],
+  "readmes": [
+    {
+      "name": "main",
+      "readmeHtml": "<div id=\"readme\" class=\"md\" data-path=\"README.md\"><article class=\"markdown-body entry-content container-lg\" itemprop=\"text\"><div class=\"markdown-heading\" dir=\"auto\"><h3 class=\"heading-element\" dir=\"auto\">google-font-to-svg-path</h3><a id=\"user-content-google-font-to-svg-path\" class=\"anchor\" aria-label=\"Permalink: google-font-to-svg-path\" href=\"#google-font-to-svg-path\"><svg data-component=\"Octicon\" class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"><path d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"></path></svg></a></div>\n<p dir=\"auto\">Create an SVG path from a Google font</p>\n<p dir=\"auto\"><a href=\"https://jaberchowdhury.github.io/Text-to-svg-Generator/\" rel=\"nofollow\">https://jaberchowdhury.github.io/Text-to-svg-Generator/</a></p>\n</article></div>"
+    }
+  ],
+  "languages": {
+    "JavaScript": 481862,
+    "TypeScript": 13772,
+    "HTML": 5666,
+    "CSS": 455
+  },
+  "weeklyActivity": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+}

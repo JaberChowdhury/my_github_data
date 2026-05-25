@@ -1,0 +1,282 @@
+{
+  "id": 929761011,
+  "name": "react-native-projects",
+  "description": null,
+  "html_url": "https://github.com/JaberChowdhury/react-native-projects",
+  "homepage": null,
+  "language": "TypeScript",
+  "topics": [],
+  "stargazers_count": 0,
+  "updated_at": "2025-02-09T11:11:33Z",
+  "full_name": "JaberChowdhury/react-native-projects",
+  "watchers_count": 0,
+  "forks_count": 0,
+  "pushed_at": "2025-04-10T11:00:21Z",
+  "default_branch": "main",
+  "fork": false,
+  "size": 528,
+  "open_issues_count": 0,
+  "branches": [
+    {
+      "name": "learning",
+      "commit": {
+        "sha": "d202723bdacd49433e25efa48b0a180d2d8abb25",
+        "url": "https://api.github.com/repos/JaberChowdhury/react-native-projects/commits/d202723bdacd49433e25efa48b0a180d2d8abb25"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "JSON": 4,
+        "React": 18,
+        "CSS": 1,
+        "TypeScript": 5,
+        "JavaScript": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "d202723bdacd49433e25efa48b0a180d2d8abb25",
+          "message": "add : buggy tailwind css",
+          "author": "Black Light",
+          "date": "2025-02-09T11:10:54Z",
+          "url": "https://github.com/JaberChowdhury/react-native-projects/commit/d202723bdacd49433e25efa48b0a180d2d8abb25"
+        },
+        {
+          "sha": "3e6c04a2028b6e4c504c0ba237f9e8fe58ec33a2",
+          "message": "add : eas",
+          "author": "Black Light",
+          "date": "2025-02-09T10:50:41Z",
+          "url": "https://github.com/JaberChowdhury/react-native-projects/commit/3e6c04a2028b6e4c504c0ba237f9e8fe58ec33a2"
+        },
+        {
+          "sha": "0d083ee609871a9768baa5924e6a055607159214",
+          "message": "add : new projects",
+          "author": "Black Light",
+          "date": "2025-02-09T10:41:25Z",
+          "url": "https://github.com/JaberChowdhury/react-native-projects/commit/0d083ee609871a9768baa5924e6a055607159214"
+        },
+        {
+          "sha": "38817a6dc9acbfa17112ff9b954d7918be64dc0a",
+          "message": "Initial commit",
+          "author": "Black Light",
+          "date": "2025-02-09T10:38:49Z",
+          "url": "https://github.com/JaberChowdhury/react-native-projects/commit/38817a6dc9acbfa17112ff9b954d7918be64dc0a"
+        }
+      ]
+    },
+    {
+      "name": "main",
+      "commit": {
+        "sha": "d202723bdacd49433e25efa48b0a180d2d8abb25",
+        "url": "https://api.github.com/repos/JaberChowdhury/react-native-projects/commits/d202723bdacd49433e25efa48b0a180d2d8abb25"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "JSON": 4,
+        "React": 18,
+        "CSS": 1,
+        "TypeScript": 5,
+        "JavaScript": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "d202723bdacd49433e25efa48b0a180d2d8abb25",
+          "message": "add : buggy tailwind css",
+          "author": "Black Light",
+          "date": "2025-02-09T11:10:54Z",
+          "url": "https://github.com/JaberChowdhury/react-native-projects/commit/d202723bdacd49433e25efa48b0a180d2d8abb25"
+        },
+        {
+          "sha": "3e6c04a2028b6e4c504c0ba237f9e8fe58ec33a2",
+          "message": "add : eas",
+          "author": "Black Light",
+          "date": "2025-02-09T10:50:41Z",
+          "url": "https://github.com/JaberChowdhury/react-native-projects/commit/3e6c04a2028b6e4c504c0ba237f9e8fe58ec33a2"
+        },
+        {
+          "sha": "0d083ee609871a9768baa5924e6a055607159214",
+          "message": "add : new projects",
+          "author": "Black Light",
+          "date": "2025-02-09T10:41:25Z",
+          "url": "https://github.com/JaberChowdhury/react-native-projects/commit/0d083ee609871a9768baa5924e6a055607159214"
+        },
+        {
+          "sha": "38817a6dc9acbfa17112ff9b954d7918be64dc0a",
+          "message": "Initial commit",
+          "author": "Black Light",
+          "date": "2025-02-09T10:38:49Z",
+          "url": "https://github.com/JaberChowdhury/react-native-projects/commit/38817a6dc9acbfa17112ff9b954d7918be64dc0a"
+        }
+      ]
+    },
+    {
+      "name": "with-nativewind",
+      "commit": {
+        "sha": "38ad44ef3b92c22e43c25267f24b0866749abca2",
+        "url": "https://api.github.com/repos/JaberChowdhury/react-native-projects/commits/38ad44ef3b92c22e43c25267f24b0866749abca2"
+      },
+      "protected": false,
+      "languages": {
+        "YAML": 2,
+        "TypeScript": 27,
+        "JSON": 6,
+        "React": 17,
+        "JavaScript": 4,
+        "CSS": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "38ad44ef3b92c22e43c25267f24b0866749abca2",
+          "message": "add : more stuf",
+          "author": "Black Light",
+          "date": "2025-04-03T15:13:21Z",
+          "url": "https://github.com/JaberChowdhury/react-native-projects/commit/38ad44ef3b92c22e43c25267f24b0866749abca2"
+        },
+        {
+          "sha": "a475ce9f9212b383fc4f191856c8bc77fcb9cef3",
+          "message": "add : implement color manipulation utilities and global model component",
+          "author": "Black Light",
+          "date": "2025-03-24T17:11:18Z",
+          "url": "https://github.com/JaberChowdhury/react-native-projects/commit/a475ce9f9212b383fc4f191856c8bc77fcb9cef3"
+        },
+        {
+          "sha": "adad9e9fb768a5210ff25fdbeaa70b6faac10d3d",
+          "message": "add : create GitHub Actions workflow for building and releasing Expo app",
+          "author": "Black Light",
+          "date": "2025-03-03T19:31:22Z",
+          "url": "https://github.com/JaberChowdhury/react-native-projects/commit/adad9e9fb768a5210ff25fdbeaa70b6faac10d3d"
+        },
+        {
+          "sha": "b67dd1edd7f119526bae70d6e7d36696dcbcff71",
+          "message": "add : integrate Tailwind CSS and remove unused assets",
+          "author": "Black Light",
+          "date": "2025-03-03T19:26:55Z",
+          "url": "https://github.com/JaberChowdhury/react-native-projects/commit/b67dd1edd7f119526bae70d6e7d36696dcbcff71"
+        },
+        {
+          "sha": "d202723bdacd49433e25efa48b0a180d2d8abb25",
+          "message": "add : buggy tailwind css",
+          "author": "Black Light",
+          "date": "2025-02-09T11:10:54Z",
+          "url": "https://github.com/JaberChowdhury/react-native-projects/commit/d202723bdacd49433e25efa48b0a180d2d8abb25"
+        }
+      ]
+    },
+    {
+      "name": "with-tamagui",
+      "commit": {
+        "sha": "fb74ab72cc8e07fbf09a385681ed5a70327108d1",
+        "url": "https://api.github.com/repos/JaberChowdhury/react-native-projects/commits/fb74ab72cc8e07fbf09a385681ed5a70327108d1"
+      },
+      "protected": false,
+      "languages": {
+        "JSON": 4,
+        "React": 15,
+        "JavaScript": 3,
+        "TypeScript": 2
+      },
+      "recentCommits": [
+        {
+          "sha": "fb74ab72cc8e07fbf09a385681ed5a70327108d1",
+          "message": "refactor : clean up Bearscounter component, remove unused TamauiComponentsDemo file, and implement new TamauiComponentsDemo with dynamic button links",
+          "author": "Black Light",
+          "date": "2025-04-10T11:00:05Z",
+          "url": "https://github.com/JaberChowdhury/react-native-projects/commit/fb74ab72cc8e07fbf09a385681ed5a70327108d1"
+        },
+        {
+          "sha": "c7f6d051ab86497928fa2486bd6e3d47683733f1",
+          "message": "Refactor store and components: Remove old counter and bear store, implement new bear store with history tracking, and create Bearscounter and Bearhistory components. Add ProgressDemo and TamauiComponentsDemo for UI testing. Update TypeScript configuration for JSX support.",
+          "author": "Black Light",
+          "date": "2025-04-10T07:31:36Z",
+          "url": "https://github.com/JaberChowdhury/react-native-projects/commit/c7f6d051ab86497928fa2486bd6e3d47683733f1"
+        },
+        {
+          "sha": "4c7274d74f01b5cf1c4f1dfdd7234d45e74c002b",
+          "message": "update : upgrade dependencies and remove unused import",
+          "author": "Black Light",
+          "date": "2025-03-03T10:37:13Z",
+          "url": "https://github.com/JaberChowdhury/react-native-projects/commit/4c7274d74f01b5cf1c4f1dfdd7234d45e74c002b"
+        },
+        {
+          "sha": "c457b876cad747a521c25487ec751abcea6f4a25",
+          "message": "add : implement counter feature with Zustand state management and alert dialog",
+          "author": "Black Light",
+          "date": "2025-03-03T10:32:54Z",
+          "url": "https://github.com/JaberChowdhury/react-native-projects/commit/c457b876cad747a521c25487ec751abcea6f4a25"
+        },
+        {
+          "sha": "cd3cca2a209579356eddb5278f0f006762313f3c",
+          "message": "add : initialize project with configuration files, components, and layout",
+          "author": "Black Light",
+          "date": "2025-03-03T09:31:33Z",
+          "url": "https://github.com/JaberChowdhury/react-native-projects/commit/cd3cca2a209579356eddb5278f0f006762313f3c"
+        }
+      ]
+    }
+  ],
+  "readmes": [
+    {
+      "name": "main",
+      "readmeHtml": "<div id=\"readme\" class=\"md\" data-path=\"README.md\"><article class=\"markdown-body entry-content container-lg\" itemprop=\"text\"><div class=\"markdown-heading\" dir=\"auto\"><h1 class=\"heading-element\" dir=\"auto\">Welcome to your Expo app 👋</h1><a id=\"user-content-welcome-to-your-expo-app-\" class=\"anchor\" aria-label=\"Permalink: Welcome to your Expo app 👋\" href=\"#welcome-to-your-expo-app-\"><svg data-component=\"Octicon\" class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"><path d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"></path></svg></a></div>\n<p dir=\"auto\">This is an <a href=\"https://expo.dev\" rel=\"nofollow\">Expo</a> project created with <a href=\"https://www.npmjs.com/package/create-expo-app\" rel=\"nofollow\"><code>create-expo-app</code></a>.</p>\n<div class=\"markdown-heading\" dir=\"auto\"><h2 class=\"heading-element\" dir=\"auto\">Get started</h2><a id=\"user-content-get-started\" class=\"anchor\" aria-label=\"Permalink: Get started\" href=\"#get-started\"><svg data-component=\"Octicon\" class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"><path d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"></path></svg></a></div>\n<ol dir=\"auto\">\n<li>\n<p dir=\"auto\">Install dependencies</p>\n<div class=\"highlight highlight-source-shell notranslate position-relative overflow-auto\" dir=\"auto\" data-snippet-clipboard-copy-content=\"npm install\"><pre>npm install</pre></div>\n</li>\n<li>\n<p dir=\"auto\">Start the app</p>\n<div class=\"highlight highlight-source-shell notranslate position-relative overflow-auto\" dir=\"auto\" data-snippet-clipboard-copy-content=\" npx expo start\"><pre> npx expo start</pre></div>\n</li>\n</ol>\n<p dir=\"auto\">In the output, you'll find options to open the app in a</p>\n<ul dir=\"auto\">\n<li><a href=\"https://docs.expo.dev/develop/development-builds/introduction/\" rel=\"nofollow\">development build</a></li>\n<li><a href=\"https://docs.expo.dev/workflow/android-studio-emulator/\" rel=\"nofollow\">Android emulator</a></li>\n<li><a href=\"https://docs.expo.dev/workflow/ios-simulator/\" rel=\"nofollow\">iOS simulator</a></li>\n<li><a href=\"https://expo.dev/go\" rel=\"nofollow\">Expo Go</a>, a limited sandbox for trying out app development with Expo</li>\n</ul>\n<p dir=\"auto\">You can start developing by editing the files inside the <strong>app</strong> directory. This project uses <a href=\"https://docs.expo.dev/router/introduction\" rel=\"nofollow\">file-based routing</a>.</p>\n<div class=\"markdown-heading\" dir=\"auto\"><h2 class=\"heading-element\" dir=\"auto\">Get a fresh project</h2><a id=\"user-content-get-a-fresh-project\" class=\"anchor\" aria-label=\"Permalink: Get a fresh project\" href=\"#get-a-fresh-project\"><svg data-component=\"Octicon\" class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"><path d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"></path></svg></a></div>\n<p dir=\"auto\">When you're ready, run:</p>\n<div class=\"highlight highlight-source-shell notranslate position-relative overflow-auto\" dir=\"auto\" data-snippet-clipboard-copy-content=\"npm run reset-project\"><pre>npm run reset-project</pre></div>\n<p dir=\"auto\">This command will move the starter code to the <strong>app-example</strong> directory and create a blank <strong>app</strong> directory where you can start developing.</p>\n<div class=\"markdown-heading\" dir=\"auto\"><h2 class=\"heading-element\" dir=\"auto\">Learn more</h2><a id=\"user-content-learn-more\" class=\"anchor\" aria-label=\"Permalink: Learn more\" href=\"#learn-more\"><svg data-component=\"Octicon\" class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"><path d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"></path></svg></a></div>\n<p dir=\"auto\">To learn more about developing your project with Expo, look at the following resources:</p>\n<ul dir=\"auto\">\n<li><a href=\"https://docs.expo.dev/\" rel=\"nofollow\">Expo documentation</a>: Learn fundamentals, or go into advanced topics with our <a href=\"https://docs.expo.dev/guides\" rel=\"nofollow\">guides</a>.</li>\n<li><a href=\"https://docs.expo.dev/tutorial/introduction/\" rel=\"nofollow\">Learn Expo tutorial</a>: Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.</li>\n</ul>\n<div class=\"markdown-heading\" dir=\"auto\"><h2 class=\"heading-element\" dir=\"auto\">Join the community</h2><a id=\"user-content-join-the-community\" class=\"anchor\" aria-label=\"Permalink: Join the community\" href=\"#join-the-community\"><svg data-component=\"Octicon\" class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"><path d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"></path></svg></a></div>\n<p dir=\"auto\">Join our community of developers creating universal apps.</p>\n<ul dir=\"auto\">\n<li><a href=\"https://github.com/expo/expo\">Expo on GitHub</a>: View our open source platform and contribute.</li>\n<li><a href=\"https://chat.expo.dev\" rel=\"nofollow\">Discord community</a>: Chat with Expo users and ask questions.</li>\n</ul>\n</article></div>"
+    }
+  ],
+  "languages": {
+    "TypeScript": 28139,
+    "JavaScript": 3608,
+    "CSS": 132
+  },
+  "weeklyActivity": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+}

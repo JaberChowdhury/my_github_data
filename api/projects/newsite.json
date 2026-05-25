@@ -1,0 +1,137 @@
+{
+  "id": 477797139,
+  "name": "newsite",
+  "description": null,
+  "html_url": "https://github.com/JaberChowdhury/newsite",
+  "homepage": null,
+  "language": "CSS",
+  "topics": [],
+  "stargazers_count": 1,
+  "updated_at": "2024-10-09T11:09:57Z",
+  "full_name": "JaberChowdhury/newsite",
+  "watchers_count": 1,
+  "forks_count": 0,
+  "pushed_at": "2024-10-09T11:09:54Z",
+  "default_branch": "master",
+  "fork": false,
+  "size": 32011,
+  "open_issues_count": 0,
+  "branches": [
+    {
+      "name": "master",
+      "commit": {
+        "sha": "1c8927f52097167c51563ef64b5a807c2607f318",
+        "url": "https://api.github.com/repos/JaberChowdhury/newsite/commits/1c8927f52097167c51563ef64b5a807c2607f318"
+      },
+      "protected": false,
+      "languages": {
+        "JavaScript": 1,
+        "CSS": 1,
+        "Markdown": 1,
+        "HTML": 2
+      },
+      "recentCommits": [
+        {
+          "sha": "1c8927f52097167c51563ef64b5a807c2607f318",
+          "message": "update :  index.html",
+          "author": "Black Light",
+          "date": "2024-10-09T11:09:53Z",
+          "url": "https://github.com/JaberChowdhury/newsite/commit/1c8927f52097167c51563ef64b5a807c2607f318"
+        },
+        {
+          "sha": "2e6c81d8c697b91dda9fa57ae3884c7c53021f1f",
+          "message": "update : README.md",
+          "author": "Black Light",
+          "date": "2024-10-09T11:08:35Z",
+          "url": "https://github.com/JaberChowdhury/newsite/commit/2e6c81d8c697b91dda9fa57ae3884c7c53021f1f"
+        },
+        {
+          "sha": "cee6f28395525036bb5c2374e5495ec463aaeacd",
+          "message": "Test origin",
+          "author": "black",
+          "date": "2022-04-10T15:40:13Z",
+          "url": "https://github.com/JaberChowdhury/newsite/commit/cee6f28395525036bb5c2374e5495ec463aaeacd"
+        },
+        {
+          "sha": "0efadbd13e1d4ebf669e60e7fd6daa70b1539d40",
+          "message": "Test origin",
+          "author": "black",
+          "date": "2022-04-09T05:56:43Z",
+          "url": "https://github.com/JaberChowdhury/newsite/commit/0efadbd13e1d4ebf669e60e7fd6daa70b1539d40"
+        },
+        {
+          "sha": "2b5f9459476faf3ceb008cea01b8ef351197524e",
+          "message": "Test origin",
+          "author": "black",
+          "date": "2022-04-07T10:14:42Z",
+          "url": "https://github.com/JaberChowdhury/newsite/commit/2b5f9459476faf3ceb008cea01b8ef351197524e"
+        }
+      ]
+    }
+  ],
+  "readmes": [
+    {
+      "name": "master",
+      "readmeHtml": "<div id=\"readme\" class=\"md\" data-path=\"README.md\"><article class=\"markdown-body entry-content container-lg\" itemprop=\"text\"><p dir=\"auto\"><a href=\"https://jaberchowdhury.github.io/newsite/\" rel=\"nofollow\">https://jaberchowdhury.github.io/newsite/</a></p>\n</article></div>"
+    }
+  ],
+  "languages": {
+    "CSS": 9892,
+    "HTML": 9325,
+    "JavaScript": 723
+  },
+  "weeklyActivity": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+}

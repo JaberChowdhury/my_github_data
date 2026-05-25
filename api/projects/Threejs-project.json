@@ -1,0 +1,668 @@
+{
+  "id": 854169054,
+  "name": "Threejs-project",
+  "description": "Branching my 3js projects !!!",
+  "html_url": "https://github.com/JaberChowdhury/Threejs-project",
+  "homepage": "https://threejs-project-kappa.vercel.app",
+  "language": "JavaScript",
+  "topics": [],
+  "stargazers_count": 0,
+  "updated_at": "2025-03-06T17:07:49Z",
+  "full_name": "JaberChowdhury/Threejs-project",
+  "watchers_count": 0,
+  "forks_count": 0,
+  "pushed_at": "2025-03-20T08:14:24Z",
+  "default_branch": "master",
+  "fork": false,
+  "size": 33,
+  "open_issues_count": 0,
+  "branches": [
+    {
+      "name": "antialiasing",
+      "commit": {
+        "sha": "bcf98dc6cefc0116eb0a5291bcae7f7f0f788de2",
+        "url": "https://api.github.com/repos/JaberChowdhury/Threejs-project/commits/bcf98dc6cefc0116eb0a5291bcae7f7f0f788de2"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "HTML": 1,
+        "JavaScript": 1,
+        "JSON": 1,
+        "YAML": 1,
+        "CSS": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "bcf98dc6cefc0116eb0a5291bcae7f7f0f788de2",
+          "message": "Update README.md",
+          "author": "Black Light",
+          "date": "2024-09-14T14:51:46Z",
+          "url": "https://github.com/JaberChowdhury/Threejs-project/commit/bcf98dc6cefc0116eb0a5291bcae7f7f0f788de2"
+        },
+        {
+          "sha": "363da87cf44e806077ed6aedb7899c09f3efa8af",
+          "message": "fix : antialias problems solved",
+          "author": "black",
+          "date": "2024-09-14T14:46:39Z",
+          "url": "https://github.com/JaberChowdhury/Threejs-project/commit/363da87cf44e806077ed6aedb7899c09f3efa8af"
+        },
+        {
+          "sha": "02ccc476978032fe42b431d07a8a142af142d4ed",
+          "message": "add : resizing",
+          "author": "black",
+          "date": "2024-09-14T14:02:55Z",
+          "url": "https://github.com/JaberChowdhury/Threejs-project/commit/02ccc476978032fe42b431d07a8a142af142d4ed"
+        },
+        {
+          "sha": "f91f79ede57d00628f1312195d33bbcfe24c085f",
+          "message": "add : autorotate",
+          "author": "black",
+          "date": "2024-09-14T13:37:55Z",
+          "url": "https://github.com/JaberChowdhury/Threejs-project/commit/f91f79ede57d00628f1312195d33bbcfe24c085f"
+        },
+        {
+          "sha": "c82c6490451c1d4cd843f2c33837e2b9825d402b",
+          "message": "add : orbit controls",
+          "author": "black",
+          "date": "2024-09-13T13:27:56Z",
+          "url": "https://github.com/JaberChowdhury/Threejs-project/commit/c82c6490451c1d4cd843f2c33837e2b9825d402b"
+        }
+      ]
+    },
+    {
+      "name": "axesHelper",
+      "commit": {
+        "sha": "c22ec13a58db50ff5d4d084075b371e591aaed7c",
+        "url": "https://api.github.com/repos/JaberChowdhury/Threejs-project/commits/c22ec13a58db50ff5d4d084075b371e591aaed7c"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "HTML": 1,
+        "JavaScript": 1,
+        "JSON": 1,
+        "YAML": 1,
+        "CSS": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "c22ec13a58db50ff5d4d084075b371e591aaed7c",
+          "message": "chore: update rollup and related packages to version 4.36.0",
+          "author": "Black Light",
+          "date": "2025-03-20T08:14:11Z",
+          "url": "https://github.com/JaberChowdhury/Threejs-project/commit/c22ec13a58db50ff5d4d084075b371e591aaed7c"
+        },
+        {
+          "sha": "1dbfb76b38188ac6f3b6a7240c453f118657b086",
+          "message": "chore: update devDependencies for prettier and vite",
+          "author": "Black Light",
+          "date": "2025-03-20T08:13:41Z",
+          "url": "https://github.com/JaberChowdhury/Threejs-project/commit/1dbfb76b38188ac6f3b6a7240c453f118657b086"
+        },
+        {
+          "sha": "5bc4193790277ff63fcbae1f2fdd89f82054e471",
+          "message": "add : axes helper",
+          "author": "black",
+          "date": "2024-09-15T04:21:18Z",
+          "url": "https://github.com/JaberChowdhury/Threejs-project/commit/5bc4193790277ff63fcbae1f2fdd89f82054e471"
+        },
+        {
+          "sha": "898198ed750279a72a3eea44b27a4d2c714f5290",
+          "message": "Update README.md",
+          "author": "Black Light",
+          "date": "2024-09-14T14:50:49Z",
+          "url": "https://github.com/JaberChowdhury/Threejs-project/commit/898198ed750279a72a3eea44b27a4d2c714f5290"
+        },
+        {
+          "sha": "363da87cf44e806077ed6aedb7899c09f3efa8af",
+          "message": "fix : antialias problems solved",
+          "author": "black",
+          "date": "2024-09-14T14:46:39Z",
+          "url": "https://github.com/JaberChowdhury/Threejs-project/commit/363da87cf44e806077ed6aedb7899c09f3efa8af"
+        }
+      ]
+    },
+    {
+      "name": "main",
+      "commit": {
+        "sha": "898198ed750279a72a3eea44b27a4d2c714f5290",
+        "url": "https://api.github.com/repos/JaberChowdhury/Threejs-project/commits/898198ed750279a72a3eea44b27a4d2c714f5290"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "HTML": 1,
+        "JavaScript": 1,
+        "JSON": 1,
+        "YAML": 1,
+        "CSS": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "898198ed750279a72a3eea44b27a4d2c714f5290",
+          "message": "Update README.md",
+          "author": "Black Light",
+          "date": "2024-09-14T14:50:49Z",
+          "url": "https://github.com/JaberChowdhury/Threejs-project/commit/898198ed750279a72a3eea44b27a4d2c714f5290"
+        },
+        {
+          "sha": "363da87cf44e806077ed6aedb7899c09f3efa8af",
+          "message": "fix : antialias problems solved",
+          "author": "black",
+          "date": "2024-09-14T14:46:39Z",
+          "url": "https://github.com/JaberChowdhury/Threejs-project/commit/363da87cf44e806077ed6aedb7899c09f3efa8af"
+        },
+        {
+          "sha": "02ccc476978032fe42b431d07a8a142af142d4ed",
+          "message": "add : resizing",
+          "author": "black",
+          "date": "2024-09-14T14:02:55Z",
+          "url": "https://github.com/JaberChowdhury/Threejs-project/commit/02ccc476978032fe42b431d07a8a142af142d4ed"
+        },
+        {
+          "sha": "f91f79ede57d00628f1312195d33bbcfe24c085f",
+          "message": "add : autorotate",
+          "author": "black",
+          "date": "2024-09-14T13:37:55Z",
+          "url": "https://github.com/JaberChowdhury/Threejs-project/commit/f91f79ede57d00628f1312195d33bbcfe24c085f"
+        },
+        {
+          "sha": "c82c6490451c1d4cd843f2c33837e2b9825d402b",
+          "message": "add : orbit controls",
+          "author": "black",
+          "date": "2024-09-13T13:27:56Z",
+          "url": "https://github.com/JaberChowdhury/Threejs-project/commit/c82c6490451c1d4cd843f2c33837e2b9825d402b"
+        }
+      ]
+    },
+    {
+      "name": "master",
+      "commit": {
+        "sha": "651f36943c12a8882bce62e7ec7e2f8a66ba13aa",
+        "url": "https://api.github.com/repos/JaberChowdhury/Threejs-project/commits/651f36943c12a8882bce62e7ec7e2f8a66ba13aa"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "HTML": 1,
+        "JavaScript": 2,
+        "JSON": 1,
+        "CSS": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "651f36943c12a8882bce62e7ec7e2f8a66ba13aa",
+          "message": "update : packages",
+          "author": "Black Light",
+          "date": "2025-03-06T17:07:38Z",
+          "url": "https://github.com/JaberChowdhury/Threejs-project/commit/651f36943c12a8882bce62e7ec7e2f8a66ba13aa"
+        },
+        {
+          "sha": "1cd522e3175e1128ef150381e98071ff8563d377",
+          "message": "add : new branch",
+          "author": "black",
+          "date": "2024-09-16T17:32:49Z",
+          "url": "https://github.com/JaberChowdhury/Threejs-project/commit/1cd522e3175e1128ef150381e98071ff8563d377"
+        },
+        {
+          "sha": "f0fa9a7566828f599c70bc5be13cdb20570d8437",
+          "message": "remove : all",
+          "author": "black",
+          "date": "2024-09-16T17:26:57Z",
+          "url": "https://github.com/JaberChowdhury/Threejs-project/commit/f0fa9a7566828f599c70bc5be13cdb20570d8437"
+        },
+        {
+          "sha": "2e39e4efb6216f2aae213419128b3253dd70d5f1",
+          "message": "add : Initial template code added",
+          "author": "black",
+          "date": "2024-09-13T12:49:06Z",
+          "url": "https://github.com/JaberChowdhury/Threejs-project/commit/2e39e4efb6216f2aae213419128b3253dd70d5f1"
+        },
+        {
+          "sha": "87e9eec520b476a11971a7de30ee9e193057d4ed",
+          "message": "Add : create README.md",
+          "author": "Black Light",
+          "date": "2024-09-09T11:56:20Z",
+          "url": "https://github.com/JaberChowdhury/Threejs-project/commit/87e9eec520b476a11971a7de30ee9e193057d4ed"
+        }
+      ]
+    },
+    {
+      "name": "multiple_cub3_m3sh",
+      "commit": {
+        "sha": "ca3a30836b2e4fbdf0cdcf6740786cc759847853",
+        "url": "https://api.github.com/repos/JaberChowdhury/Threejs-project/commits/ca3a30836b2e4fbdf0cdcf6740786cc759847853"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "HTML": 1,
+        "JavaScript": 1,
+        "JSON": 1,
+        "YAML": 1,
+        "CSS": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "ca3a30836b2e4fbdf0cdcf6740786cc759847853",
+          "message": "add : multiple cube mesh",
+          "author": "black",
+          "date": "2024-09-16T13:51:45Z",
+          "url": "https://github.com/JaberChowdhury/Threejs-project/commit/ca3a30836b2e4fbdf0cdcf6740786cc759847853"
+        },
+        {
+          "sha": "4bef36ae599df10c71d58009ac014a041dfbe72c",
+          "message": "fix : README.md",
+          "author": "black",
+          "date": "2024-09-16T09:50:45Z",
+          "url": "https://github.com/JaberChowdhury/Threejs-project/commit/4bef36ae599df10c71d58009ac014a041dfbe72c"
+        },
+        {
+          "sha": "898198ed750279a72a3eea44b27a4d2c714f5290",
+          "message": "Update README.md",
+          "author": "Black Light",
+          "date": "2024-09-14T14:50:49Z",
+          "url": "https://github.com/JaberChowdhury/Threejs-project/commit/898198ed750279a72a3eea44b27a4d2c714f5290"
+        },
+        {
+          "sha": "363da87cf44e806077ed6aedb7899c09f3efa8af",
+          "message": "fix : antialias problems solved",
+          "author": "black",
+          "date": "2024-09-14T14:46:39Z",
+          "url": "https://github.com/JaberChowdhury/Threejs-project/commit/363da87cf44e806077ed6aedb7899c09f3efa8af"
+        },
+        {
+          "sha": "02ccc476978032fe42b431d07a8a142af142d4ed",
+          "message": "add : resizing",
+          "author": "black",
+          "date": "2024-09-14T14:02:55Z",
+          "url": "https://github.com/JaberChowdhury/Threejs-project/commit/02ccc476978032fe42b431d07a8a142af142d4ed"
+        }
+      ]
+    },
+    {
+      "name": "multiple_cub3_m3sh_2.0",
+      "commit": {
+        "sha": "7de3618cc8cd7ff454f25f08816b735ddca79dcd",
+        "url": "https://api.github.com/repos/JaberChowdhury/Threejs-project/commits/7de3618cc8cd7ff454f25f08816b735ddca79dcd"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "HTML": 1,
+        "JavaScript": 2,
+        "JSON": 1,
+        "YAML": 1,
+        "CSS": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "7de3618cc8cd7ff454f25f08816b735ddca79dcd",
+          "message": "add : so many cube mesh",
+          "author": "black",
+          "date": "2024-09-16T17:25:43Z",
+          "url": "https://github.com/JaberChowdhury/Threejs-project/commit/7de3618cc8cd7ff454f25f08816b735ddca79dcd"
+        },
+        {
+          "sha": "60aad15dc727adc06c0637dc4f6a43902a77ef7f",
+          "message": "fix : README.md",
+          "author": "black",
+          "date": "2024-09-16T14:38:06Z",
+          "url": "https://github.com/JaberChowdhury/Threejs-project/commit/60aad15dc727adc06c0637dc4f6a43902a77ef7f"
+        },
+        {
+          "sha": "ca3a30836b2e4fbdf0cdcf6740786cc759847853",
+          "message": "add : multiple cube mesh",
+          "author": "black",
+          "date": "2024-09-16T13:51:45Z",
+          "url": "https://github.com/JaberChowdhury/Threejs-project/commit/ca3a30836b2e4fbdf0cdcf6740786cc759847853"
+        },
+        {
+          "sha": "4bef36ae599df10c71d58009ac014a041dfbe72c",
+          "message": "fix : README.md",
+          "author": "black",
+          "date": "2024-09-16T09:50:45Z",
+          "url": "https://github.com/JaberChowdhury/Threejs-project/commit/4bef36ae599df10c71d58009ac014a041dfbe72c"
+        },
+        {
+          "sha": "898198ed750279a72a3eea44b27a4d2c714f5290",
+          "message": "Update README.md",
+          "author": "Black Light",
+          "date": "2024-09-14T14:50:49Z",
+          "url": "https://github.com/JaberChowdhury/Threejs-project/commit/898198ed750279a72a3eea44b27a4d2c714f5290"
+        }
+      ]
+    },
+    {
+      "name": "multiple_cub3_m3sh_3.0",
+      "commit": {
+        "sha": "7ef6798eaf57b94134c265b15866d9d5b4193aef",
+        "url": "https://api.github.com/repos/JaberChowdhury/Threejs-project/commits/7ef6798eaf57b94134c265b15866d9d5b4193aef"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "HTML": 1,
+        "JavaScript": 4,
+        "JSON": 1,
+        "YAML": 1,
+        "CSS": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "7ef6798eaf57b94134c265b15866d9d5b4193aef",
+          "message": "add : something called wireframe",
+          "author": "black",
+          "date": "2024-09-17T15:58:42Z",
+          "url": "https://github.com/JaberChowdhury/Threejs-project/commit/7ef6798eaf57b94134c265b15866d9d5b4193aef"
+        },
+        {
+          "sha": "25b2f3c535d85e5229aa6e088dab5cdd558f6e0e",
+          "message": "add : hsl color",
+          "author": "black",
+          "date": "2024-09-17T13:17:51Z",
+          "url": "https://github.com/JaberChowdhury/Threejs-project/commit/25b2f3c535d85e5229aa6e088dab5cdd558f6e0e"
+        },
+        {
+          "sha": "330fc8988ebb03b1757e962480c871f4b98ff51e",
+          "message": "fix : README.md",
+          "author": "black",
+          "date": "2024-09-16T19:07:32Z",
+          "url": "https://github.com/JaberChowdhury/Threejs-project/commit/330fc8988ebb03b1757e962480c871f4b98ff51e"
+        },
+        {
+          "sha": "7de3618cc8cd7ff454f25f08816b735ddca79dcd",
+          "message": "add : so many cube mesh",
+          "author": "black",
+          "date": "2024-09-16T17:25:43Z",
+          "url": "https://github.com/JaberChowdhury/Threejs-project/commit/7de3618cc8cd7ff454f25f08816b735ddca79dcd"
+        },
+        {
+          "sha": "60aad15dc727adc06c0637dc4f6a43902a77ef7f",
+          "message": "fix : README.md",
+          "author": "black",
+          "date": "2024-09-16T14:38:06Z",
+          "url": "https://github.com/JaberChowdhury/Threejs-project/commit/60aad15dc727adc06c0637dc4f6a43902a77ef7f"
+        }
+      ]
+    },
+    {
+      "name": "orbit_controls",
+      "commit": {
+        "sha": "f8fff391f9a576dffed7d67eaf58752c4ed457e2",
+        "url": "https://api.github.com/repos/JaberChowdhury/Threejs-project/commits/f8fff391f9a576dffed7d67eaf58752c4ed457e2"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "HTML": 1,
+        "JavaScript": 1,
+        "JSON": 1,
+        "YAML": 1,
+        "CSS": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "f8fff391f9a576dffed7d67eaf58752c4ed457e2",
+          "message": "Update README.md",
+          "author": "Black Light",
+          "date": "2024-09-14T14:53:09Z",
+          "url": "https://github.com/JaberChowdhury/Threejs-project/commit/f8fff391f9a576dffed7d67eaf58752c4ed457e2"
+        },
+        {
+          "sha": "c82c6490451c1d4cd843f2c33837e2b9825d402b",
+          "message": "add : orbit controls",
+          "author": "black",
+          "date": "2024-09-13T13:27:56Z",
+          "url": "https://github.com/JaberChowdhury/Threejs-project/commit/c82c6490451c1d4cd843f2c33837e2b9825d402b"
+        },
+        {
+          "sha": "2e39e4efb6216f2aae213419128b3253dd70d5f1",
+          "message": "add : Initial template code added",
+          "author": "black",
+          "date": "2024-09-13T12:49:06Z",
+          "url": "https://github.com/JaberChowdhury/Threejs-project/commit/2e39e4efb6216f2aae213419128b3253dd70d5f1"
+        },
+        {
+          "sha": "87e9eec520b476a11971a7de30ee9e193057d4ed",
+          "message": "Add : create README.md",
+          "author": "Black Light",
+          "date": "2024-09-09T11:56:20Z",
+          "url": "https://github.com/JaberChowdhury/Threejs-project/commit/87e9eec520b476a11971a7de30ee9e193057d4ed"
+        },
+        {
+          "sha": "ff9ea222a134b10f6049dacb32b1503698483482",
+          "message": "initial commit",
+          "author": "black",
+          "date": "2024-09-09T11:54:05Z",
+          "url": "https://github.com/JaberChowdhury/Threejs-project/commit/ff9ea222a134b10f6049dacb32b1503698483482"
+        }
+      ]
+    },
+    {
+      "name": "orthographic_camera",
+      "commit": {
+        "sha": "720359cfd8f9c82fd121fde0a155ba764b8ed755",
+        "url": "https://api.github.com/repos/JaberChowdhury/Threejs-project/commits/720359cfd8f9c82fd121fde0a155ba764b8ed755"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "HTML": 1,
+        "JavaScript": 1,
+        "JSON": 1,
+        "YAML": 1,
+        "CSS": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "720359cfd8f9c82fd121fde0a155ba764b8ed755",
+          "message": "add : orthographic camera",
+          "author": "black",
+          "date": "2024-09-14T13:53:00Z",
+          "url": "https://github.com/JaberChowdhury/Threejs-project/commit/720359cfd8f9c82fd121fde0a155ba764b8ed755"
+        },
+        {
+          "sha": "f91f79ede57d00628f1312195d33bbcfe24c085f",
+          "message": "add : autorotate",
+          "author": "black",
+          "date": "2024-09-14T13:37:55Z",
+          "url": "https://github.com/JaberChowdhury/Threejs-project/commit/f91f79ede57d00628f1312195d33bbcfe24c085f"
+        },
+        {
+          "sha": "c82c6490451c1d4cd843f2c33837e2b9825d402b",
+          "message": "add : orbit controls",
+          "author": "black",
+          "date": "2024-09-13T13:27:56Z",
+          "url": "https://github.com/JaberChowdhury/Threejs-project/commit/c82c6490451c1d4cd843f2c33837e2b9825d402b"
+        },
+        {
+          "sha": "2e39e4efb6216f2aae213419128b3253dd70d5f1",
+          "message": "add : Initial template code added",
+          "author": "black",
+          "date": "2024-09-13T12:49:06Z",
+          "url": "https://github.com/JaberChowdhury/Threejs-project/commit/2e39e4efb6216f2aae213419128b3253dd70d5f1"
+        },
+        {
+          "sha": "87e9eec520b476a11971a7de30ee9e193057d4ed",
+          "message": "Add : create README.md",
+          "author": "Black Light",
+          "date": "2024-09-09T11:56:20Z",
+          "url": "https://github.com/JaberChowdhury/Threejs-project/commit/87e9eec520b476a11971a7de30ee9e193057d4ed"
+        }
+      ]
+    },
+    {
+      "name": "perspective_camera",
+      "commit": {
+        "sha": "f91f79ede57d00628f1312195d33bbcfe24c085f",
+        "url": "https://api.github.com/repos/JaberChowdhury/Threejs-project/commits/f91f79ede57d00628f1312195d33bbcfe24c085f"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "HTML": 1,
+        "JavaScript": 1,
+        "JSON": 1,
+        "YAML": 1,
+        "CSS": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "f91f79ede57d00628f1312195d33bbcfe24c085f",
+          "message": "add : autorotate",
+          "author": "black",
+          "date": "2024-09-14T13:37:55Z",
+          "url": "https://github.com/JaberChowdhury/Threejs-project/commit/f91f79ede57d00628f1312195d33bbcfe24c085f"
+        },
+        {
+          "sha": "c82c6490451c1d4cd843f2c33837e2b9825d402b",
+          "message": "add : orbit controls",
+          "author": "black",
+          "date": "2024-09-13T13:27:56Z",
+          "url": "https://github.com/JaberChowdhury/Threejs-project/commit/c82c6490451c1d4cd843f2c33837e2b9825d402b"
+        },
+        {
+          "sha": "2e39e4efb6216f2aae213419128b3253dd70d5f1",
+          "message": "add : Initial template code added",
+          "author": "black",
+          "date": "2024-09-13T12:49:06Z",
+          "url": "https://github.com/JaberChowdhury/Threejs-project/commit/2e39e4efb6216f2aae213419128b3253dd70d5f1"
+        },
+        {
+          "sha": "87e9eec520b476a11971a7de30ee9e193057d4ed",
+          "message": "Add : create README.md",
+          "author": "Black Light",
+          "date": "2024-09-09T11:56:20Z",
+          "url": "https://github.com/JaberChowdhury/Threejs-project/commit/87e9eec520b476a11971a7de30ee9e193057d4ed"
+        },
+        {
+          "sha": "ff9ea222a134b10f6049dacb32b1503698483482",
+          "message": "initial commit",
+          "author": "black",
+          "date": "2024-09-09T11:54:05Z",
+          "url": "https://github.com/JaberChowdhury/Threejs-project/commit/ff9ea222a134b10f6049dacb32b1503698483482"
+        }
+      ]
+    },
+    {
+      "name": "template",
+      "commit": {
+        "sha": "898198ed750279a72a3eea44b27a4d2c714f5290",
+        "url": "https://api.github.com/repos/JaberChowdhury/Threejs-project/commits/898198ed750279a72a3eea44b27a4d2c714f5290"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "HTML": 1,
+        "JavaScript": 1,
+        "JSON": 1,
+        "YAML": 1,
+        "CSS": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "898198ed750279a72a3eea44b27a4d2c714f5290",
+          "message": "Update README.md",
+          "author": "Black Light",
+          "date": "2024-09-14T14:50:49Z",
+          "url": "https://github.com/JaberChowdhury/Threejs-project/commit/898198ed750279a72a3eea44b27a4d2c714f5290"
+        },
+        {
+          "sha": "363da87cf44e806077ed6aedb7899c09f3efa8af",
+          "message": "fix : antialias problems solved",
+          "author": "black",
+          "date": "2024-09-14T14:46:39Z",
+          "url": "https://github.com/JaberChowdhury/Threejs-project/commit/363da87cf44e806077ed6aedb7899c09f3efa8af"
+        },
+        {
+          "sha": "02ccc476978032fe42b431d07a8a142af142d4ed",
+          "message": "add : resizing",
+          "author": "black",
+          "date": "2024-09-14T14:02:55Z",
+          "url": "https://github.com/JaberChowdhury/Threejs-project/commit/02ccc476978032fe42b431d07a8a142af142d4ed"
+        },
+        {
+          "sha": "f91f79ede57d00628f1312195d33bbcfe24c085f",
+          "message": "add : autorotate",
+          "author": "black",
+          "date": "2024-09-14T13:37:55Z",
+          "url": "https://github.com/JaberChowdhury/Threejs-project/commit/f91f79ede57d00628f1312195d33bbcfe24c085f"
+        },
+        {
+          "sha": "c82c6490451c1d4cd843f2c33837e2b9825d402b",
+          "message": "add : orbit controls",
+          "author": "black",
+          "date": "2024-09-13T13:27:56Z",
+          "url": "https://github.com/JaberChowdhury/Threejs-project/commit/c82c6490451c1d4cd843f2c33837e2b9825d402b"
+        }
+      ]
+    }
+  ],
+  "readmes": [
+    {
+      "name": "master",
+      "readmeHtml": "<div id=\"readme\" class=\"md\" data-path=\"README.md\"><article class=\"markdown-body entry-content container-lg\" itemprop=\"text\"><div class=\"markdown-heading\" dir=\"auto\"><h2 class=\"heading-element\" dir=\"auto\">Branch : multiple_cub3_m3sh_2.0</h2><a id=\"user-content-branch--multiple_cub3_m3sh_20\" class=\"anchor\" aria-label=\"Permalink: Branch : multiple_cub3_m3sh_2.0\" href=\"#branch--multiple_cub3_m3sh_20\"><svg data-component=\"Octicon\" class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"><path d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"></path></svg></a></div>\n<div class=\"markdown-heading\" dir=\"auto\"><h2 class=\"heading-element\" dir=\"auto\">Description : making multiple cube mesh is efficient way (may be)</h2><a id=\"user-content-description--making-multiple-cube-mesh-is-efficient-way-may-be\" class=\"anchor\" aria-label=\"Permalink: Description : making multiple cube mesh is efficient way (may be)\" href=\"#description--making-multiple-cube-mesh-is-efficient-way-may-be\"><svg data-component=\"Octicon\" class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"><path d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"></path></svg></a></div>\n</article></div>"
+    }
+  ],
+  "languages": {
+    "JavaScript": 6836,
+    "CSS": 416,
+    "HTML": 380
+  },
+  "weeklyActivity": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+}

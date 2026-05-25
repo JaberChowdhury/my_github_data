@@ -1,0 +1,1695 @@
+{
+  "id": 690575555,
+  "name": "React_project",
+  "description": "Saving all my react practices here",
+  "html_url": "https://github.com/JaberChowdhury/React_project",
+  "homepage": "https://react-project-sigma-rose.vercel.app/",
+  "language": "TypeScript",
+  "topics": [
+    "material-ui",
+    "mui",
+    "prettier",
+    "react",
+    "react-router",
+    "redux",
+    "redux-thunk",
+    "redux-toolkit",
+    "tailwindcss"
+  ],
+  "stargazers_count": 1,
+  "updated_at": "2025-05-03T14:30:51Z",
+  "full_name": "JaberChowdhury/React_project",
+  "watchers_count": 1,
+  "forks_count": 0,
+  "pushed_at": "2025-08-15T18:33:08Z",
+  "default_branch": "main",
+  "fork": false,
+  "size": 1881,
+  "open_issues_count": 0,
+  "branches": [
+    {
+      "name": "all-quran-project",
+      "commit": {
+        "sha": "0e4ca99db97e5bc2c314b936898dad04c84a5b5a",
+        "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/0e4ca99db97e5bc2c314b936898dad04c84a5b5a"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "HTML": 1,
+        "JSON": 5,
+        "React": 12,
+        "TypeScript": 12,
+        "CSS": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "0e4ca99db97e5bc2c314b936898dad04c84a5b5a",
+          "message": "init : new branch all-quran-project",
+          "author": "black",
+          "date": "2024-02-09T13:11:44Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/0e4ca99db97e5bc2c314b936898dad04c84a5b5a"
+        },
+        {
+          "sha": "58edca829d2696a4252762d2b893432db80d655d",
+          "message": "add : project completed",
+          "author": "black",
+          "date": "2024-01-28T06:07:56Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/58edca829d2696a4252762d2b893432db80d655d"
+        },
+        {
+          "sha": "435a60967d7377bfb99c1123ae0652b7fcc39645",
+          "message": "clean : remove everything",
+          "author": "black",
+          "date": "2024-01-28T06:01:05Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/435a60967d7377bfb99c1123ae0652b7fcc39645"
+        },
+        {
+          "sha": "772cd00eb6bf83a2aa1a634b9d3fec9ddee77559",
+          "message": "add : project completed",
+          "author": "black",
+          "date": "2024-01-28T06:00:11Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/772cd00eb6bf83a2aa1a634b9d3fec9ddee77559"
+        },
+        {
+          "sha": "97b565a4c617c1b5ad8b85aafa11e4ce46af515c",
+          "message": "Merge branch 'todo-curd-app'",
+          "author": "black",
+          "date": "2024-01-28T05:59:03Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/97b565a4c617c1b5ad8b85aafa11e4ce46af515c"
+        }
+      ]
+    },
+    {
+      "name": "all-quran-project-2.0",
+      "commit": {
+        "sha": "04c0f77392794724007d866e45bff0cd1e40128e",
+        "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/04c0f77392794724007d866e45bff0cd1e40128e"
+      },
+      "protected": false,
+      "languages": {
+        "JavaScript": 2,
+        "JSON": 5,
+        "Markdown": 1,
+        "YAML": 1,
+        "React": 4,
+        "TypeScript": 3,
+        "Astro": 3,
+        "CSS": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "04c0f77392794724007d866e45bff0cd1e40128e",
+          "message": "init : all-quran-project-2.0",
+          "author": "black",
+          "date": "2024-02-19T17:05:43Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/04c0f77392794724007d866e45bff0cd1e40128e"
+        },
+        {
+          "sha": "9d5f49703ca1c1b8ddf68f1883f055078ec6ea98",
+          "message": "merge : merge with todo-curd-app-2.0",
+          "author": "black",
+          "date": "2024-02-13T19:19:59Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/9d5f49703ca1c1b8ddf68f1883f055078ec6ea98"
+        },
+        {
+          "sha": "ac511b90dbf1941f41148d669d7dae613eb17a45",
+          "message": "merge : merge with todo-curd-app-2.0",
+          "author": "black",
+          "date": "2024-02-13T19:16:18Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/ac511b90dbf1941f41148d669d7dae613eb17a45"
+        },
+        {
+          "sha": "26bec51947ca92729811a8000d0dd3ff7cb062e9",
+          "message": "merging latest version",
+          "author": "black",
+          "date": "2024-02-13T19:15:27Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/26bec51947ca92729811a8000d0dd3ff7cb062e9"
+        },
+        {
+          "sha": "64afafe9ed0badb4b4a7e9272c8d185d255f2527",
+          "message": "fix & add : form is now a reusable componemts and added a code route for sharing components",
+          "author": "black",
+          "date": "2024-02-13T19:12:37Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/64afafe9ed0badb4b4a7e9272c8d185d255f2527"
+        }
+      ]
+    },
+    {
+      "name": "assignment-7",
+      "commit": {
+        "sha": "a6490044da27e1f89406ecd97698c35c3dd2dcfa",
+        "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/a6490044da27e1f89406ecd97698c35c3dd2dcfa"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "JSON": 4,
+        "JavaScript": 2,
+        "HTML": 1,
+        "TypeScript": 3,
+        "React": 14,
+        "CSS": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "a6490044da27e1f89406ecd97698c35c3dd2dcfa",
+          "message": "merge :with main",
+          "author": "Black Light",
+          "date": "2025-04-09T13:50:06Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/a6490044da27e1f89406ecd97698c35c3dd2dcfa"
+        },
+        {
+          "sha": "080d72f26e41a25c1a3555dc4cdbfc49e0da0e4d",
+          "message": "feat: implement auction feature with context provider and UI components",
+          "author": "Black Light",
+          "date": "2025-04-09T13:48:17Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/080d72f26e41a25c1a3555dc4cdbfc49e0da0e4d"
+        },
+        {
+          "sha": "fe7102998feee179adaa4c772d0f60a70ec96884",
+          "message": "update : packages",
+          "author": "Black Light",
+          "date": "2025-04-08T14:20:05Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/fe7102998feee179adaa4c772d0f60a70ec96884"
+        },
+        {
+          "sha": "f0fa8c92ef796a07be6d3e608d7be67c662d0b5f",
+          "message": "Merge pull request #2 from JaberChowdhury/rspack_shadcn_tailwind-v4\n\nRspack shadcn tailwind v4",
+          "author": "Black Light",
+          "date": "2025-03-28T18:01:54Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/f0fa8c92ef796a07be6d3e608d7be67c662d0b5f"
+        },
+        {
+          "sha": "5c71126c20a117a36f8fe9d0f9193326a6c5a74b",
+          "message": "Merge branch 'rest_country-v2' of https://github.com/JaberChowdhury/React_project into rest_country-v2",
+          "author": "Black Light",
+          "date": "2025-03-28T17:58:52Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/5c71126c20a117a36f8fe9d0f9193326a6c5a74b"
+        }
+      ]
+    },
+    {
+      "name": "assignment-8",
+      "commit": {
+        "sha": "8599ad6a8f85b252023c431a2679cb424781fe1c",
+        "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/8599ad6a8f85b252023c431a2679cb424781fe1c"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "CSS": 1,
+        "React": 19,
+        "TypeScript": 5,
+        "JSON": 4,
+        "JavaScript": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "8599ad6a8f85b252023c431a2679cb424781fe1c",
+          "message": "feat: Implement Doctor section with loading state, reviews, and context provider\n\n- Added Doctors component to display a list of doctors with their details.\n- Integrated loading state using useDoctors context.\n- Created Review component to showcase statistics about doctors and patients.\n- Developed Hero component for introductory content.\n- Enhanced Navbar with brand and links, including an emergency button.\n- Implemented Footer with social media links and navigation.\n- Created Loading component for better user experience during data fetching.\n- Established DoctorContextProvider for managing doctor data and loading state.\n- Updated routes to include Doctor layout and components.\n- Added utility functions for class name merging and Google Drive link conversion.\n- Introduced UI components for buttons, cards, inputs, and separators.\n- Updated package dependencies and configurations for improved functionality.",
+          "author": "Black Light",
+          "date": "2025-04-23T20:11:09Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/8599ad6a8f85b252023c431a2679cb424781fe1c"
+        },
+        {
+          "sha": "8e62f93e125a5f5c5ea708727bb0943f4efd3198",
+          "message": "refactor: remove Mantine UI components and styles from Navbar and root files",
+          "author": "Black Light",
+          "date": "2025-04-22T13:57:35Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/8e62f93e125a5f5c5ea708727bb0943f4efd3198"
+        },
+        {
+          "sha": "85048814d2834aacd99fade835603b2f27200646",
+          "message": "feat: integrate Mantine UI components and styles into the project",
+          "author": "Black Light",
+          "date": "2025-04-20T18:17:55Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/85048814d2834aacd99fade835603b2f27200646"
+        },
+        {
+          "sha": "7a50732abb00f1eec039f34222d5f7ca87c70a44",
+          "message": "setup : good project",
+          "author": "Black Light",
+          "date": "2025-04-20T18:08:47Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/7a50732abb00f1eec039f34222d5f7ca87c70a44"
+        },
+        {
+          "sha": "f0fa8c92ef796a07be6d3e608d7be67c662d0b5f",
+          "message": "Merge pull request #2 from JaberChowdhury/rspack_shadcn_tailwind-v4\n\nRspack shadcn tailwind v4",
+          "author": "Black Light",
+          "date": "2025-03-28T18:01:54Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/f0fa8c92ef796a07be6d3e608d7be67c662d0b5f"
+        }
+      ]
+    },
+    {
+      "name": "asthetic-design",
+      "commit": {
+        "sha": "3cb0123b9573cc422ab95d0466eb4722500895fd",
+        "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/3cb0123b9573cc422ab95d0466eb4722500895fd"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "JavaScript": 1,
+        "HTML": 1,
+        "JSON": 4,
+        "React": 2,
+        "CSS": 1,
+        "TypeScript": 3
+      },
+      "recentCommits": [
+        {
+          "sha": "3cb0123b9573cc422ab95d0466eb4722500895fd",
+          "message": "update: add pnpm-lock.yaml to .gitignore and update package dependencies",
+          "author": "Black Light",
+          "date": "2025-03-28T13:45:11Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/3cb0123b9573cc422ab95d0466eb4722500895fd"
+        },
+        {
+          "sha": "eb0ad1e83cd636337e897b8b8fa40db09cf873b0",
+          "message": "update: add CSS variables for theming and update dependencies",
+          "author": "Black Light",
+          "date": "2025-03-13T16:18:17Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/eb0ad1e83cd636337e897b8b8fa40db09cf873b0"
+        },
+        {
+          "sha": "9fcb280c1361982dc09d7362e2331b4edfe5fa3c",
+          "message": "refactor: restructure project files and update configurations",
+          "author": "Black Light",
+          "date": "2025-02-03T11:28:12Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/9fcb280c1361982dc09d7362e2331b4edfe5fa3c"
+        },
+        {
+          "sha": "903f2ad3adb4378168cd432d0b7fc6467a73d20c",
+          "message": "update: improve project structure and organization",
+          "author": "Black Light",
+          "date": "2025-02-03T10:52:37Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/903f2ad3adb4378168cd432d0b7fc6467a73d20c"
+        },
+        {
+          "sha": "3db1ffa1d209171e5c7faa79b0720cc6425b279f",
+          "message": "fix : README.md",
+          "author": "Black Light",
+          "date": "2024-01-24T13:20:37Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/3db1ffa1d209171e5c7faa79b0720cc6425b279f"
+        }
+      ]
+    },
+    {
+      "name": "bento-grid",
+      "commit": {
+        "sha": "83240cf23ca18f0ef338f29929469dead8efae89",
+        "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/83240cf23ca18f0ef338f29929469dead8efae89"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "HTML": 1,
+        "JSON": 4,
+        "JavaScript": 2,
+        "React": 6,
+        "TypeScript": 17,
+        "CSS": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "83240cf23ca18f0ef338f29929469dead8efae89",
+          "message": "fix : README.md",
+          "author": "Black Light",
+          "date": "2024-01-24T13:14:00Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/83240cf23ca18f0ef338f29929469dead8efae89"
+        },
+        {
+          "sha": "92e63adf11568e3c103a67acdc3429ba1e294bed",
+          "message": "init : initialize the bento-grid branch",
+          "author": "black",
+          "date": "2023-12-25T12:15:55Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/92e63adf11568e3c103a67acdc3429ba1e294bed"
+        },
+        {
+          "sha": "596e1a95356ac98dddca74d6ee04a1cbd081d586",
+          "message": "dummy commit",
+          "author": "black",
+          "date": "2023-12-25T12:12:20Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/596e1a95356ac98dddca74d6ee04a1cbd081d586"
+        },
+        {
+          "sha": "2e75d6e7febdae845c7a071c96705b1b9bcb5f1c",
+          "message": "dummy commit",
+          "author": "black",
+          "date": "2023-12-25T11:16:47Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/2e75d6e7febdae845c7a071c96705b1b9bcb5f1c"
+        },
+        {
+          "sha": "6eb6efeb92947c4eeb3d8a139f34343ce6348b23",
+          "message": "dummy commit",
+          "author": "black",
+          "date": "2023-12-25T10:58:27Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/6eb6efeb92947c4eeb3d8a139f34343ce6348b23"
+        }
+      ]
+    },
+    {
+      "name": "boipoka-site",
+      "commit": {
+        "sha": "58bd41d059db57f62d4d134cbbad87b70743e749",
+        "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/58bd41d059db57f62d4d134cbbad87b70743e749"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "React": 10,
+        "CSS": 1,
+        "TypeScript": 3,
+        "JSON": 2
+      },
+      "recentCommits": [
+        {
+          "sha": "58bd41d059db57f62d4d134cbbad87b70743e749",
+          "message": "feat: initialize wishlist from local storage and persist changes",
+          "author": "Black Light",
+          "date": "2025-04-20T12:53:41Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/58bd41d059db57f62d4d134cbbad87b70743e749"
+        },
+        {
+          "sha": "6a253d9f23d087a42ae7246aee7255b7cf176f68",
+          "message": "feat: Initialize React Router project with Docker support and Tailwind CSS\n\n- Added .dockerignore and .gitignore files to exclude unnecessary files from builds.\n- Removed Prettier and ESLint configurations as part of project restructuring.\n- Created Dockerfile for multi-stage builds to optimize production images.\n- Updated README.md to reflect new project structure and usage instructions.\n- Implemented Booklist, Books, Hero, Navbar, and Wishlist components for displaying book data.\n- Established BookProvider context for managing book data and wishlist functionality.\n- Set up routing with React Router for navigating between different views.\n- Added styling with Tailwind CSS and configured index.css for global styles.\n- Created routes for Home, Listed Books, and individual Book details.\n- Updated package.json with new dependencies for React Router and Tailwind CSS.\n- Removed obsolete files and configurations related to previous build tools.",
+          "author": "Black Light",
+          "date": "2025-04-20T12:45:43Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/6a253d9f23d087a42ae7246aee7255b7cf176f68"
+        },
+        {
+          "sha": "85536945665a80d371826915df626ba3d4536c4c",
+          "message": "refactor: migrate from rspack to rsbuild, update dependencies and configuration\n\n- Changed project name from rspack-react-ts-starter to rsbuild-react-ts.\n- Updated build and dev scripts to use rsbuild instead of rspack.\n- Removed unused dependencies related to rspack and added necessary rsbuild dependencies.\n- Deleted rspack configuration files and created a new rsbuild configuration file.\n- Removed PostCSS configuration as it was no longer needed.\n- Simplified App component and removed unused assets and components.\n- Cleaned up CSS files and removed Tailwind CSS imports.\n- Updated TypeScript configuration for better type checking.\n- Removed unused utility functions and types.\n- Updated index entry point to use ReactDOM.createRoot for rendering.",
+          "author": "Black Light",
+          "date": "2025-04-05T15:36:44Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/85536945665a80d371826915df626ba3d4536c4c"
+        },
+        {
+          "sha": "f0fa8c92ef796a07be6d3e608d7be67c662d0b5f",
+          "message": "Merge pull request #2 from JaberChowdhury/rspack_shadcn_tailwind-v4\n\nRspack shadcn tailwind v4",
+          "author": "Black Light",
+          "date": "2025-03-28T18:01:54Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/f0fa8c92ef796a07be6d3e608d7be67c662d0b5f"
+        },
+        {
+          "sha": "5c71126c20a117a36f8fe9d0f9193326a6c5a74b",
+          "message": "Merge branch 'rest_country-v2' of https://github.com/JaberChowdhury/React_project into rest_country-v2",
+          "author": "Black Light",
+          "date": "2025-03-28T17:58:52Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/5c71126c20a117a36f8fe9d0f9193326a6c5a74b"
+        }
+      ]
+    },
+    {
+      "name": "color-web",
+      "commit": {
+        "sha": "a92eb3bb4aec2724b3591cc5d0be1f3bc33a724c",
+        "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/a92eb3bb4aec2724b3591cc5d0be1f3bc33a724c"
+      },
+      "protected": false,
+      "languages": {
+        "JavaScript": 2,
+        "Markdown": 1,
+        "JSON": 4,
+        "HTML": 1,
+        "TypeScript": 8,
+        "React": 15,
+        "CSS": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "a92eb3bb4aec2724b3591cc5d0be1f3bc33a724c",
+          "message": "update : packages",
+          "author": "black",
+          "date": "2024-05-10T07:53:58Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/a92eb3bb4aec2724b3591cc5d0be1f3bc33a724c"
+        },
+        {
+          "sha": "38efa26d3744459e6365cca3cb6596530da62789",
+          "message": "add : navbar but not complete",
+          "author": "black",
+          "date": "2024-02-27T19:57:26Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/38efa26d3744459e6365cca3cb6596530da62789"
+        },
+        {
+          "sha": "6f2742e362e3cbf8ecb43b0b92a7a947dd582685",
+          "message": "remove : blog route",
+          "author": "black",
+          "date": "2024-02-27T19:10:08Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/6f2742e362e3cbf8ecb43b0b92a7a947dd582685"
+        },
+        {
+          "sha": "736e96285b57364b6974c9789be23ca212cebc66",
+          "message": "init : project scafoolding initialize !!",
+          "author": "black",
+          "date": "2024-02-26T14:32:20Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/736e96285b57364b6974c9789be23ca212cebc66"
+        },
+        {
+          "sha": "7900b8aec6f812991c038dc7427c280dde7836a7",
+          "message": "fix : README.md",
+          "author": "black",
+          "date": "2024-02-26T13:21:21Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/7900b8aec6f812991c038dc7427c280dde7836a7"
+        }
+      ]
+    },
+    {
+      "name": "custom_selector",
+      "commit": {
+        "sha": "e063e0a4e894cc6f609d26c686017d3e1550e3a2",
+        "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/e063e0a4e894cc6f609d26c686017d3e1550e3a2"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "HTML": 1,
+        "JSON": 5,
+        "JavaScript": 2,
+        "React": 6,
+        "CSS": 1,
+        "TypeScript": 2
+      },
+      "recentCommits": [
+        {
+          "sha": "e063e0a4e894cc6f609d26c686017d3e1550e3a2",
+          "message": "fix : README.md",
+          "author": "Black Light",
+          "date": "2024-01-24T13:15:13Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/e063e0a4e894cc6f609d26c686017d3e1550e3a2"
+        },
+        {
+          "sha": "261159a6bd27eae2812b88b2f78db360a63cc313",
+          "message": "fix : fixed readme file",
+          "author": "black",
+          "date": "2023-12-25T11:05:37Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/261159a6bd27eae2812b88b2f78db360a63cc313"
+        },
+        {
+          "sha": "a66429bce98d6eb705d68091b05b79a1c947e818",
+          "message": "init : initialize the custom_selector branch",
+          "author": "black",
+          "date": "2023-12-25T11:02:58Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/a66429bce98d6eb705d68091b05b79a1c947e818"
+        },
+        {
+          "sha": "6eb6efeb92947c4eeb3d8a139f34343ce6348b23",
+          "message": "dummy commit",
+          "author": "black",
+          "date": "2023-12-25T10:58:27Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/6eb6efeb92947c4eeb3d8a139f34343ce6348b23"
+        },
+        {
+          "sha": "51c7766f3bd8db6e23bb320c656ae70a4b21fd16",
+          "message": "first commit",
+          "author": "black",
+          "date": "2023-09-12T13:12:26Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/51c7766f3bd8db6e23bb320c656ae70a4b21fd16"
+        }
+      ]
+    },
+    {
+      "name": "expense-tracker",
+      "commit": {
+        "sha": "28e2a68489ebafa1752d070011b1cdda22b3c72b",
+        "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/28e2a68489ebafa1752d070011b1cdda22b3c72b"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "JavaScript": 1,
+        "HTML": 1,
+        "JSON": 4,
+        "React": 2,
+        "CSS": 1,
+        "TypeScript": 4
+      },
+      "recentCommits": [
+        {
+          "sha": "28e2a68489ebafa1752d070011b1cdda22b3c72b",
+          "message": "Update : README.md",
+          "author": "Black Light",
+          "date": "2025-01-19T17:54:29Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/28e2a68489ebafa1752d070011b1cdda22b3c72b"
+        },
+        {
+          "sha": "a20b3ac3a5bd589429c8ac462fa5e01a8b8e3bac",
+          "message": "feat : integrate Zustand for expense management and update UI layout",
+          "author": "Black Light",
+          "date": "2025-01-19T17:50:08Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/a20b3ac3a5bd589429c8ac462fa5e01a8b8e3bac"
+        },
+        {
+          "sha": "305901172af944b6f8f50603db3cb3ac1c8a35e2",
+          "message": "refactor : remove ESLint configuration and update project structure",
+          "author": "Black Light",
+          "date": "2025-01-19T06:17:23Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/305901172af944b6f8f50603db3cb3ac1c8a35e2"
+        },
+        {
+          "sha": "63900aeacf89d32d9a358ac4bb2ef6ab9c74ecc0",
+          "message": "add : basic mui comp9nents",
+          "author": "black",
+          "date": "2024-06-03T15:52:52Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/63900aeacf89d32d9a358ac4bb2ef6ab9c74ecc0"
+        },
+        {
+          "sha": "87486abe81e4655125d12bf1e9744adc81e68961",
+          "message": "format : with prettier",
+          "author": "black",
+          "date": "2024-05-30T15:07:15Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/87486abe81e4655125d12bf1e9744adc81e68961"
+        }
+      ]
+    },
+    {
+      "name": "file-based-route-demo",
+      "commit": {
+        "sha": "7909e60c2239c10583c6cf56caa6520ec52997aa",
+        "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/7909e60c2239c10583c6cf56caa6520ec52997aa"
+      },
+      "protected": false,
+      "languages": {
+        "JavaScript": 3,
+        "Markdown": 1,
+        "HTML": 1,
+        "JSON": 4,
+        "React": 23,
+        "TypeScript": 6,
+        "CSS": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "7909e60c2239c10583c6cf56caa6520ec52997aa",
+          "message": "fix : README.md",
+          "author": "Black Light",
+          "date": "2024-01-24T13:15:46Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/7909e60c2239c10583c6cf56caa6520ec52997aa"
+        },
+        {
+          "sha": "39a013bfad3fab29cf6234ddd768ce496dca7bab",
+          "message": "init : created a new branch file-based-route-demo",
+          "author": "black",
+          "date": "2024-01-16T19:45:13Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/39a013bfad3fab29cf6234ddd768ce496dca7bab"
+        },
+        {
+          "sha": "4bc7d7fa854777e66b9fe1dc9cd77b9423ae8c86",
+          "message": "init : initialize the start branch",
+          "author": "black",
+          "date": "2023-12-26T15:18:58Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/4bc7d7fa854777e66b9fe1dc9cd77b9423ae8c86"
+        },
+        {
+          "sha": "67d665429774cd4901659db63c52de02b92b5cb8",
+          "message": "add : gitignore",
+          "author": "black",
+          "date": "2023-12-26T08:59:35Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/67d665429774cd4901659db63c52de02b92b5cb8"
+        },
+        {
+          "sha": "fb8fd1acc662d943670a3f5b665381c34a23fc73",
+          "message": "dummy commit",
+          "author": "black",
+          "date": "2023-12-25T12:19:24Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/fb8fd1acc662d943670a3f5b665381c34a23fc73"
+        }
+      ]
+    },
+    {
+      "name": "file-based-route-v1",
+      "commit": {
+        "sha": "0dc24c00b9b8b57937150a5eca23edcfb8e43472",
+        "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/0dc24c00b9b8b57937150a5eca23edcfb8e43472"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "JavaScript": 6,
+        "HTML": 5,
+        "JSON": 16,
+        "CSS": 5,
+        "React": 26,
+        "TypeScript": 17
+      },
+      "recentCommits": [
+        {
+          "sha": "0dc24c00b9b8b57937150a5eca23edcfb8e43472",
+          "message": "add : example",
+          "author": "black",
+          "date": "2024-10-30T14:23:37Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/0dc24c00b9b8b57937150a5eca23edcfb8e43472"
+        },
+        {
+          "sha": "b4018a1a244893420703772772c674c9ec9587d9",
+          "message": "add : with-fluentui/",
+          "author": "black",
+          "date": "2024-10-30T14:08:11Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/b4018a1a244893420703772772c674c9ec9587d9"
+        },
+        {
+          "sha": "1247f66e3b15b9fde05b4161827f71542e5e5ea2",
+          "message": "update : packages",
+          "author": "black",
+          "date": "2024-10-30T13:57:52Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/1247f66e3b15b9fde05b4161827f71542e5e5ea2"
+        },
+        {
+          "sha": "6fe48fb13058756465093f2da6300573e0aebb4a",
+          "message": "add : .gitignore",
+          "author": "black",
+          "date": "2024-10-30T13:51:30Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/6fe48fb13058756465093f2da6300573e0aebb4a"
+        },
+        {
+          "sha": "d5745b7883b18ef8a53af36a74f7ac8a34d96438",
+          "message": "remove : package-lock.json",
+          "author": "black",
+          "date": "2024-10-30T13:48:10Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/d5745b7883b18ef8a53af36a74f7ac8a34d96438"
+        }
+      ]
+    },
+    {
+      "name": "habit-tracker",
+      "commit": {
+        "sha": "51cb6f39a1888c471e00c13e0be144b83b3e783c",
+        "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/51cb6f39a1888c471e00c13e0be144b83b3e783c"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "HTML": 1,
+        "JSON": 3,
+        "YAML": 1,
+        "JavaScript": 1,
+        "React": 4,
+        "TypeScript": 4,
+        "CSS": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "51cb6f39a1888c471e00c13e0be144b83b3e783c",
+          "message": "removed : shadcn",
+          "author": "black",
+          "date": "2025-08-15T18:33:04Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/51cb6f39a1888c471e00c13e0be144b83b3e783c"
+        },
+        {
+          "sha": "a20e56b45c3bbcfe86e1f8a9effe0751da38bedb",
+          "message": "init : first commit for habit tracker",
+          "author": "black",
+          "date": "2025-08-15T06:34:47Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/a20e56b45c3bbcfe86e1f8a9effe0751da38bedb"
+        },
+        {
+          "sha": "43bd9f999eaf116c90221247a68ac528b6c26e4f",
+          "message": "refactor: improve code formatting and structure in Navbar, Transition, and index components",
+          "author": "Black Light",
+          "date": "2025-03-30T11:43:51Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/43bd9f999eaf116c90221247a68ac528b6c26e4f"
+        },
+        {
+          "sha": "4cc613641ab3b571fbc370b4b17d62dfc9910eb2",
+          "message": "update : dependency",
+          "author": "black",
+          "date": "2024-05-24T09:32:28Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/4cc613641ab3b571fbc370b4b17d62dfc9910eb2"
+        },
+        {
+          "sha": "8939edcd69e642f50b12c5625661afa3cef620a5",
+          "message": "remove : lock file",
+          "author": "black",
+          "date": "2024-05-22T07:31:01Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/8939edcd69e642f50b12c5625661afa3cef620a5"
+        }
+      ]
+    },
+    {
+      "name": "jsonTable-v2",
+      "commit": {
+        "sha": "990a3311407e1c44cc43000ea5466807f3313ff0",
+        "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/990a3311407e1c44cc43000ea5466807f3313ff0"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "JavaScript": 1,
+        "HTML": 1,
+        "JSON": 5,
+        "YAML": 1,
+        "CSS": 2,
+        "React": 2,
+        "TypeScript": 2
+      },
+      "recentCommits": [
+        {
+          "sha": "990a3311407e1c44cc43000ea5466807f3313ff0",
+          "message": "hmm something",
+          "author": "Black Light",
+          "date": "2025-03-05T09:20:45Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/990a3311407e1c44cc43000ea5466807f3313ff0"
+        },
+        {
+          "sha": "87f93ed2ed846aa3e4edd2451d00ff1781fc8764",
+          "message": "add : nothing",
+          "author": "Black Light",
+          "date": "2025-02-03T15:21:27Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/87f93ed2ed846aa3e4edd2451d00ff1781fc8764"
+        },
+        {
+          "sha": "a90912324e7951957019386176d68e6a16d7cb73",
+          "message": "add : ui",
+          "author": "Black Light",
+          "date": "2025-02-03T15:12:01Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/a90912324e7951957019386176d68e6a16d7cb73"
+        },
+        {
+          "sha": "eaf75400d1f2f4e7e43088401ec1e916b994ae35",
+          "message": "nothing",
+          "author": "Black Light",
+          "date": "2025-02-03T14:42:42Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/eaf75400d1f2f4e7e43088401ec1e916b994ae35"
+        },
+        {
+          "sha": "ff019891d615ba76cbe4b4b4857fc3203ae05d9e",
+          "message": "add : some random staf",
+          "author": "Black Light",
+          "date": "2025-02-03T14:42:13Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/ff019891d615ba76cbe4b4b4857fc3203ae05d9e"
+        }
+      ]
+    },
+    {
+      "name": "jsonTable-v3",
+      "commit": {
+        "sha": "3900bea5bf67f90496dbae0ed7ef6872b40f10c3",
+        "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/3900bea5bf67f90496dbae0ed7ef6872b40f10c3"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "JavaScript": 1,
+        "HTML": 1,
+        "JSON": 5,
+        "CSS": 2,
+        "React": 2,
+        "TypeScript": 2
+      },
+      "recentCommits": [
+        {
+          "sha": "3900bea5bf67f90496dbae0ed7ef6872b40f10c3",
+          "message": "add : default value in api",
+          "author": "Black Light",
+          "date": "2025-02-14T06:28:43Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/3900bea5bf67f90496dbae0ed7ef6872b40f10c3"
+        },
+        {
+          "sha": "3b57a4d943daff2c2fc3c1ac0d529e9a8a8ac839",
+          "message": "add : table feature for deep value",
+          "author": "Black Light",
+          "date": "2025-02-14T06:27:18Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/3b57a4d943daff2c2fc3c1ac0d529e9a8a8ac839"
+        },
+        {
+          "sha": "dc258aa310d6848bcbcd8d10f1db2b32dce221f1",
+          "message": "add : input field",
+          "author": "Black Light",
+          "date": "2025-02-14T06:15:43Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/dc258aa310d6848bcbcd8d10f1db2b32dce221f1"
+        },
+        {
+          "sha": "e15b67cd7196e7a78718a4d2f3c3f75608e65525",
+          "message": "add : mui",
+          "author": "Black Light",
+          "date": "2025-02-03T15:50:01Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/e15b67cd7196e7a78718a4d2f3c3f75608e65525"
+        },
+        {
+          "sha": "4453b139cb32b5136ebe82dcd11e34177ab3a190",
+          "message": "Update : README.md",
+          "author": "Black Light",
+          "date": "2025-01-19T17:52:52Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/4453b139cb32b5136ebe82dcd11e34177ab3a190"
+        }
+      ]
+    },
+    {
+      "name": "jsonToTable",
+      "commit": {
+        "sha": "a90912324e7951957019386176d68e6a16d7cb73",
+        "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/a90912324e7951957019386176d68e6a16d7cb73"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "JavaScript": 1,
+        "HTML": 1,
+        "JSON": 5,
+        "YAML": 1,
+        "React": 2,
+        "CSS": 1,
+        "TypeScript": 3
+      },
+      "recentCommits": [
+        {
+          "sha": "a90912324e7951957019386176d68e6a16d7cb73",
+          "message": "add : ui",
+          "author": "Black Light",
+          "date": "2025-02-03T15:12:01Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/a90912324e7951957019386176d68e6a16d7cb73"
+        },
+        {
+          "sha": "eaf75400d1f2f4e7e43088401ec1e916b994ae35",
+          "message": "nothing",
+          "author": "Black Light",
+          "date": "2025-02-03T14:42:42Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/eaf75400d1f2f4e7e43088401ec1e916b994ae35"
+        },
+        {
+          "sha": "ff019891d615ba76cbe4b4b4857fc3203ae05d9e",
+          "message": "add : some random staf",
+          "author": "Black Light",
+          "date": "2025-02-03T14:42:13Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/ff019891d615ba76cbe4b4b4857fc3203ae05d9e"
+        },
+        {
+          "sha": "da7a50832f1bb6be0ac9a1110e0dfc3837602067",
+          "message": "",
+          "author": "Black Light",
+          "date": "2025-02-03T11:50:54Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/da7a50832f1bb6be0ac9a1110e0dfc3837602067"
+        },
+        {
+          "sha": "9fcb280c1361982dc09d7362e2331b4edfe5fa3c",
+          "message": "refactor: restructure project files and update configurations",
+          "author": "Black Light",
+          "date": "2025-02-03T11:28:12Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/9fcb280c1361982dc09d7362e2331b4edfe5fa3c"
+        }
+      ]
+    },
+    {
+      "name": "main",
+      "commit": {
+        "sha": "13ba1c1451f826da1c1f6a58997971dc722f5be7",
+        "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/13ba1c1451f826da1c1f6a58997971dc722f5be7"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "React": 21,
+        "CSS": 1,
+        "TypeScript": 7,
+        "JSON": 3
+      },
+      "recentCommits": [
+        {
+          "sha": "13ba1c1451f826da1c1f6a58997971dc722f5be7",
+          "message": "feat: add loading indicator to Main layout and refine ChartComponent loading message",
+          "author": "Black Light",
+          "date": "2025-05-03T14:23:14Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/13ba1c1451f826da1c1f6a58997971dc722f5be7"
+        },
+        {
+          "sha": "43b821794a4089b49f7c8ec26773a1926c957a22",
+          "message": "Merge remote-tracking branch 'origin/main' into text-utils",
+          "author": "Black Light",
+          "date": "2025-05-02T14:23:01Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/43b821794a4089b49f7c8ec26773a1926c957a22"
+        },
+        {
+          "sha": "3bff092403fd3ad8331f032eb672918a9cd86c1f",
+          "message": "chore: remove configuration and source files for rsbuild project",
+          "author": "Black Light",
+          "date": "2025-05-02T14:21:45Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/3bff092403fd3ad8331f032eb672918a9cd86c1f"
+        },
+        {
+          "sha": "8eeafe4306dd95d189114f324c2814916f0406f1",
+          "message": "feat: implement new chart components and enhance text analysis features in Navbar and TextForm",
+          "author": "Black Light",
+          "date": "2025-05-02T14:10:54Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/8eeafe4306dd95d189114f324c2814916f0406f1"
+        },
+        {
+          "sha": "34fcda4d1b0e2884b4f43966ef9cd52f2b97aeb4",
+          "message": "feat: enhance text analysis features with new ChartComponent and Tabs integration",
+          "author": "Black Light",
+          "date": "2025-05-02T13:06:56Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/34fcda4d1b0e2884b4f43966ef9cd52f2b97aeb4"
+        }
+      ]
+    },
+    {
+      "name": "master",
+      "commit": {
+        "sha": "e3fd6d3c6636af434d63ece3fe85eff524b17dc7",
+        "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/e3fd6d3c6636af434d63ece3fe85eff524b17dc7"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "e3fd6d3c6636af434d63ece3fe85eff524b17dc7",
+          "message": "fix : README.md",
+          "author": "Black Light",
+          "date": "2024-01-24T13:16:26Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/e3fd6d3c6636af434d63ece3fe85eff524b17dc7"
+        },
+        {
+          "sha": "67d665429774cd4901659db63c52de02b92b5cb8",
+          "message": "add : gitignore",
+          "author": "black",
+          "date": "2023-12-26T08:59:35Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/67d665429774cd4901659db63c52de02b92b5cb8"
+        },
+        {
+          "sha": "fb8fd1acc662d943670a3f5b665381c34a23fc73",
+          "message": "dummy commit",
+          "author": "black",
+          "date": "2023-12-25T12:19:24Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/fb8fd1acc662d943670a3f5b665381c34a23fc73"
+        },
+        {
+          "sha": "d60324b8e704f41a07670a934912b6c4e42ecae6",
+          "message": "dummy commit",
+          "author": "black",
+          "date": "2023-12-25T12:18:02Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/d60324b8e704f41a07670a934912b6c4e42ecae6"
+        },
+        {
+          "sha": "9b6fe5f6ddf138473bf05633a4a15f80bdf7d4cf",
+          "message": "dummy commit",
+          "author": "black",
+          "date": "2023-12-25T12:17:00Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/9b6fe5f6ddf138473bf05633a4a15f80bdf7d4cf"
+        }
+      ]
+    },
+    {
+      "name": "muiColors",
+      "commit": {
+        "sha": "10af97342c09544df323a3835ed5b012350b3a2f",
+        "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/10af97342c09544df323a3835ed5b012350b3a2f"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "HTML": 1,
+        "JSON": 4,
+        "JavaScript": 2,
+        "React": 3,
+        "TypeScript": 6,
+        "CSS": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "10af97342c09544df323a3835ed5b012350b3a2f",
+          "message": "add : some unused programm for transforming colors",
+          "author": "black",
+          "date": "2024-02-02T13:23:28Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/10af97342c09544df323a3835ed5b012350b3a2f"
+        },
+        {
+          "sha": "a6995f804e6700b30364acbaa9e43d1ea19ecb6c",
+          "message": "fix : README.md",
+          "author": "Black Light",
+          "date": "2024-01-24T13:16:56Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/a6995f804e6700b30364acbaa9e43d1ea19ecb6c"
+        },
+        {
+          "sha": "39e2f0ba001e85e9c3285a906da448693ee34c74",
+          "message": "init : initialize the muiColors branch",
+          "author": "black",
+          "date": "2023-12-25T11:13:42Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/39e2f0ba001e85e9c3285a906da448693ee34c74"
+        },
+        {
+          "sha": "6eb6efeb92947c4eeb3d8a139f34343ce6348b23",
+          "message": "dummy commit",
+          "author": "black",
+          "date": "2023-12-25T10:58:27Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/6eb6efeb92947c4eeb3d8a139f34343ce6348b23"
+        },
+        {
+          "sha": "51c7766f3bd8db6e23bb320c656ae70a4b21fd16",
+          "message": "first commit",
+          "author": "black",
+          "date": "2023-09-12T13:12:26Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/51c7766f3bd8db6e23bb320c656ae70a4b21fd16"
+        }
+      ]
+    },
+    {
+      "name": "note-app",
+      "commit": {
+        "sha": "43bd9f999eaf116c90221247a68ac528b6c26e4f",
+        "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/43bd9f999eaf116c90221247a68ac528b6c26e4f"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "HTML": 1,
+        "JSON": 3,
+        "YAML": 1,
+        "TypeScript": 5,
+        "React": 6,
+        "CSS": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "43bd9f999eaf116c90221247a68ac528b6c26e4f",
+          "message": "refactor: improve code formatting and structure in Navbar, Transition, and index components",
+          "author": "Black Light",
+          "date": "2025-03-30T11:43:51Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/43bd9f999eaf116c90221247a68ac528b6c26e4f"
+        },
+        {
+          "sha": "4cc613641ab3b571fbc370b4b17d62dfc9910eb2",
+          "message": "update : dependency",
+          "author": "black",
+          "date": "2024-05-24T09:32:28Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/4cc613641ab3b571fbc370b4b17d62dfc9910eb2"
+        },
+        {
+          "sha": "8939edcd69e642f50b12c5625661afa3cef620a5",
+          "message": "remove : lock file",
+          "author": "black",
+          "date": "2024-05-22T07:31:01Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/8939edcd69e642f50b12c5625661afa3cef620a5"
+        },
+        {
+          "sha": "0ee1d76e295edd49c330dde0dacd413676f27b95",
+          "message": "add : README.md",
+          "author": "black",
+          "date": "2024-02-06T07:57:27Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/0ee1d76e295edd49c330dde0dacd413676f27b95"
+        },
+        {
+          "sha": "da4b0cbfc42ca5f246db1159610b56f3f46003ec",
+          "message": "init : new branch note-app",
+          "author": "black",
+          "date": "2024-02-06T07:56:02Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/da4b0cbfc42ca5f246db1159610b56f3f46003ec"
+        }
+      ]
+    },
+    {
+      "name": "password-generator",
+      "commit": {
+        "sha": "48f208bf2b9dbd2567c65304576914a8b77aabc6",
+        "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/48f208bf2b9dbd2567c65304576914a8b77aabc6"
+      },
+      "protected": false,
+      "languages": {
+        "JSON": 5,
+        "Markdown": 1,
+        "JavaScript": 1,
+        "HTML": 1,
+        "React": 2,
+        "TypeScript": 4,
+        "CSS": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "48f208bf2b9dbd2567c65304576914a8b77aabc6",
+          "message": "update : bump eslint and related dependencies to latest versions",
+          "author": "Black Light",
+          "date": "2025-01-29T11:57:02Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/48f208bf2b9dbd2567c65304576914a8b77aabc6"
+        },
+        {
+          "sha": "798ecd005b46e11ea2a35826369a50a18af11a0f",
+          "message": "add : integrate @million/lint and optimize password generation logic",
+          "author": "Black Light",
+          "date": "2025-01-27T12:48:35Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/798ecd005b46e11ea2a35826369a50a18af11a0f"
+        },
+        {
+          "sha": "2f949e1d0c58a43f66472d3e37cc068124ca106f",
+          "message": "add : another rough commit",
+          "author": "Black Light",
+          "date": "2025-01-25T04:24:33Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/2f949e1d0c58a43f66472d3e37cc068124ca106f"
+        },
+        {
+          "sha": "fd962d7e16e30ea0a1378a0d47cf391879729b83",
+          "message": "add : rough commit",
+          "author": "Black Light",
+          "date": "2025-01-23T13:25:47Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/fd962d7e16e30ea0a1378a0d47cf391879729b83"
+        },
+        {
+          "sha": "3458e6b54a870714b08c8baa45c76ceca84279cd",
+          "message": "update : dependencies for MUI and TypeScript",
+          "author": "Black Light",
+          "date": "2025-01-22T09:07:15Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/3458e6b54a870714b08c8baa45c76ceca84279cd"
+        }
+      ]
+    },
+    {
+      "name": "password-generator-v2",
+      "commit": {
+        "sha": "6f86d17cf52d01019971d8396154a9c728b50190",
+        "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/6f86d17cf52d01019971d8396154a9c728b50190"
+      },
+      "protected": false,
+      "languages": {
+        "JSON": 5,
+        "Markdown": 1,
+        "JavaScript": 1,
+        "HTML": 1,
+        "React": 2,
+        "CSS": 1,
+        "TypeScript": 3
+      },
+      "recentCommits": [
+        {
+          "sha": "6f86d17cf52d01019971d8396154a9c728b50190",
+          "message": "refactor: remove unused CSS files and update package dependencies",
+          "author": "Black Light",
+          "date": "2025-01-29T14:02:07Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/6f86d17cf52d01019971d8396154a9c728b50190"
+        },
+        {
+          "sha": "3fb92ffb45eae93547d02b56153854f6abf9da14",
+          "message": "feat: integrate MillionLint for improved code quality and optimize App component with memoization",
+          "author": "Black Light",
+          "date": "2025-01-27T13:00:09Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/3fb92ffb45eae93547d02b56153854f6abf9da14"
+        },
+        {
+          "sha": "4453b139cb32b5136ebe82dcd11e34177ab3a190",
+          "message": "Update : README.md",
+          "author": "Black Light",
+          "date": "2025-01-19T17:52:52Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/4453b139cb32b5136ebe82dcd11e34177ab3a190"
+        },
+        {
+          "sha": "305901172af944b6f8f50603db3cb3ac1c8a35e2",
+          "message": "refactor : remove ESLint configuration and update project structure",
+          "author": "Black Light",
+          "date": "2025-01-19T06:17:23Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/305901172af944b6f8f50603db3cb3ac1c8a35e2"
+        },
+        {
+          "sha": "63900aeacf89d32d9a358ac4bb2ef6ab9c74ecc0",
+          "message": "add : basic mui comp9nents",
+          "author": "black",
+          "date": "2024-06-03T15:52:52Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/63900aeacf89d32d9a358ac4bb2ef6ab9c74ecc0"
+        }
+      ]
+    },
+    {
+      "name": "periodic_table",
+      "commit": {
+        "sha": "1d9f192569994695bb37195869d44e4c41aa1cc9",
+        "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/1d9f192569994695bb37195869d44e4c41aa1cc9"
+      },
+      "protected": false,
+      "languages": {
+        "JavaScript": 3,
+        "Markdown": 1,
+        "JSON": 5,
+        "HTML": 1,
+        "React": 8,
+        "TypeScript": 6,
+        "CSS": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "1d9f192569994695bb37195869d44e4c41aa1cc9",
+          "message": "update: upgrade dependencies in package.json",
+          "author": "black",
+          "date": "2025-01-09T15:31:23Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/1d9f192569994695bb37195869d44e4c41aa1cc9"
+        },
+        {
+          "sha": "4a30eac33ba8cacc4cbbcb64dcdbc5be13ccd4a1",
+          "message": "done : project conpleated",
+          "author": "black",
+          "date": "2024-05-20T05:41:44Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/4a30eac33ba8cacc4cbbcb64dcdbc5be13ccd4a1"
+        },
+        {
+          "sha": "8648de9208d98ca556a8a7a93eb12a9af9189d3f",
+          "message": "build : no typescript check for now",
+          "author": "black",
+          "date": "2024-05-19T07:21:55Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/8648de9208d98ca556a8a7a93eb12a9af9189d3f"
+        },
+        {
+          "sha": "56e1409936c1494e284559597bf5f8b419f3b79c",
+          "message": "add : basic ui compleate",
+          "author": "black",
+          "date": "2024-05-19T07:20:09Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/56e1409936c1494e284559597bf5f8b419f3b79c"
+        },
+        {
+          "sha": "458cf15e41c16bf8bcb8e73106c4846399e5568f",
+          "message": "add : shadcn",
+          "author": "black",
+          "date": "2024-05-19T05:07:39Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/458cf15e41c16bf8bcb8e73106c4846399e5568f"
+        }
+      ]
+    },
+    {
+      "name": "portfolio",
+      "commit": {
+        "sha": "99642e3b19f76e1a8f767ffc33d2f38b7f455cfb",
+        "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/99642e3b19f76e1a8f767ffc33d2f38b7f455cfb"
+      },
+      "protected": false,
+      "recentCommits": [
+        {
+          "sha": "99642e3b19f76e1a8f767ffc33d2f38b7f455cfb",
+          "message": "refactor: remove obsolete files and configurations",
+          "author": "Black Light",
+          "date": "2025-04-05T16:43:12Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/99642e3b19f76e1a8f767ffc33d2f38b7f455cfb"
+        },
+        {
+          "sha": "15176dac534732062e703b704d2f29965b178d49",
+          "message": "refactor: rename project from Rspack to Rsbuild and update configurations\n\n- Updated README to reflect project name change and switch from npm to pnpm for package management.\n- Removed unused components and configuration files related to Rspack.\n- Updated package.json to use Rsbuild CLI commands and adjusted dependencies.\n- Removed Tailwind CSS and related configurations, simplifying styles.\n- Refactored App component to provide a cleaner starting point for the application.\n- Added new rsbuild.config.ts for Rsbuild configuration.\n- Updated TypeScript configuration for improved type checking and module resolution.",
+          "author": "Black Light",
+          "date": "2025-04-05T16:33:57Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/15176dac534732062e703b704d2f29965b178d49"
+        },
+        {
+          "sha": "f0fa8c92ef796a07be6d3e608d7be67c662d0b5f",
+          "message": "Merge pull request #2 from JaberChowdhury/rspack_shadcn_tailwind-v4\n\nRspack shadcn tailwind v4",
+          "author": "Black Light",
+          "date": "2025-03-28T18:01:54Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/f0fa8c92ef796a07be6d3e608d7be67c662d0b5f"
+        },
+        {
+          "sha": "5c71126c20a117a36f8fe9d0f9193326a6c5a74b",
+          "message": "Merge branch 'rest_country-v2' of https://github.com/JaberChowdhury/React_project into rest_country-v2",
+          "author": "Black Light",
+          "date": "2025-03-28T17:58:52Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/5c71126c20a117a36f8fe9d0f9193326a6c5a74b"
+        },
+        {
+          "sha": "4c8fa6e044fa0c59b5f8f23c954edc4899f7aa4a",
+          "message": "feat: add utility functions and components for UI elements",
+          "author": "Black Light",
+          "date": "2025-03-28T17:28:40Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/4c8fa6e044fa0c59b5f8f23c954edc4899f7aa4a"
+        }
+      ]
+    },
+    {
+      "name": "practise-svg",
+      "commit": {
+        "sha": "4ef2a5dce92142a583233f53bde0a2aac16690f6",
+        "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/4ef2a5dce92142a583233f53bde0a2aac16690f6"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "JSON": 5,
+        "HTML": 1,
+        "JavaScript": 2,
+        "React": 3,
+        "CSS": 1,
+        "TypeScript": 3
+      },
+      "recentCommits": [
+        {
+          "sha": "4ef2a5dce92142a583233f53bde0a2aac16690f6",
+          "message": "fix : README.md",
+          "author": "Black Light",
+          "date": "2024-01-24T13:19:01Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/4ef2a5dce92142a583233f53bde0a2aac16690f6"
+        },
+        {
+          "sha": "f6267af999430714dd06bd360a508abacef3c0f0",
+          "message": "add : added some svg file",
+          "author": "black",
+          "date": "2023-12-27T14:28:50Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/f6267af999430714dd06bd360a508abacef3c0f0"
+        },
+        {
+          "sha": "21a56cca29487cb38414ceb729170608def4f776",
+          "message": "add : added a svg animation",
+          "author": "black",
+          "date": "2023-12-26T18:29:28Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/21a56cca29487cb38414ceb729170608def4f776"
+        },
+        {
+          "sha": "29865fbb94ed7d6b5da64a5be86043258d89a1ab",
+          "message": "fix : Readme",
+          "author": "black",
+          "date": "2023-12-26T15:34:10Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/29865fbb94ed7d6b5da64a5be86043258d89a1ab"
+        },
+        {
+          "sha": "4bc7d7fa854777e66b9fe1dc9cd77b9423ae8c86",
+          "message": "init : initialize the start branch",
+          "author": "black",
+          "date": "2023-12-26T15:18:58Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/4bc7d7fa854777e66b9fe1dc9cd77b9423ae8c86"
+        }
+      ]
+    },
+    {
+      "name": "pro-cleaning",
+      "commit": {
+        "sha": "9beca59d495a6c4b69bd40591974686f3c520df8",
+        "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/9beca59d495a6c4b69bd40591974686f3c520df8"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "JavaScript": 2,
+        "HTML": 1,
+        "JSON": 2,
+        "TypeScript": 2,
+        "CSS": 2,
+        "React": 2
+      },
+      "recentCommits": [
+        {
+          "sha": "9beca59d495a6c4b69bd40591974686f3c520df8",
+          "message": "Implement code changes to enhance functionality and improve performance",
+          "author": "Black Light",
+          "date": "2025-04-16T17:30:10Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/9beca59d495a6c4b69bd40591974686f3c520df8"
+        },
+        {
+          "sha": "be2c101e50e947a523ae321010de55c88c53d457",
+          "message": "Update : rspack.config.ts",
+          "author": "Black Light",
+          "date": "2025-03-28T17:21:10Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/be2c101e50e947a523ae321010de55c88c53d457"
+        },
+        {
+          "sha": "27e6a3288f2bdb9f8aec5a4fa02cedb17a65bdf6",
+          "message": "chore: set up initial project structure with React, TypeScript, and Tailwind CSS",
+          "author": "Black Light",
+          "date": "2025-03-28T17:10:22Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/27e6a3288f2bdb9f8aec5a4fa02cedb17a65bdf6"
+        },
+        {
+          "sha": "04c0f77392794724007d866e45bff0cd1e40128e",
+          "message": "init : all-quran-project-2.0",
+          "author": "black",
+          "date": "2024-02-19T17:05:43Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/04c0f77392794724007d866e45bff0cd1e40128e"
+        },
+        {
+          "sha": "9d5f49703ca1c1b8ddf68f1883f055078ec6ea98",
+          "message": "merge : merge with todo-curd-app-2.0",
+          "author": "black",
+          "date": "2024-02-13T19:19:59Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/9d5f49703ca1c1b8ddf68f1883f055078ec6ea98"
+        }
+      ]
+    },
+    {
+      "name": "react-router-starter",
+      "commit": {
+        "sha": "207383f8db94a910c6492f623697c25456682c86",
+        "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/207383f8db94a910c6492f623697c25456682c86"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "CSS": 1,
+        "React": 3,
+        "TypeScript": 4,
+        "JSON": 3
+      },
+      "recentCommits": [
+        {
+          "sha": "207383f8db94a910c6492f623697c25456682c86",
+          "message": "Updates .gitignore and README for React Router integration\n\nModifies .gitignore to exclude /node_modules/ and /.react-router/\nUpdates README with information about React Router features, installation, development, building for production, and deployment options",
+          "author": "Black Light",
+          "date": "2025-04-29T17:15:28Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/207383f8db94a910c6492f623697c25456682c86"
+        },
+        {
+          "sha": "ecf01a2a1ccebabf33fd4890a778c8d8e7775879",
+          "message": "Update devDependencies in package.json for compatibility and performance improvements",
+          "author": "Black Light",
+          "date": "2025-04-28T12:16:36Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/ecf01a2a1ccebabf33fd4890a778c8d8e7775879"
+        },
+        {
+          "sha": "9beca59d495a6c4b69bd40591974686f3c520df8",
+          "message": "Implement code changes to enhance functionality and improve performance",
+          "author": "Black Light",
+          "date": "2025-04-16T17:30:10Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/9beca59d495a6c4b69bd40591974686f3c520df8"
+        },
+        {
+          "sha": "be2c101e50e947a523ae321010de55c88c53d457",
+          "message": "Update : rspack.config.ts",
+          "author": "Black Light",
+          "date": "2025-03-28T17:21:10Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/be2c101e50e947a523ae321010de55c88c53d457"
+        },
+        {
+          "sha": "27e6a3288f2bdb9f8aec5a4fa02cedb17a65bdf6",
+          "message": "chore: set up initial project structure with React, TypeScript, and Tailwind CSS",
+          "author": "Black Light",
+          "date": "2025-03-28T17:10:22Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/27e6a3288f2bdb9f8aec5a4fa02cedb17a65bdf6"
+        }
+      ]
+    },
+    {
+      "name": "redux-toolkit-1.0",
+      "commit": {
+        "sha": "fc9ed0692e9086147e3904794aa9e970d7339af7",
+        "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/fc9ed0692e9086147e3904794aa9e970d7339af7"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "HTML": 1,
+        "JSON": 4,
+        "JavaScript": 2,
+        "React": 3,
+        "TypeScript": 4,
+        "CSS": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "fc9ed0692e9086147e3904794aa9e970d7339af7",
+          "message": "fix : README.md",
+          "author": "Black Light",
+          "date": "2024-01-24T13:19:33Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/fc9ed0692e9086147e3904794aa9e970d7339af7"
+        },
+        {
+          "sha": "685ea7d17ff5472c06967eb4ec25a16f3e6367d2",
+          "message": "init : initialize the redux-toolkit-1.0 branch",
+          "author": "black",
+          "date": "2023-12-25T12:08:09Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/685ea7d17ff5472c06967eb4ec25a16f3e6367d2"
+        },
+        {
+          "sha": "2e75d6e7febdae845c7a071c96705b1b9bcb5f1c",
+          "message": "dummy commit",
+          "author": "black",
+          "date": "2023-12-25T11:16:47Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/2e75d6e7febdae845c7a071c96705b1b9bcb5f1c"
+        },
+        {
+          "sha": "6eb6efeb92947c4eeb3d8a139f34343ce6348b23",
+          "message": "dummy commit",
+          "author": "black",
+          "date": "2023-12-25T10:58:27Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/6eb6efeb92947c4eeb3d8a139f34343ce6348b23"
+        },
+        {
+          "sha": "51c7766f3bd8db6e23bb320c656ae70a4b21fd16",
+          "message": "first commit",
+          "author": "black",
+          "date": "2023-09-12T13:12:26Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/51c7766f3bd8db6e23bb320c656ae70a4b21fd16"
+        }
+      ]
+    },
+    {
+      "name": "redux-toolkit-data-fetching",
+      "commit": {
+        "sha": "982fab9bd971f3b629e9d04ca4d4f77b4a80e7df",
+        "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/982fab9bd971f3b629e9d04ca4d4f77b4a80e7df"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "HTML": 1,
+        "JSON": 4,
+        "TypeScript": 13,
+        "React": 9,
+        "CSS": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "982fab9bd971f3b629e9d04ca4d4f77b4a80e7df",
+          "message": "fix : fixed type problem when fetching data",
+          "author": "black",
+          "date": "2024-02-08T17:02:37Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/982fab9bd971f3b629e9d04ca4d4f77b4a80e7df"
+        },
+        {
+          "sha": "b22a4c8891d5bd5e01b43113c409cc704bf48848",
+          "message": "add : added framer-motion",
+          "author": "black",
+          "date": "2024-02-04T18:39:59Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/b22a4c8891d5bd5e01b43113c409cc704bf48848"
+        },
+        {
+          "sha": "1da158dfbb7ac3f3474f76cafea870abdf73691e",
+          "message": "init : new branch redux-toolkit-data-fetching",
+          "author": "black",
+          "date": "2024-02-04T15:26:12Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/1da158dfbb7ac3f3474f76cafea870abdf73691e"
+        },
+        {
+          "sha": "58edca829d2696a4252762d2b893432db80d655d",
+          "message": "add : project completed",
+          "author": "black",
+          "date": "2024-01-28T06:07:56Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/58edca829d2696a4252762d2b893432db80d655d"
+        },
+        {
+          "sha": "435a60967d7377bfb99c1123ae0652b7fcc39645",
+          "message": "clean : remove everything",
+          "author": "black",
+          "date": "2024-01-28T06:01:05Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/435a60967d7377bfb99c1123ae0652b7fcc39645"
+        }
+      ]
+    },
+    {
+      "name": "reset-css",
+      "commit": {
+        "sha": "85536945665a80d371826915df626ba3d4536c4c",
+        "url": "https://api.github.com/repos/JaberChowdhury/React_project/commits/85536945665a80d371826915df626ba3d4536c4c"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "JavaScript": 1,
+        "JSON": 2,
+        "TypeScript": 2,
+        "CSS": 2,
+        "React": 2
+      },
+      "recentCommits": [
+        {
+          "sha": "85536945665a80d371826915df626ba3d4536c4c",
+          "message": "refactor: migrate from rspack to rsbuild, update dependencies and configuration\n\n- Changed project name from rspack-react-ts-starter to rsbuild-react-ts.\n- Updated build and dev scripts to use rsbuild instead of rspack.\n- Removed unused dependencies related to rspack and added necessary rsbuild dependencies.\n- Deleted rspack configuration files and created a new rsbuild configuration file.\n- Removed PostCSS configuration as it was no longer needed.\n- Simplified App component and removed unused assets and components.\n- Cleaned up CSS files and removed Tailwind CSS imports.\n- Updated TypeScript configuration for better type checking.\n- Removed unused utility functions and types.\n- Updated index entry point to use ReactDOM.createRoot for rendering.",
+          "author": "Black Light",
+          "date": "2025-04-05T15:36:44Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/85536945665a80d371826915df626ba3d4536c4c"
+        },
+        {
+          "sha": "f0fa8c92ef796a07be6d3e608d7be67c662d0b5f",
+          "message": "Merge pull request #2 from JaberChowdhury/rspack_shadcn_tailwind-v4\n\nRspack shadcn tailwind v4",
+          "author": "Black Light",
+          "date": "2025-03-28T18:01:54Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/f0fa8c92ef796a07be6d3e608d7be67c662d0b5f"
+        },
+        {
+          "sha": "5c71126c20a117a36f8fe9d0f9193326a6c5a74b",
+          "message": "Merge branch 'rest_country-v2' of https://github.com/JaberChowdhury/React_project into rest_country-v2",
+          "author": "Black Light",
+          "date": "2025-03-28T17:58:52Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/5c71126c20a117a36f8fe9d0f9193326a6c5a74b"
+        },
+        {
+          "sha": "4c8fa6e044fa0c59b5f8f23c954edc4899f7aa4a",
+          "message": "feat: add utility functions and components for UI elements",
+          "author": "Black Light",
+          "date": "2025-03-28T17:28:40Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/4c8fa6e044fa0c59b5f8f23c954edc4899f7aa4a"
+        },
+        {
+          "sha": "1f1bd4d0b455a5297d6269a1773792475fcf57c9",
+          "message": "chore: update dependencies and refine .gitignore",
+          "author": "Black Light",
+          "date": "2025-03-28T17:28:40Z",
+          "url": "https://github.com/JaberChowdhury/React_project/commit/1f1bd4d0b455a5297d6269a1773792475fcf57c9"
+        }
+      ]
+    }
+  ],
+  "readmes": [
+    {
+      "name": "main",
+      "readmeHtml": "<div id=\"readme\" class=\"md\" data-path=\"README.md\"><article class=\"markdown-body entry-content container-lg\" itemprop=\"text\"><p dir=\"auto\">[] History will be made in each Button click + clicked action\n[] add pattern in background\n[] add glasmorphism effect</p>\n<p dir=\"auto\">[] history to revert\n[] history to analizer\n[] delete history</p>\n<p dir=\"auto\">[] custom design in v2</p>\n</article></div>"
+    }
+  ],
+  "languages": {
+    "TypeScript": 50979,
+    "CSS": 4885,
+    "Dockerfile": 599
+  },
+  "weeklyActivity": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "id": 719741924,
+  "name": "Designtree",
+  "description": null,
+  "html_url": "https://github.com/JaberChowdhury/Designtree",
+  "homepage": "https://designtree.vercel.app",
+  "language": "TypeScript",
+  "topics": [],
+  "stargazers_count": 0,
+  "updated_at": "2023-11-16T20:06:11Z",
+  "full_name": "JaberChowdhury/Designtree",
+  "watchers_count": 0,
+  "forks_count": 0,
+  "pushed_at": "2023-11-19T12:13:20Z",
+  "default_branch": "main",
+  "fork": false,
+  "size": 314,
+  "open_issues_count": 0,
+  "branches": [
+    {
+      "name": "main",
+      "commit": {
+        "sha": "23e80d40dc52950dbc737f133eb34cdf80bf7e0b",
+        "url": "https://api.github.com/repos/JaberChowdhury/Designtree/commits/23e80d40dc52950dbc737f133eb34cdf80bf7e0b"
+      },
+      "protected": false,
+      "languages": {
+        "JavaScript": 3,
+        "Markdown": 1,
+        "JSON": 7,
+        "HTML": 1,
+        "React": 22,
+        "CSS": 1,
+        "TypeScript": 3
+      },
+      "recentCommits": [
+        {
+          "sha": "23e80d40dc52950dbc737f133eb34cdf80bf7e0b",
+          "message": "final commit",
+          "author": "black",
+          "date": "2023-11-19T12:13:03Z",
+          "url": "https://github.com/JaberChowdhury/Designtree/commit/23e80d40dc52950dbc737f133eb34cdf80bf7e0b"
+        },
+        {
+          "sha": "91dab01ba277bc0b666b76e61460c330541e2ff5",
+          "message": "gradient generator 2.0 complete",
+          "author": "black",
+          "date": "2023-11-19T11:45:02Z",
+          "url": "https://github.com/JaberChowdhury/Designtree/commit/91dab01ba277bc0b666b76e61460c330541e2ff5"
+        },
+        {
+          "sha": "3577ee72fa478134b4e9c3474f08a1d7003b84c3",
+          "message": "gradient generator complete",
+          "author": "black",
+          "date": "2023-11-18T06:36:38Z",
+          "url": "https://github.com/JaberChowdhury/Designtree/commit/3577ee72fa478134b4e9c3474f08a1d7003b84c3"
+        },
+        {
+          "sha": "5a1898e56a341980a9fc52dc84660e933b37929e",
+          "message": "pwa setup compleate",
+          "author": "black",
+          "date": "2023-11-17T19:09:38Z",
+          "url": "https://github.com/JaberChowdhury/Designtree/commit/5a1898e56a341980a9fc52dc84660e933b37929e"
+        },
+        {
+          "sha": "f2e2920ee6d2b439bb08da5ecb76e40b349aea92",
+          "message": "gradient generator added",
+          "author": "black",
+          "date": "2023-11-17T15:59:37Z",
+          "url": "https://github.com/JaberChowdhury/Designtree/commit/f2e2920ee6d2b439bb08da5ecb76e40b349aea92"
+        }
+      ]
+    }
+  ],
+  "readmes": [
+    {
+      "name": "main",
+      "readmeHtml": "<div id=\"readme\" class=\"md\" data-path=\"README.md\"><article class=\"markdown-body entry-content container-lg\" itemprop=\"text\"><p dir=\"auto\">#Designtree</p>\n</article></div>"
+    }
+  ],
+  "languages": {
+    "TypeScript": 36277,
+    "JavaScript": 2645,
+    "CSS": 2642,
+    "HTML": 432
+  },
+  "weeklyActivity": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+}

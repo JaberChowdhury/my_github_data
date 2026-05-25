@@ -1,0 +1,133 @@
+{
+  "id": 622894974,
+  "name": "ColorCodeGenerator",
+  "description": null,
+  "html_url": "https://github.com/JaberChowdhury/ColorCodeGenerator",
+  "homepage": "https://color-code-generator-zbgl.vercel.app/",
+  "language": "JavaScript",
+  "topics": [],
+  "stargazers_count": 0,
+  "updated_at": "2024-12-24T12:07:19Z",
+  "full_name": "JaberChowdhury/ColorCodeGenerator",
+  "watchers_count": 0,
+  "forks_count": 0,
+  "pushed_at": "2023-11-19T11:02:18Z",
+  "default_branch": "main",
+  "fork": false,
+  "size": 330,
+  "open_issues_count": 0,
+  "branches": [
+    {
+      "name": "main",
+      "commit": {
+        "sha": "72ce3720681bd56704e603525528be9124e1e67d",
+        "url": "https://api.github.com/repos/JaberChowdhury/ColorCodeGenerator/commits/72ce3720681bd56704e603525528be9124e1e67d"
+      },
+      "protected": false,
+      "languages": {
+        "JavaScript": 17,
+        "JSON": 4,
+        "HTML": 1,
+        "React": 21,
+        "CSS": 2
+      },
+      "recentCommits": [
+        {
+          "sha": "72ce3720681bd56704e603525528be9124e1e67d",
+          "message": "Add files via upload",
+          "author": "Black Light",
+          "date": "2023-11-19T11:02:18Z",
+          "url": "https://github.com/JaberChowdhury/ColorCodeGenerator/commit/72ce3720681bd56704e603525528be9124e1e67d"
+        },
+        {
+          "sha": "bae2c57e0c05b37722aa66d3c469a340735a848b",
+          "message": "final commit need to learn more and more",
+          "author": "black",
+          "date": "2023-05-25T17:11:06Z",
+          "url": "https://github.com/JaberChowdhury/ColorCodeGenerator/commit/bae2c57e0c05b37722aa66d3c469a340735a848b"
+        },
+        {
+          "sha": "d8d026427d271edced1bbb76af20d61cf5c18a7b",
+          "message": "Version 2 is began",
+          "author": "black",
+          "date": "2023-05-25T03:05:28Z",
+          "url": "https://github.com/JaberChowdhury/ColorCodeGenerator/commit/d8d026427d271edced1bbb76af20d61cf5c18a7b"
+        },
+        {
+          "sha": "5d9bd64f2b9bfef5d000a1d690f0b208514818e2",
+          "message": "onek kiso change korsi🙄",
+          "author": "black",
+          "date": "2023-05-25T03:03:53Z",
+          "url": "https://github.com/JaberChowdhury/ColorCodeGenerator/commit/5d9bd64f2b9bfef5d000a1d690f0b208514818e2"
+        },
+        {
+          "sha": "7602951bd323e1e72e61d8b6f05752ae9a341e8e",
+          "message": "something",
+          "author": "black",
+          "date": "2023-05-15T03:21:22Z",
+          "url": "https://github.com/JaberChowdhury/ColorCodeGenerator/commit/7602951bd323e1e72e61d8b6f05752ae9a341e8e"
+        }
+      ]
+    }
+  ],
+  "readmes": [],
+  "languages": {
+    "JavaScript": 32310,
+    "CSS": 2096,
+    "HTML": 361
+  },
+  "weeklyActivity": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+}

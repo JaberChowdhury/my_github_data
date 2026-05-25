@@ -1,0 +1,195 @@
+{
+  "id": 757374445,
+  "name": "react-bangla-tutorial",
+  "description": "React Bangla Tutorial",
+  "html_url": "https://github.com/JaberChowdhury/react-bangla-tutorial",
+  "homepage": "https://react-bangla.vercel.app",
+  "language": null,
+  "topics": [],
+  "stargazers_count": 0,
+  "updated_at": "2024-02-14T11:15:09Z",
+  "full_name": "JaberChowdhury/react-bangla-tutorial",
+  "watchers_count": 0,
+  "forks_count": 0,
+  "pushed_at": "2024-02-14T14:11:43Z",
+  "default_branch": "main",
+  "fork": true,
+  "size": 206,
+  "open_issues_count": 0,
+  "branches": [
+    {
+      "name": "jaber-1.0",
+      "commit": {
+        "sha": "6acefc2291b1563f04ab4e84b62478848771ecb1",
+        "url": "https://api.github.com/repos/JaberChowdhury/react-bangla-tutorial/commits/6acefc2291b1563f04ab4e84b62478848771ecb1"
+      },
+      "protected": false,
+      "languages": {
+        "JSON": 9,
+        "Markdown": 1,
+        "CSS": 2,
+        "React": 3,
+        "TypeScript": 1,
+        "JavaScript": 1,
+        "YAML": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "6acefc2291b1563f04ab4e84b62478848771ecb1",
+          "message": "add : hooks route && home page of hooks route",
+          "author": "black",
+          "date": "2024-02-14T14:11:31Z",
+          "url": "https://github.com/JaberChowdhury/react-bangla-tutorial/commit/6acefc2291b1563f04ab4e84b62478848771ecb1"
+        },
+        {
+          "sha": "3b7d00a95746d2597d2b07b4ae8c970d434cdcac",
+          "message": "change : changed due to termux(as I use mobile for coding)",
+          "author": "black",
+          "date": "2024-02-14T14:10:31Z",
+          "url": "https://github.com/JaberChowdhury/react-bangla-tutorial/commit/3b7d00a95746d2597d2b07b4ae8c970d434cdcac"
+        },
+        {
+          "sha": "f8af5548a1a7ee163617ef2ed5f80afac28a454b",
+          "message": "logo design fix",
+          "author": "codebymojnu",
+          "date": "2024-02-12T18:30:29Z",
+          "url": "https://github.com/JaberChowdhury/react-bangla-tutorial/commit/f8af5548a1a7ee163617ef2ed5f80afac28a454b"
+        },
+        {
+          "sha": "7979d0e833652bc843d37e70310e538fb6314eb8",
+          "message": "Merge pull request #1 from JaberChowdhury/jaber-1.0\n\nstyle : change the style of the logo",
+          "author": "Md. Mojnu Miah",
+          "date": "2024-02-12T06:33:15Z",
+          "url": "https://github.com/JaberChowdhury/react-bangla-tutorial/commit/7979d0e833652bc843d37e70310e538fb6314eb8"
+        },
+        {
+          "sha": "6bba2d7c069141c5da41a462f5be11609a74b7f5",
+          "message": "style : change the style of the logo",
+          "author": "black",
+          "date": "2024-02-12T05:58:08Z",
+          "url": "https://github.com/JaberChowdhury/react-bangla-tutorial/commit/6bba2d7c069141c5da41a462f5be11609a74b7f5"
+        }
+      ]
+    },
+    {
+      "name": "main",
+      "commit": {
+        "sha": "f8af5548a1a7ee163617ef2ed5f80afac28a454b",
+        "url": "https://api.github.com/repos/JaberChowdhury/react-bangla-tutorial/commits/f8af5548a1a7ee163617ef2ed5f80afac28a454b"
+      },
+      "protected": false,
+      "languages": {
+        "JSON": 8,
+        "Markdown": 1,
+        "CSS": 2,
+        "React": 3,
+        "TypeScript": 1,
+        "JavaScript": 1,
+        "YAML": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "f8af5548a1a7ee163617ef2ed5f80afac28a454b",
+          "message": "logo design fix",
+          "author": "codebymojnu",
+          "date": "2024-02-12T18:30:29Z",
+          "url": "https://github.com/JaberChowdhury/react-bangla-tutorial/commit/f8af5548a1a7ee163617ef2ed5f80afac28a454b"
+        },
+        {
+          "sha": "7979d0e833652bc843d37e70310e538fb6314eb8",
+          "message": "Merge pull request #1 from JaberChowdhury/jaber-1.0\n\nstyle : change the style of the logo",
+          "author": "Md. Mojnu Miah",
+          "date": "2024-02-12T06:33:15Z",
+          "url": "https://github.com/JaberChowdhury/react-bangla-tutorial/commit/7979d0e833652bc843d37e70310e538fb6314eb8"
+        },
+        {
+          "sha": "6bba2d7c069141c5da41a462f5be11609a74b7f5",
+          "message": "style : change the style of the logo",
+          "author": "black",
+          "date": "2024-02-12T05:58:08Z",
+          "url": "https://github.com/JaberChowdhury/react-bangla-tutorial/commit/6bba2d7c069141c5da41a462f5be11609a74b7f5"
+        },
+        {
+          "sha": "32a1a6f45afc9eb52e5d8371e6087b728b02c0f7",
+          "message": "reacting to input with state changes update",
+          "author": "codebymojnu",
+          "date": "2024-02-12T04:26:34Z",
+          "url": "https://github.com/JaberChowdhury/react-bangla-tutorial/commit/32a1a6f45afc9eb52e5d8371e6087b728b02c0f7"
+        },
+        {
+          "sha": "41658d9ca892bd5f5cf13896d474f8970b09a285",
+          "message": "home page text change",
+          "author": "codebymojnu",
+          "date": "2024-02-10T11:14:08Z",
+          "url": "https://github.com/JaberChowdhury/react-bangla-tutorial/commit/41658d9ca892bd5f5cf13896d474f8970b09a285"
+        }
+      ]
+    }
+  ],
+  "readmes": [
+    {
+      "name": "main",
+      "readmeHtml": "<div id=\"readme\" class=\"md\" data-path=\"README.md\"><article class=\"markdown-body entry-content container-lg\" itemprop=\"text\"><div class=\"markdown-heading\" dir=\"auto\"><h1 class=\"heading-element\" dir=\"auto\">React Bangla Tutorial</h1><a id=\"user-content-react-bangla-tutorial\" class=\"anchor\" aria-label=\"Permalink: React Bangla Tutorial\" href=\"#react-bangla-tutorial\"><svg data-component=\"Octicon\" class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"><path d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"></path></svg></a></div>\n<p dir=\"auto\">React একটি জাভাস্ক্রিপ্ট লাইব্রেরি, যা আমাদের UI বানানোর কাজটাকে অনেক সহজ করে দিয়েছে। React এ JSX ব্যবহার করে আমরা খুব সহজে কন্টেন ও লজিক নিয়ে একসাথে কাজ করতে পারি। আমরা React কম্পোনেন্ট ব্যবহার করে ওয়েবসাইটের ছোট ছোট পার্ট করে, একটি জটিল ওয়েব অ্যাপ্লিকেশন বানাতে পারি। আমরা জানি, UI এর অনেক অংশ দেখতে সেম হয়, যখন ইউজার ইন্টারঅ্যাকশন হয় তখন আমরা সেম UI এ ভিন্ন ভিন্ন ডাটা দেখতে পারি। এই কাজটি আমরা কম্পোনেন্টের মাধ্যমে খুব সহজে করতে পারি।</p>\n<p dir=\"auto\">এই টিউটোরিয়ালটি React এর অফিসিয়াল ডকুমেন্ট ফলো করে লেখা হয়েছে। প্রায় অনুবাদের মতো।</p>\n<p dir=\"auto\"><a href=\"https://react-bangla.vercel.app/\" rel=\"nofollow\"><strong>রিয়েক্ট শিখুন বাংলায় →</strong></a></p>\n</article></div>"
+    }
+  ],
+  "languages": {
+    "MDX": 66939,
+    "TypeScript": 2740,
+    "CSS": 175,
+    "JavaScript": 140
+  },
+  "weeklyActivity": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "id": 618070669,
+  "name": "react-age-calculator",
+  "description": "React Age Calculator",
+  "html_url": "https://github.com/JaberChowdhury/react-age-calculator",
+  "homepage": "https://itsrafsanjani.github.io/react-age-calculator/",
+  "language": null,
+  "topics": [],
+  "stargazers_count": 0,
+  "updated_at": "2023-01-29T17:31:37Z",
+  "full_name": "JaberChowdhury/react-age-calculator",
+  "watchers_count": 0,
+  "forks_count": 0,
+  "pushed_at": "2022-04-30T11:23:24Z",
+  "default_branch": "master",
+  "fork": true,
+  "size": 72,
+  "open_issues_count": 0,
+  "branches": [
+    {
+      "name": "gh-pages",
+      "commit": {
+        "sha": "2f48d6a232964bfb2b5273ff6906f44a837a2431",
+        "url": "https://api.github.com/repos/JaberChowdhury/react-age-calculator/commits/2f48d6a232964bfb2b5273ff6906f44a837a2431"
+      },
+      "protected": false,
+      "languages": {
+        "CSS": 1,
+        "JavaScript": 2,
+        "HTML": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "2f48d6a232964bfb2b5273ff6906f44a837a2431",
+          "message": "Updates",
+          "author": "itsrafsanjani",
+          "date": "2022-04-07T18:02:53Z",
+          "url": "https://github.com/JaberChowdhury/react-age-calculator/commit/2f48d6a232964bfb2b5273ff6906f44a837a2431"
+        },
+        {
+          "sha": "5b61010108836d3ea5c88bbddd8d557516ae35ac",
+          "message": "Updates",
+          "author": "itsrafsanjani",
+          "date": "2022-04-07T16:16:59Z",
+          "url": "https://github.com/JaberChowdhury/react-age-calculator/commit/5b61010108836d3ea5c88bbddd8d557516ae35ac"
+        },
+        {
+          "sha": "15927ce3b41a68dbfce8db1ae223e617ca5c6c77",
+          "message": "Updates",
+          "author": "itsrafsanjani",
+          "date": "2022-04-07T16:13:25Z",
+          "url": "https://github.com/JaberChowdhury/react-age-calculator/commit/15927ce3b41a68dbfce8db1ae223e617ca5c6c77"
+        },
+        {
+          "sha": "e75c607857f9544db88541d973861c06f2666e40",
+          "message": "Updates",
+          "author": "itsrafsanjani",
+          "date": "2022-04-07T15:59:15Z",
+          "url": "https://github.com/JaberChowdhury/react-age-calculator/commit/e75c607857f9544db88541d973861c06f2666e40"
+        }
+      ]
+    },
+    {
+      "name": "master",
+      "commit": {
+        "sha": "fe3c26fc5c439a82a963c595a0a92fe1b6f67dd2",
+        "url": "https://api.github.com/repos/JaberChowdhury/react-age-calculator/commits/fe3c26fc5c439a82a963c595a0a92fe1b6f67dd2"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "HTML": 1,
+        "JSON": 1,
+        "JavaScript": 3,
+        "React": 2,
+        "CSS": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "fe3c26fc5c439a82a963c595a0a92fe1b6f67dd2",
+          "message": "feat: change some config and input width full",
+          "author": "itsrafsanjani",
+          "date": "2022-04-07T18:05:33Z",
+          "url": "https://github.com/JaberChowdhury/react-age-calculator/commit/fe3c26fc5c439a82a963c595a0a92fe1b6f67dd2"
+        },
+        {
+          "sha": "66bccfe9bc7db0d650d42647ec6a1569417e9fe7",
+          "message": "feat: gh-pages package and configuration added",
+          "author": "itsrafsanjani",
+          "date": "2022-04-07T15:47:57Z",
+          "url": "https://github.com/JaberChowdhury/react-age-calculator/commit/66bccfe9bc7db0d650d42647ec6a1569417e9fe7"
+        },
+        {
+          "sha": "e4ea4440145ccc5cf318fbc9e0e57fe27e5272b4",
+          "message": "feat: age calculator done",
+          "author": "itsrafsanjani",
+          "date": "2022-04-07T15:39:31Z",
+          "url": "https://github.com/JaberChowdhury/react-age-calculator/commit/e4ea4440145ccc5cf318fbc9e0e57fe27e5272b4"
+        },
+        {
+          "sha": "abebd934197ea29aa71c566e1d96aae24cc3119e",
+          "message": "feat: initial commit",
+          "author": "itsrafsanjani",
+          "date": "2022-04-07T14:39:13Z",
+          "url": "https://github.com/JaberChowdhury/react-age-calculator/commit/abebd934197ea29aa71c566e1d96aae24cc3119e"
+        }
+      ]
+    }
+  ],
+  "readmes": [
+    {
+      "name": "master",
+      "readmeHtml": "<div id=\"readme\" class=\"md\" data-path=\"README.md\"><article class=\"markdown-body entry-content container-lg\" itemprop=\"text\"><div class=\"markdown-heading\" dir=\"auto\"><h1 class=\"heading-element\" dir=\"auto\">vite-react-tailwindcss starter</h1><a id=\"user-content-vite-react-tailwindcss-starter\" class=\"anchor\" aria-label=\"Permalink: vite-react-tailwindcss starter\" href=\"#vite-react-tailwindcss-starter\"><svg data-component=\"Octicon\" class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"><path d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"></path></svg></a></div>\n<p dir=\"auto\">a simple and clean starter for those who wants to start the project right way without any hassle.</p>\n<div class=\"markdown-heading\" dir=\"auto\"><h2 class=\"heading-element\" dir=\"auto\">Run it in your device</h2><a id=\"user-content-run-it-in-your-device\" class=\"anchor\" aria-label=\"Permalink: Run it in your device\" href=\"#run-it-in-your-device\"><svg data-component=\"Octicon\" class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"><path d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"></path></svg></a></div>\n<p dir=\"auto\">Clone the project</p>\n<div class=\"highlight highlight-source-shell notranslate position-relative overflow-auto\" dir=\"auto\" data-snippet-clipboard-copy-content=\"  git clone https://github.com/moinulmoin/vite-react-tailwind-starter project-name\"><pre>  git clone https://github.com/moinulmoin/vite-react-tailwind-starter project-name</pre></div>\n<p dir=\"auto\">Go to the project directory</p>\n<div class=\"highlight highlight-source-shell notranslate position-relative overflow-auto\" dir=\"auto\" data-snippet-clipboard-copy-content=\"  cd project-name\"><pre>  <span class=\"pl-c1\">cd</span> project-name</pre></div>\n<div class=\"markdown-heading\" dir=\"auto\"><h3 class=\"heading-element\" dir=\"auto\">Or you can just download it as zip, then</h3><a id=\"user-content-or-you-can-just-download-it-as-zip-then\" class=\"anchor\" aria-label=\"Permalink: Or you can just download it as zip, then\" href=\"#or-you-can-just-download-it-as-zip-then\"><svg data-component=\"Octicon\" class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"><path d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"></path></svg></a></div>\n<p dir=\"auto\">Install dependencies</p>\n<div class=\"highlight highlight-source-shell notranslate position-relative overflow-auto\" dir=\"auto\" data-snippet-clipboard-copy-content=\"  npm install \"><pre>  npm install </pre></div>\n<p dir=\"auto\">Start the server</p>\n<div class=\"highlight highlight-source-shell notranslate position-relative overflow-auto\" dir=\"auto\" data-snippet-clipboard-copy-content=\"  npm run dev\"><pre>  npm run dev</pre></div>\n<div class=\"markdown-heading\" dir=\"auto\"><h3 class=\"heading-element\" dir=\"auto\">Or if you are yarn user,</h3><a id=\"user-content-or-if-you-are-yarn-user\" class=\"anchor\" aria-label=\"Permalink: Or if you are yarn user,\" href=\"#or-if-you-are-yarn-user\"><svg data-component=\"Octicon\" class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"><path d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"></path></svg></a></div>\n<p dir=\"auto\">Install dependencies</p>\n<div class=\"highlight highlight-source-shell notranslate position-relative overflow-auto\" dir=\"auto\" data-snippet-clipboard-copy-content=\"  yarn install\"><pre>  yarn install</pre></div>\n<p dir=\"auto\">Start the server</p>\n<div class=\"highlight highlight-source-shell notranslate position-relative overflow-auto\" dir=\"auto\" data-snippet-clipboard-copy-content=\"  yarn dev\"><pre>  yarn dev</pre></div>\n<p dir=\"auto\">Now customize everything as your needs.</p>\n<div class=\"markdown-heading\" dir=\"auto\"><h2 class=\"heading-element\" dir=\"auto\">License</h2><a id=\"user-content-license\" class=\"anchor\" aria-label=\"Permalink: License\" href=\"#license\"><svg data-component=\"Octicon\" class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"><path d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"></path></svg></a></div>\n<p dir=\"auto\"><a href=\"https://choosealicense.com/licenses/mit/\" rel=\"nofollow\">MIT</a></p>\n<div class=\"markdown-heading\" dir=\"auto\"><h2 class=\"heading-element\" dir=\"auto\">Support</h2><a id=\"user-content-support\" class=\"anchor\" aria-label=\"Permalink: Support\" href=\"#support\"><svg data-component=\"Octicon\" class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"><path d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"></path></svg></a></div>\n<p dir=\"auto\">If it really helps you then leave a star. Thank you💖</p>\n</article></div>"
+    }
+  ],
+  "languages": {
+    "JavaScript": 3114,
+    "HTML": 376,
+    "CSS": 60
+  },
+  "weeklyActivity": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+}

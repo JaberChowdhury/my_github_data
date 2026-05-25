@@ -1,0 +1,142 @@
+{
+  "id": 727826172,
+  "name": "mesh-gradient-generator",
+  "description": null,
+  "html_url": "https://github.com/JaberChowdhury/mesh-gradient-generator",
+  "homepage": "https://mesh-gradient-generator.vercel.app",
+  "language": "TypeScript",
+  "topics": [],
+  "stargazers_count": 0,
+  "updated_at": "2023-12-05T16:54:31Z",
+  "full_name": "JaberChowdhury/mesh-gradient-generator",
+  "watchers_count": 0,
+  "forks_count": 0,
+  "pushed_at": "2024-03-16T20:43:49Z",
+  "default_branch": "main",
+  "fork": false,
+  "size": 98,
+  "open_issues_count": 0,
+  "branches": [
+    {
+      "name": "main",
+      "commit": {
+        "sha": "41bab5a01fe3b67f5793f1d07c1656d2d2b1543d",
+        "url": "https://api.github.com/repos/JaberChowdhury/mesh-gradient-generator/commits/41bab5a01fe3b67f5793f1d07c1656d2d2b1543d"
+      },
+      "protected": false,
+      "languages": {
+        "JavaScript": 3,
+        "Markdown": 1,
+        "JSON": 4,
+        "HTML": 1,
+        "YAML": 1,
+        "React": 25,
+        "TypeScript": 11,
+        "CSS": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "41bab5a01fe3b67f5793f1d07c1656d2d2b1543d",
+          "message": "style : added congainer in parents components",
+          "author": "black",
+          "date": "2024-03-16T20:43:43Z",
+          "url": "https://github.com/JaberChowdhury/mesh-gradient-generator/commit/41bab5a01fe3b67f5793f1d07c1656d2d2b1543d"
+        },
+        {
+          "sha": "ec7fe61ea6d9b8e1d1f0ca78d24e74f6a7c34140",
+          "message": "fix : .gitignore",
+          "author": "black",
+          "date": "2024-03-16T20:28:35Z",
+          "url": "https://github.com/JaberChowdhury/mesh-gradient-generator/commit/ec7fe61ea6d9b8e1d1f0ca78d24e74f6a7c34140"
+        },
+        {
+          "sha": "71bbf06e23b399485ea8ee5e88a31bd66c75c641",
+          "message": "add : generated code output",
+          "author": "black",
+          "date": "2024-02-29T11:34:14Z",
+          "url": "https://github.com/JaberChowdhury/mesh-gradient-generator/commit/71bbf06e23b399485ea8ee5e88a31bd66c75c641"
+        },
+        {
+          "sha": "33a8968c77e98415c952b8b2526070c3f946b28b",
+          "message": "clean markdown",
+          "author": "black",
+          "date": "2023-12-05T16:50:30Z",
+          "url": "https://github.com/JaberChowdhury/mesh-gradient-generator/commit/33a8968c77e98415c952b8b2526070c3f946b28b"
+        },
+        {
+          "sha": "0ecb4907ee9940b68034aaf8ef32322bcde7e61b",
+          "message": "first commit",
+          "author": "black",
+          "date": "2023-12-05T16:49:21Z",
+          "url": "https://github.com/JaberChowdhury/mesh-gradient-generator/commit/0ecb4907ee9940b68034aaf8ef32322bcde7e61b"
+        }
+      ]
+    }
+  ],
+  "readmes": [
+    {
+      "name": "main",
+      "readmeHtml": "<div id=\"readme\" class=\"md\" data-path=\"README.md\"><div class=\"plain\"><pre style=\"white-space: pre-wrap\">\n</pre></div></div>"
+    }
+  ],
+  "languages": {
+    "TypeScript": 48552,
+    "JavaScript": 2645,
+    "CSS": 2543,
+    "HTML": 676
+  },
+  "weeklyActivity": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+}

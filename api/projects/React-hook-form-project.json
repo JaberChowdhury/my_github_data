@@ -1,0 +1,153 @@
+{
+  "id": 746314388,
+  "name": "React-hook-form-project",
+  "description": "Practising react-hook-form with zod",
+  "html_url": "https://github.com/JaberChowdhury/React-hook-form-project",
+  "homepage": "https://react-hook-form-project-mauve.vercel.app",
+  "language": "TypeScript",
+  "topics": [
+    "generouted",
+    "material-ui",
+    "picocss",
+    "react",
+    "react-hook-form",
+    "react-router-dom",
+    "regexp",
+    "shadcn-ui",
+    "tailwindcss",
+    "typescript",
+    "zod"
+  ],
+  "stargazers_count": 0,
+  "updated_at": "2024-01-23T13:13:57Z",
+  "full_name": "JaberChowdhury/React-hook-form-project",
+  "watchers_count": 0,
+  "forks_count": 0,
+  "pushed_at": "2024-03-14T06:41:02Z",
+  "default_branch": "main",
+  "fork": false,
+  "size": 362,
+  "open_issues_count": 0,
+  "branches": [
+    {
+      "name": "main",
+      "commit": {
+        "sha": "07804a30217ff6c39320da6b78804a3877d839f1",
+        "url": "https://api.github.com/repos/JaberChowdhury/React-hook-form-project/commits/07804a30217ff6c39320da6b78804a3877d839f1"
+      },
+      "protected": false,
+      "languages": {
+        "JavaScript": 3,
+        "Markdown": 1,
+        "JSON": 4,
+        "HTML": 1,
+        "React": 21,
+        "TypeScript": 7,
+        "CSS": 2
+      },
+      "recentCommits": [
+        {
+          "sha": "07804a30217ff6c39320da6b78804a3877d839f1",
+          "message": "fix : .gitignore",
+          "author": "black",
+          "date": "2024-03-14T06:40:52Z",
+          "url": "https://github.com/JaberChowdhury/React-hook-form-project/commit/07804a30217ff6c39320da6b78804a3877d839f1"
+        },
+        {
+          "sha": "f8426c4bffae67bc45cd35b0ea5cbf96165d527b",
+          "message": "add : an example on how to use this hook with shadcn",
+          "author": "black",
+          "date": "2024-01-23T17:54:53Z",
+          "url": "https://github.com/JaberChowdhury/React-hook-form-project/commit/f8426c4bffae67bc45cd35b0ea5cbf96165d527b"
+        },
+        {
+          "sha": "bfa98fe668d58ba44fc1192e84fb9b357988c090",
+          "message": "add : fieldData added in code route",
+          "author": "black",
+          "date": "2024-01-23T13:22:53Z",
+          "url": "https://github.com/JaberChowdhury/React-hook-form-project/commit/bfa98fe668d58ba44fc1192e84fb9b357988c090"
+        },
+        {
+          "sha": "bd38ba320444535fd99d34bbf1d12f3e910c038b",
+          "message": "fix && add : fixed errorbox and added roboto font",
+          "author": "black",
+          "date": "2024-01-23T13:11:49Z",
+          "url": "https://github.com/JaberChowdhury/React-hook-form-project/commit/bd38ba320444535fd99d34bbf1d12f3e910c038b"
+        },
+        {
+          "sha": "a889c6d84fef562c01fbc90fc074b088ebdb3675",
+          "message": "fix : README.md with prettier",
+          "author": "black",
+          "date": "2024-01-23T11:04:16Z",
+          "url": "https://github.com/JaberChowdhury/React-hook-form-project/commit/a889c6d84fef562c01fbc90fc074b088ebdb3675"
+        }
+      ]
+    }
+  ],
+  "readmes": [
+    {
+      "name": "main",
+      "readmeHtml": "<div id=\"readme\" class=\"md\" data-path=\"README.md\"><article class=\"markdown-body entry-content container-lg\" itemprop=\"text\"><div class=\"markdown-heading\" dir=\"auto\"><h1 align=\"center\" class=\"heading-element\" dir=\"auto\">React-project</h1><a id=\"user-content-react-project\" class=\"anchor\" aria-label=\"Permalink: React-project\" href=\"#react-project\"><svg data-component=\"Octicon\" class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"><path d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"></path></svg></a></div>\n<hr>\n<div class=\"markdown-heading\" dir=\"auto\"><h1 align=\"center\" class=\"heading-element\" dir=\"auto\">React + Typescript + react-hook-form + zod</h1><a id=\"user-content-react--typescript--react-hook-form--zod\" class=\"anchor\" aria-label=\"Permalink: React + Typescript + react-hook-form + zod\" href=\"#react--typescript--react-hook-form--zod\"><svg data-component=\"Octicon\" class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"><path d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"></path></svg></a></div>\n<div class=\"markdown-heading\" dir=\"auto\"><h2 class=\"heading-element\" dir=\"auto\">Description : practising react-hook-form with zod for form validation</h2><a id=\"user-content-description--practising-react-hook-form-with-zod-for-form-validation\" class=\"anchor\" aria-label=\"Permalink: Description : practising react-hook-form with zod for form validation\" href=\"#description--practising-react-hook-form-with-zod-for-form-validation\"><svg data-component=\"Octicon\" class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"><path d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"></path></svg></a></div>\n<hr>\n</article></div>"
+    }
+  ],
+  "languages": {
+    "TypeScript": 81597,
+    "JavaScript": 2663,
+    "CSS": 2442,
+    "HTML": 654
+  },
+  "weeklyActivity": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+}

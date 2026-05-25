@@ -1,0 +1,265 @@
+{
+  "id": 734052167,
+  "name": "quotes-showcase",
+  "description": "Showing some quotes collected from social media",
+  "html_url": "https://github.com/JaberChowdhury/quotes-showcase",
+  "homepage": "https://quotes-showcase.vercel.app",
+  "language": "TypeScript",
+  "topics": [
+    "axios",
+    "clsx",
+    "eslint",
+    "lucide-react",
+    "node-js",
+    "postcss",
+    "prettier",
+    "reactjs",
+    "tailwind-css",
+    "tailwind-merge",
+    "typescript",
+    "vite"
+  ],
+  "stargazers_count": 0,
+  "updated_at": "2026-01-13T18:50:09Z",
+  "full_name": "JaberChowdhury/quotes-showcase",
+  "watchers_count": 0,
+  "forks_count": 0,
+  "pushed_at": "2026-01-13T18:50:05Z",
+  "default_branch": "main",
+  "fork": false,
+  "size": 168,
+  "open_issues_count": 1,
+  "branches": [
+    {
+      "name": "main",
+      "commit": {
+        "sha": "55459a32965c8e533110ab0d74700a909d55d797",
+        "url": "https://api.github.com/repos/JaberChowdhury/quotes-showcase/commits/55459a32965c8e533110ab0d74700a909d55d797"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "HTML": 1,
+        "JSON": 4,
+        "YAML": 1,
+        "JavaScript": 2,
+        "React": 8,
+        "CSS": 1,
+        "TypeScript": 3
+      },
+      "recentCommits": [
+        {
+          "sha": "55459a32965c8e533110ab0d74700a909d55d797",
+          "message": "update : types",
+          "author": "jaber",
+          "date": "2026-01-13T18:49:40Z",
+          "url": "https://github.com/JaberChowdhury/quotes-showcase/commit/55459a32965c8e533110ab0d74700a909d55d797"
+        },
+        {
+          "sha": "95baf7ca33e8fd9be6a5303b5d73612af9b43205",
+          "message": "update : package and design",
+          "author": "jaber",
+          "date": "2026-01-13T18:37:18Z",
+          "url": "https://github.com/JaberChowdhury/quotes-showcase/commit/95baf7ca33e8fd9be6a5303b5d73612af9b43205"
+        },
+        {
+          "sha": "7b376f60ab88321d3e0224a1a8e41a0f9248f1d5",
+          "message": "chore: update dependencies to latest versions",
+          "author": "black",
+          "date": "2025-01-09T18:12:26Z",
+          "url": "https://github.com/JaberChowdhury/quotes-showcase/commit/7b376f60ab88321d3e0224a1a8e41a0f9248f1d5"
+        },
+        {
+          "sha": "39a255917b0fe471d1f5fb2d5c1a5a40cec6a109",
+          "message": "added scroll trigger indigator -not working",
+          "author": "black",
+          "date": "2024-01-13T06:50:53Z",
+          "url": "https://github.com/JaberChowdhury/quotes-showcase/commit/39a255917b0fe471d1f5fb2d5c1a5a40cec6a109"
+        },
+        {
+          "sha": "bd5c8279a70d154044940364b5b498afcbda9661",
+          "message": "fix : fixed so many ui problem andd added million to make react faster👻",
+          "author": "black",
+          "date": "2023-12-22T18:32:52Z",
+          "url": "https://github.com/JaberChowdhury/quotes-showcase/commit/bd5c8279a70d154044940364b5b498afcbda9661"
+        }
+      ]
+    },
+    {
+      "name": "old",
+      "commit": {
+        "sha": "7b376f60ab88321d3e0224a1a8e41a0f9248f1d5",
+        "url": "https://api.github.com/repos/JaberChowdhury/quotes-showcase/commits/7b376f60ab88321d3e0224a1a8e41a0f9248f1d5"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "HTML": 1,
+        "JSON": 4,
+        "YAML": 1,
+        "JavaScript": 2,
+        "React": 8,
+        "CSS": 1,
+        "TypeScript": 3
+      },
+      "recentCommits": [
+        {
+          "sha": "7b376f60ab88321d3e0224a1a8e41a0f9248f1d5",
+          "message": "chore: update dependencies to latest versions",
+          "author": "black",
+          "date": "2025-01-09T18:12:26Z",
+          "url": "https://github.com/JaberChowdhury/quotes-showcase/commit/7b376f60ab88321d3e0224a1a8e41a0f9248f1d5"
+        },
+        {
+          "sha": "39a255917b0fe471d1f5fb2d5c1a5a40cec6a109",
+          "message": "added scroll trigger indigator -not working",
+          "author": "black",
+          "date": "2024-01-13T06:50:53Z",
+          "url": "https://github.com/JaberChowdhury/quotes-showcase/commit/39a255917b0fe471d1f5fb2d5c1a5a40cec6a109"
+        },
+        {
+          "sha": "bd5c8279a70d154044940364b5b498afcbda9661",
+          "message": "fix : fixed so many ui problem andd added million to make react faster👻",
+          "author": "black",
+          "date": "2023-12-22T18:32:52Z",
+          "url": "https://github.com/JaberChowdhury/quotes-showcase/commit/bd5c8279a70d154044940364b5b498afcbda9661"
+        },
+        {
+          "sha": "8045961cfb3e294969bfe82a0644a79430059ffc",
+          "message": "changed .gitignore file",
+          "author": "Black Light",
+          "date": "2023-12-20T21:03:01Z",
+          "url": "https://github.com/JaberChowdhury/quotes-showcase/commit/8045961cfb3e294969bfe82a0644a79430059ffc"
+        },
+        {
+          "sha": "019c360f059d1ffc7e5ad350f08715b342cf057c",
+          "message": "fix : fixed Readme.md",
+          "author": "black",
+          "date": "2023-12-20T18:49:08Z",
+          "url": "https://github.com/JaberChowdhury/quotes-showcase/commit/019c360f059d1ffc7e5ad350f08715b342cf057c"
+        }
+      ]
+    },
+    {
+      "name": "v2",
+      "commit": {
+        "sha": "55459a32965c8e533110ab0d74700a909d55d797",
+        "url": "https://api.github.com/repos/JaberChowdhury/quotes-showcase/commits/55459a32965c8e533110ab0d74700a909d55d797"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "HTML": 1,
+        "JSON": 4,
+        "YAML": 1,
+        "JavaScript": 2,
+        "React": 8,
+        "CSS": 1,
+        "TypeScript": 3
+      },
+      "recentCommits": [
+        {
+          "sha": "55459a32965c8e533110ab0d74700a909d55d797",
+          "message": "update : types",
+          "author": "jaber",
+          "date": "2026-01-13T18:49:40Z",
+          "url": "https://github.com/JaberChowdhury/quotes-showcase/commit/55459a32965c8e533110ab0d74700a909d55d797"
+        },
+        {
+          "sha": "95baf7ca33e8fd9be6a5303b5d73612af9b43205",
+          "message": "update : package and design",
+          "author": "jaber",
+          "date": "2026-01-13T18:37:18Z",
+          "url": "https://github.com/JaberChowdhury/quotes-showcase/commit/95baf7ca33e8fd9be6a5303b5d73612af9b43205"
+        },
+        {
+          "sha": "7b376f60ab88321d3e0224a1a8e41a0f9248f1d5",
+          "message": "chore: update dependencies to latest versions",
+          "author": "black",
+          "date": "2025-01-09T18:12:26Z",
+          "url": "https://github.com/JaberChowdhury/quotes-showcase/commit/7b376f60ab88321d3e0224a1a8e41a0f9248f1d5"
+        },
+        {
+          "sha": "39a255917b0fe471d1f5fb2d5c1a5a40cec6a109",
+          "message": "added scroll trigger indigator -not working",
+          "author": "black",
+          "date": "2024-01-13T06:50:53Z",
+          "url": "https://github.com/JaberChowdhury/quotes-showcase/commit/39a255917b0fe471d1f5fb2d5c1a5a40cec6a109"
+        },
+        {
+          "sha": "bd5c8279a70d154044940364b5b498afcbda9661",
+          "message": "fix : fixed so many ui problem andd added million to make react faster👻",
+          "author": "black",
+          "date": "2023-12-22T18:32:52Z",
+          "url": "https://github.com/JaberChowdhury/quotes-showcase/commit/bd5c8279a70d154044940364b5b498afcbda9661"
+        }
+      ]
+    }
+  ],
+  "readmes": [
+    {
+      "name": "main",
+      "readmeHtml": "<div id=\"readme\" class=\"md\" data-path=\"README.md\"><article class=\"markdown-body entry-content container-lg\" itemprop=\"text\"><div class=\"markdown-heading\" dir=\"auto\"><h1 class=\"heading-element\" dir=\"auto\">quotes-showcase</h1><a id=\"user-content-quotes-showcase\" class=\"anchor\" aria-label=\"Permalink: quotes-showcase\" href=\"#quotes-showcase\"><svg data-component=\"Octicon\" class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"><path d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"></path></svg></a></div>\n</article></div>"
+    }
+  ],
+  "languages": {
+    "TypeScript": 9116,
+    "JavaScript": 1086,
+    "CSS": 858,
+    "HTML": 366
+  },
+  "weeklyActivity": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+}

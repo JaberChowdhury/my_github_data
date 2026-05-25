@@ -1,0 +1,918 @@
+{
+  "id": 729875625,
+  "name": "canvas-projects",
+  "description": "Github repository of my canvas learning journey. ",
+  "html_url": "https://github.com/JaberChowdhury/canvas-projects",
+  "homepage": "https://canvas-projects-five.vercel.app",
+  "language": null,
+  "topics": [
+    "animation",
+    "canvas",
+    "css",
+    "javascript",
+    "prettier",
+    "vite"
+  ],
+  "stargazers_count": 1,
+  "updated_at": "2023-12-17T15:09:09Z",
+  "full_name": "JaberChowdhury/canvas-projects",
+  "watchers_count": 1,
+  "forks_count": 0,
+  "pushed_at": "2025-06-30T15:35:30Z",
+  "default_branch": "main",
+  "fork": false,
+  "size": 78,
+  "open_issues_count": 0,
+  "branches": [
+    {
+      "name": "bouncing-ball",
+      "commit": {
+        "sha": "2d9a3cf88e32e60cd97a1acb316c7b2d413505d7",
+        "url": "https://api.github.com/repos/JaberChowdhury/canvas-projects/commits/2d9a3cf88e32e60cd97a1acb316c7b2d413505d7"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "HTML": 1,
+        "JavaScript": 3,
+        "JSON": 2,
+        "CSS": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "2d9a3cf88e32e60cd97a1acb316c7b2d413505d7",
+          "message": "Update main.js",
+          "author": "Black Light",
+          "date": "2023-12-10T17:44:32Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/2d9a3cf88e32e60cd97a1acb316c7b2d413505d7"
+        },
+        {
+          "sha": "ea4a95b87ca48be130f451159e3da334d629768d",
+          "message": "update the Readme file for bouncing-ball branch",
+          "author": "black",
+          "date": "2023-12-10T17:30:58Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/ea4a95b87ca48be130f451159e3da334d629768d"
+        },
+        {
+          "sha": "a0ea8cb2ab58c2e2c43b31f31757b1c526e98ed7",
+          "message": "update the code for computer event",
+          "author": "black",
+          "date": "2023-12-10T17:12:08Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/a0ea8cb2ab58c2e2c43b31f31757b1c526e98ed7"
+        },
+        {
+          "sha": "f7bde266a3631e624b40b45586a93f5b292fd5f1",
+          "message": "updated the README for touchmove-1st branch",
+          "author": "black",
+          "date": "2023-12-10T16:47:48Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/f7bde266a3631e624b40b45586a93f5b292fd5f1"
+        },
+        {
+          "sha": "b7258f61ed9da384ac6d997260b6e1d9a106c157",
+          "message": "updated the README for main branch",
+          "author": "black",
+          "date": "2023-12-10T16:45:28Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/b7258f61ed9da384ac6d997260b6e1d9a106c157"
+        }
+      ]
+    },
+    {
+      "name": "bouncing-ball-2.0",
+      "commit": {
+        "sha": "f2048995e5ad52cacf0183ab453a463649bdf436",
+        "url": "https://api.github.com/repos/JaberChowdhury/canvas-projects/commits/f2048995e5ad52cacf0183ab453a463649bdf436"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "HTML": 1,
+        "JavaScript": 5,
+        "JSON": 2,
+        "CSS": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "f2048995e5ad52cacf0183ab453a463649bdf436",
+          "message": "created mini perticle",
+          "author": "black",
+          "date": "2023-12-11T15:39:35Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/f2048995e5ad52cacf0183ab453a463649bdf436"
+        },
+        {
+          "sha": "09dff1352e63055ad0dd6c8090e3786a4a446c43",
+          "message": "creating mini perticle",
+          "author": "black",
+          "date": "2023-12-11T15:27:20Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/09dff1352e63055ad0dd6c8090e3786a4a446c43"
+        },
+        {
+          "sha": "c348682cc155006c21d6b9c2f18c4832cfc4ed00",
+          "message": "commited bouncing-ball-2.0 in a middle state of dev",
+          "author": "black",
+          "date": "2023-12-11T15:06:11Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/c348682cc155006c21d6b9c2f18c4832cfc4ed00"
+        },
+        {
+          "sha": "da82e739f79858c8aa70b75c85ef053e65c4f010",
+          "message": "commited bouncing-ball branch latest",
+          "author": "black",
+          "date": "2023-12-11T10:07:59Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/da82e739f79858c8aa70b75c85ef053e65c4f010"
+        },
+        {
+          "sha": "2d9a3cf88e32e60cd97a1acb316c7b2d413505d7",
+          "message": "Update main.js",
+          "author": "Black Light",
+          "date": "2023-12-10T17:44:32Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/2d9a3cf88e32e60cd97a1acb316c7b2d413505d7"
+        }
+      ]
+    },
+    {
+      "name": "bouncing-ball-3.0",
+      "commit": {
+        "sha": "dd6d35025f54c758d52b46caed41e31e94480863",
+        "url": "https://api.github.com/repos/JaberChowdhury/canvas-projects/commits/dd6d35025f54c758d52b46caed41e31e94480863"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "HTML": 1,
+        "JavaScript": 5,
+        "JSON": 2,
+        "CSS": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "dd6d35025f54c758d52b46caed41e31e94480863",
+          "message": "3.0 is in progress",
+          "author": "black",
+          "date": "2023-12-13T11:48:23Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/dd6d35025f54c758d52b46caed41e31e94480863"
+        },
+        {
+          "sha": "f2048995e5ad52cacf0183ab453a463649bdf436",
+          "message": "created mini perticle",
+          "author": "black",
+          "date": "2023-12-11T15:39:35Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/f2048995e5ad52cacf0183ab453a463649bdf436"
+        },
+        {
+          "sha": "09dff1352e63055ad0dd6c8090e3786a4a446c43",
+          "message": "creating mini perticle",
+          "author": "black",
+          "date": "2023-12-11T15:27:20Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/09dff1352e63055ad0dd6c8090e3786a4a446c43"
+        },
+        {
+          "sha": "c348682cc155006c21d6b9c2f18c4832cfc4ed00",
+          "message": "commited bouncing-ball-2.0 in a middle state of dev",
+          "author": "black",
+          "date": "2023-12-11T15:06:11Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/c348682cc155006c21d6b9c2f18c4832cfc4ed00"
+        },
+        {
+          "sha": "da82e739f79858c8aa70b75c85ef053e65c4f010",
+          "message": "commited bouncing-ball branch latest",
+          "author": "black",
+          "date": "2023-12-11T10:07:59Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/da82e739f79858c8aa70b75c85ef053e65c4f010"
+        }
+      ]
+    },
+    {
+      "name": "collision",
+      "commit": {
+        "sha": "c2ebef167ed4fb7f95cdc9fdc3f70bfb3647e5a2",
+        "url": "https://api.github.com/repos/JaberChowdhury/canvas-projects/commits/c2ebef167ed4fb7f95cdc9fdc3f70bfb3647e5a2"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "HTML": 1,
+        "JavaScript": 3,
+        "JSON": 2,
+        "CSS": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "c2ebef167ed4fb7f95cdc9fdc3f70bfb3647e5a2",
+          "message": "collision complete",
+          "author": "black",
+          "date": "2023-12-16T12:03:13Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/c2ebef167ed4fb7f95cdc9fdc3f70bfb3647e5a2"
+        },
+        {
+          "sha": "13c4bd916acb8d281d64c5123aa1f97450a67e64",
+          "message": "initial commit",
+          "author": "black",
+          "date": "2023-12-15T18:28:59Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/13c4bd916acb8d281d64c5123aa1f97450a67e64"
+        },
+        {
+          "sha": "f44ddf95b8be89adbeeb4a2d1b8eef709fde5ebb",
+          "message": "initial commit",
+          "author": "black",
+          "date": "2023-12-15T13:03:55Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/f44ddf95b8be89adbeeb4a2d1b8eef709fde5ebb"
+        },
+        {
+          "sha": "d2ba5edf50c195002aa1df7dffe625a301fc0ea9",
+          "message": "bug fixed",
+          "author": "black",
+          "date": "2023-12-15T12:23:42Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/d2ba5edf50c195002aa1df7dffe625a301fc0ea9"
+        },
+        {
+          "sha": "6729bba50b44ce1cab8aeaf801d5cffda727b4b6",
+          "message": "bal",
+          "author": "black",
+          "date": "2023-12-15T12:20:23Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/6729bba50b44ce1cab8aeaf801d5cffda727b4b6"
+        }
+      ]
+    },
+    {
+      "name": "collision-2.0",
+      "commit": {
+        "sha": "069f3523d336104182b426b475cb0f96d9d402cd",
+        "url": "https://api.github.com/repos/JaberChowdhury/canvas-projects/commits/069f3523d336104182b426b475cb0f96d9d402cd"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "HTML": 1,
+        "JavaScript": 3,
+        "JSON": 2,
+        "CSS": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "069f3523d336104182b426b475cb0f96d9d402cd",
+          "message": "add : collision-2.0 compleated",
+          "author": "black",
+          "date": "2023-12-17T18:48:16Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/069f3523d336104182b426b475cb0f96d9d402cd"
+        },
+        {
+          "sha": "bc81ed950c51b43d7ed2bc438e967f8f21a0cfea",
+          "message": "add : installed lodash",
+          "author": "black",
+          "date": "2023-12-17T17:44:36Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/bc81ed950c51b43d7ed2bc438e967f8f21a0cfea"
+        },
+        {
+          "sha": "7e7cbed64c07c498984dc3eecf9c03971a0c2dd2",
+          "message": "style : changed background color",
+          "author": "black",
+          "date": "2023-12-17T17:44:08Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/7e7cbed64c07c498984dc3eecf9c03971a0c2dd2"
+        },
+        {
+          "sha": "c8153a11d89863ee3c93335ee4881fd6f51b9508",
+          "message": "build : circles generated",
+          "author": "black",
+          "date": "2023-12-17T17:43:38Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/c8153a11d89863ee3c93335ee4881fd6f51b9508"
+        },
+        {
+          "sha": "39546ba456e04f22ce7699890e874c572389e9d9",
+          "message": "init : collision-2.0 initilize",
+          "author": "black",
+          "date": "2023-12-17T11:10:35Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/39546ba456e04f22ce7699890e874c572389e9d9"
+        }
+      ]
+    },
+    {
+      "name": "collision-3.0",
+      "commit": {
+        "sha": "24991fcba4bf33b6f566352d905c3620ad9cea55",
+        "url": "https://api.github.com/repos/JaberChowdhury/canvas-projects/commits/24991fcba4bf33b6f566352d905c3620ad9cea55"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "HTML": 1,
+        "JavaScript": 7,
+        "JSON": 2,
+        "CSS": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "24991fcba4bf33b6f566352d905c3620ad9cea55",
+          "message": "fix : fixed dom mising module",
+          "author": "black",
+          "date": "2023-12-21T07:12:09Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/24991fcba4bf33b6f566352d905c3620ad9cea55"
+        },
+        {
+          "sha": "68a67f7fca052572a02536a19145512f4538b033",
+          "message": "fix : conflict should be fixed",
+          "author": "black",
+          "date": "2023-12-19T16:58:33Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/68a67f7fca052572a02536a19145512f4538b033"
+        },
+        {
+          "sha": "1fbecf5602d2d0b094c5789dfe02c79c21b3f8fc",
+          "message": "refactor : refactoring some codeblock and added some testing",
+          "author": "black",
+          "date": "2023-12-19T16:40:42Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/1fbecf5602d2d0b094c5789dfe02c79c21b3f8fc"
+        },
+        {
+          "sha": "b3b8faef6c706dc87e51824d0dbbe3c6dd037481",
+          "message": "fix : rename with note",
+          "author": "black",
+          "date": "2023-12-19T16:39:25Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/b3b8faef6c706dc87e51824d0dbbe3c6dd037481"
+        },
+        {
+          "sha": "9493516f732101c3f9d056dbb50c2c2da405dcde",
+          "message": "nothing done here",
+          "author": "black",
+          "date": "2023-12-18T18:03:59Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/9493516f732101c3f9d056dbb50c2c2da405dcde"
+        }
+      ]
+    },
+    {
+      "name": "glowing-perticle",
+      "commit": {
+        "sha": "f3e7ddf8cf5426c60af52e0cb57807e586699900",
+        "url": "https://api.github.com/repos/JaberChowdhury/canvas-projects/commits/f3e7ddf8cf5426c60af52e0cb57807e586699900"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "HTML": 1,
+        "JavaScript": 4,
+        "JSON": 2,
+        "YAML": 1,
+        "CSS": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "f3e7ddf8cf5426c60af52e0cb57807e586699900",
+          "message": "update devDependencies: upgrade prettier to 3.6.2 and vite to 5.4.19",
+          "author": "black",
+          "date": "2025-06-30T08:15:52Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/f3e7ddf8cf5426c60af52e0cb57807e586699900"
+        },
+        {
+          "sha": "ee29f69a61c0ed7a6990a78041c4a2db14198c67",
+          "message": "update color scheme",
+          "author": "black",
+          "date": "2023-12-12T19:28:23Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/ee29f69a61c0ed7a6990a78041c4a2db14198c67"
+        },
+        {
+          "sha": "55692520967a76daaf9db1f2bd0b71646b863b12",
+          "message": "update mousemove event",
+          "author": "black",
+          "date": "2023-12-12T13:44:33Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/55692520967a76daaf9db1f2bd0b71646b863b12"
+        },
+        {
+          "sha": "74e7f996793c64b63d3595bd909c27c42e7b243c",
+          "message": "update Readme file",
+          "author": "black",
+          "date": "2023-12-12T13:36:36Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/74e7f996793c64b63d3595bd909c27c42e7b243c"
+        },
+        {
+          "sha": "d662ce0530e9d404f91b7af4ab849fef0c9b1dd6",
+          "message": "glowing petticle project compleated",
+          "author": "black",
+          "date": "2023-12-12T13:33:26Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/d662ce0530e9d404f91b7af4ab849fef0c9b1dd6"
+        }
+      ]
+    },
+    {
+      "name": "glowing-perticle-2.0",
+      "commit": {
+        "sha": "db673a97ae1b6b88dd7407fd3d9090fa76859826",
+        "url": "https://api.github.com/repos/JaberChowdhury/canvas-projects/commits/db673a97ae1b6b88dd7407fd3d9090fa76859826"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "HTML": 1,
+        "JSON": 1,
+        "JavaScript": 2,
+        "CSS": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "db673a97ae1b6b88dd7407fd3d9090fa76859826",
+          "message": "add : basic",
+          "author": "black",
+          "date": "2024-03-16T17:53:23Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/db673a97ae1b6b88dd7407fd3d9090fa76859826"
+        },
+        {
+          "sha": "aea9eaa0ac5104b8aa26c5806ccfab2eca2deff5",
+          "message": "add : basic animation",
+          "author": "black",
+          "date": "2024-03-16T17:42:23Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/aea9eaa0ac5104b8aa26c5806ccfab2eca2deff5"
+        },
+        {
+          "sha": "c093d27651cc206971d2c3a4d753ff1dd3ebcc67",
+          "message": "add : circles",
+          "author": "black",
+          "date": "2024-03-15T05:57:31Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/c093d27651cc206971d2c3a4d753ff1dd3ebcc67"
+        },
+        {
+          "sha": "1b11f4f69517f967c8aa7eda14a799deed372c20",
+          "message": "add : circles generator",
+          "author": "black",
+          "date": "2024-03-15T04:52:36Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/1b11f4f69517f967c8aa7eda14a799deed372c20"
+        },
+        {
+          "sha": "5d67efb963c13b3584ca57a71e358a7327ce1fbe",
+          "message": "init && fix : new branch && readme",
+          "author": "black",
+          "date": "2024-03-15T04:40:57Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/5d67efb963c13b3584ca57a71e358a7327ce1fbe"
+        }
+      ]
+    },
+    {
+      "name": "gravity",
+      "commit": {
+        "sha": "2447b61cc28e06235d58678dc7c65133c46f9894",
+        "url": "https://api.github.com/repos/JaberChowdhury/canvas-projects/commits/2447b61cc28e06235d58678dc7c65133c46f9894"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "HTML": 1,
+        "JavaScript": 3,
+        "JSON": 2,
+        "CSS": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "2447b61cc28e06235d58678dc7c65133c46f9894",
+          "message": "fix : random x axis limitation fixed",
+          "author": "black",
+          "date": "2023-12-16T15:00:43Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/2447b61cc28e06235d58678dc7c65133c46f9894"
+        },
+        {
+          "sha": "777a2e5c8d6c244c8a6099096378fed66d48ecd1",
+          "message": "gravity tutorial done",
+          "author": "black",
+          "date": "2023-12-15T11:51:36Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/777a2e5c8d6c244c8a6099096378fed66d48ecd1"
+        },
+        {
+          "sha": "77427ee482ce96b4106b2ab123c2313d5833b13a",
+          "message": "initilizing gravity branch",
+          "author": "black",
+          "date": "2023-12-13T15:23:38Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/77427ee482ce96b4106b2ab123c2313d5833b13a"
+        },
+        {
+          "sha": "f2048995e5ad52cacf0183ab453a463649bdf436",
+          "message": "created mini perticle",
+          "author": "black",
+          "date": "2023-12-11T15:39:35Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/f2048995e5ad52cacf0183ab453a463649bdf436"
+        },
+        {
+          "sha": "09dff1352e63055ad0dd6c8090e3786a4a446c43",
+          "message": "creating mini perticle",
+          "author": "black",
+          "date": "2023-12-11T15:27:20Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/09dff1352e63055ad0dd6c8090e3786a4a446c43"
+        }
+      ]
+    },
+    {
+      "name": "gravity-2.0",
+      "commit": {
+        "sha": "e09abbc04ae806c5b2d2152e9f0279b125e803d5",
+        "url": "https://api.github.com/repos/JaberChowdhury/canvas-projects/commits/e09abbc04ae806c5b2d2152e9f0279b125e803d5"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "HTML": 1,
+        "JavaScript": 3,
+        "JSON": 2,
+        "CSS": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "e09abbc04ae806c5b2d2152e9f0279b125e803d5",
+          "message": "update : updated x axis bounce and stop on minimum distance bounce",
+          "author": "black",
+          "date": "2023-12-17T09:28:09Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/e09abbc04ae806c5b2d2152e9f0279b125e803d5"
+        },
+        {
+          "sha": "a174b98e2721111d911f1fe7f251731d5d1835b6",
+          "message": "chore : update the Readme file for gravity-2.0",
+          "author": "black",
+          "date": "2023-12-17T08:25:01Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/a174b98e2721111d911f1fe7f251731d5d1835b6"
+        },
+        {
+          "sha": "2447b61cc28e06235d58678dc7c65133c46f9894",
+          "message": "fix : random x axis limitation fixed",
+          "author": "black",
+          "date": "2023-12-16T15:00:43Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/2447b61cc28e06235d58678dc7c65133c46f9894"
+        },
+        {
+          "sha": "777a2e5c8d6c244c8a6099096378fed66d48ecd1",
+          "message": "gravity tutorial done",
+          "author": "black",
+          "date": "2023-12-15T11:51:36Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/777a2e5c8d6c244c8a6099096378fed66d48ecd1"
+        },
+        {
+          "sha": "77427ee482ce96b4106b2ab123c2313d5833b13a",
+          "message": "initilizing gravity branch",
+          "author": "black",
+          "date": "2023-12-13T15:23:38Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/77427ee482ce96b4106b2ab123c2313d5833b13a"
+        }
+      ]
+    },
+    {
+      "name": "lib",
+      "commit": {
+        "sha": "50b5dab85dcee93c29e6ab3c8c920bf7c6053cbe",
+        "url": "https://api.github.com/repos/JaberChowdhury/canvas-projects/commits/50b5dab85dcee93c29e6ab3c8c920bf7c6053cbe"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "JavaScript": 1,
+        "JSON": 3,
+        "TypeScript": 4
+      },
+      "recentCommits": [
+        {
+          "sha": "50b5dab85dcee93c29e6ab3c8c920bf7c6053cbe",
+          "message": "refactor: update project configuration and restructure utils",
+          "author": "Black Light",
+          "date": "2025-04-05T18:13:17Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/50b5dab85dcee93c29e6ab3c8c920bf7c6053cbe"
+        },
+        {
+          "sha": "d09d9d0d4cba7fd1aa0c7a5f8555eae3d64e8ddf",
+          "message": "change : not important",
+          "author": "black",
+          "date": "2024-03-12T09:30:33Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/d09d9d0d4cba7fd1aa0c7a5f8555eae3d64e8ddf"
+        },
+        {
+          "sha": "4b94a8f90c06d738f2cfe029cb31e3071044a4e9",
+          "message": "add : utils amd colors",
+          "author": "black",
+          "date": "2024-03-08T11:34:53Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/4b94a8f90c06d738f2cfe029cb31e3071044a4e9"
+        },
+        {
+          "sha": "9cf21eb707dae8fbea3da63a1fc9cbad60f799e1",
+          "message": "add : initial project for lib for canvas helper",
+          "author": "black",
+          "date": "2024-03-02T20:10:18Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/9cf21eb707dae8fbea3da63a1fc9cbad60f799e1"
+        },
+        {
+          "sha": "97aac38ac6bbfbc6d0d09c039d2252db70898c84",
+          "message": "fix : README.md fixed",
+          "author": "black",
+          "date": "2023-12-17T19:02:57Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/97aac38ac6bbfbc6d0d09c039d2252db70898c84"
+        }
+      ]
+    },
+    {
+      "name": "main",
+      "commit": {
+        "sha": "8df99ac979370d86a6d5134710ee5a722a7f7f68",
+        "url": "https://api.github.com/repos/JaberChowdhury/canvas-projects/commits/8df99ac979370d86a6d5134710ee5a722a7f7f68"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "8df99ac979370d86a6d5134710ee5a722a7f7f68",
+          "message": "fix : README.md",
+          "author": "black",
+          "date": "2024-03-16T17:57:21Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/8df99ac979370d86a6d5134710ee5a722a7f7f68"
+        },
+        {
+          "sha": "7bfbf7ca615083ed800761b492bb09b52258fee2",
+          "message": "add : .gitignore",
+          "author": "black",
+          "date": "2024-03-16T17:56:12Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/7bfbf7ca615083ed800761b492bb09b52258fee2"
+        },
+        {
+          "sha": "05bbb797f634e046c40678b9bf3c88a98118dc1f",
+          "message": "add : added 2 more branches",
+          "author": "black",
+          "date": "2024-03-13T05:15:10Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/05bbb797f634e046c40678b9bf3c88a98118dc1f"
+        },
+        {
+          "sha": "b304f45920900aabf5ea885e65d8c4e85f27723a",
+          "message": "clean : clean branch",
+          "author": "black",
+          "date": "2024-03-13T05:12:51Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/b304f45920900aabf5ea885e65d8c4e85f27723a"
+        },
+        {
+          "sha": "97aac38ac6bbfbc6d0d09c039d2252db70898c84",
+          "message": "fix : README.md fixed",
+          "author": "black",
+          "date": "2023-12-17T19:02:57Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/97aac38ac6bbfbc6d0d09c039d2252db70898c84"
+        }
+      ]
+    },
+    {
+      "name": "sine-wave",
+      "commit": {
+        "sha": "1d1db483ce89cf16cad1dca62cd61083a332d2e8",
+        "url": "https://api.github.com/repos/JaberChowdhury/canvas-projects/commits/1d1db483ce89cf16cad1dca62cd61083a332d2e8"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "HTML": 1,
+        "JSON": 1,
+        "YAML": 1,
+        "JavaScript": 4,
+        "CSS": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "1d1db483ce89cf16cad1dca62cd61083a332d2e8",
+          "message": "feat: adjust edge circle positioning and comment out canvas clearing",
+          "author": "black",
+          "date": "2025-06-30T15:35:22Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/1d1db483ce89cf16cad1dca62cd61083a332d2e8"
+        },
+        {
+          "sha": "399efac428b9a98c7806e58cf59f945f94487d61",
+          "message": "feat: add edge circles to plus sign animation",
+          "author": "black",
+          "date": "2025-06-30T14:37:43Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/399efac428b9a98c7806e58cf59f945f94487d61"
+        },
+        {
+          "sha": "384a7afe229357a36ac7e16e3684bb171d158416",
+          "message": "feat: add dot circle to canvas animation",
+          "author": "black",
+          "date": "2025-06-30T14:32:12Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/384a7afe229357a36ac7e16e3684bb171d158416"
+        },
+        {
+          "sha": "f1df168cdc5614823a06b64e1bda7ddf8a01b7e1",
+          "message": "feat: add animation classes for rotating bars and circles",
+          "author": "black",
+          "date": "2025-06-30T13:23:41Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/f1df168cdc5614823a06b64e1bda7ddf8a01b7e1"
+        },
+        {
+          "sha": "32f58b9aa563f894580a03d35e0c6ab860a45fb3",
+          "message": "feat: implement canvas animation with rotating plus sign and center circle",
+          "author": "black",
+          "date": "2025-06-30T12:58:23Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/32f58b9aa563f894580a03d35e0c6ab860a45fb3"
+        }
+      ]
+    },
+    {
+      "name": "starter-code",
+      "commit": {
+        "sha": "1fe3e44743e9d11bcd5d58df6e8bd4af082ca8b4",
+        "url": "https://api.github.com/repos/JaberChowdhury/canvas-projects/commits/1fe3e44743e9d11bcd5d58df6e8bd4af082ca8b4"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "HTML": 1,
+        "JSON": 1,
+        "JavaScript": 2,
+        "CSS": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "1fe3e44743e9d11bcd5d58df6e8bd4af082ca8b4",
+          "message": "style : fix the basic styles",
+          "author": "black",
+          "date": "2024-03-16T17:54:42Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/1fe3e44743e9d11bcd5d58df6e8bd4af082ca8b4"
+        },
+        {
+          "sha": "41d57ffa2a1165c404c051243de15304a0b4986b",
+          "message": "utils : added a new method in utils",
+          "author": "black",
+          "date": "2024-03-15T05:02:44Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/41d57ffa2a1165c404c051243de15304a0b4986b"
+        },
+        {
+          "sha": "64baece2c92163ea7b6d47e7a9183ad63c62eb36",
+          "message": "style : added overflow hidden in body",
+          "author": "black",
+          "date": "2024-03-15T04:45:31Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/64baece2c92163ea7b6d47e7a9183ad63c62eb36"
+        },
+        {
+          "sha": "66a1b0dfcb95e9716a5f3f962cc67bfbae1dd24a",
+          "message": "add : a utility method",
+          "author": "black",
+          "date": "2024-03-14T06:57:45Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/66a1b0dfcb95e9716a5f3f962cc67bfbae1dd24a"
+        },
+        {
+          "sha": "a6e15b6445dd332707b859cd35b32dc78af8d4c7",
+          "message": "fix : readme",
+          "author": "black",
+          "date": "2024-03-13T05:27:56Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/a6e15b6445dd332707b859cd35b32dc78af8d4c7"
+        }
+      ]
+    },
+    {
+      "name": "touchmove-1st",
+      "commit": {
+        "sha": "a0ea8cb2ab58c2e2c43b31f31757b1c526e98ed7",
+        "url": "https://api.github.com/repos/JaberChowdhury/canvas-projects/commits/a0ea8cb2ab58c2e2c43b31f31757b1c526e98ed7"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "HTML": 1,
+        "JavaScript": 3,
+        "JSON": 2,
+        "CSS": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "a0ea8cb2ab58c2e2c43b31f31757b1c526e98ed7",
+          "message": "update the code for computer event",
+          "author": "black",
+          "date": "2023-12-10T17:12:08Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/a0ea8cb2ab58c2e2c43b31f31757b1c526e98ed7"
+        },
+        {
+          "sha": "f7bde266a3631e624b40b45586a93f5b292fd5f1",
+          "message": "updated the README for touchmove-1st branch",
+          "author": "black",
+          "date": "2023-12-10T16:47:48Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/f7bde266a3631e624b40b45586a93f5b292fd5f1"
+        },
+        {
+          "sha": "b7258f61ed9da384ac6d997260b6e1d9a106c157",
+          "message": "updated the README for main branch",
+          "author": "black",
+          "date": "2023-12-10T16:45:28Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/b7258f61ed9da384ac6d997260b6e1d9a106c157"
+        },
+        {
+          "sha": "c8fdef5f3369a4bc0da417d8dfc4c4ff35cbb22c",
+          "message": "README.md created and dec added",
+          "author": "black",
+          "date": "2023-12-10T16:38:55Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/c8fdef5f3369a4bc0da417d8dfc4c4ff35cbb22c"
+        },
+        {
+          "sha": "effaeafafcaf32a7a89acd6f124a29a87dc3707c",
+          "message": "First commit",
+          "author": "black",
+          "date": "2023-12-10T16:18:17Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/effaeafafcaf32a7a89acd6f124a29a87dc3707c"
+        }
+      ]
+    },
+    {
+      "name": "touchmove-1st-auto",
+      "commit": {
+        "sha": "c501e891ff7380335b74a5b3beb5d91c4c4b5dff",
+        "url": "https://api.github.com/repos/JaberChowdhury/canvas-projects/commits/c501e891ff7380335b74a5b3beb5d91c4c4b5dff"
+      },
+      "protected": false,
+      "languages": {
+        "Markdown": 1,
+        "HTML": 1,
+        "JavaScript": 3,
+        "JSON": 2,
+        "CSS": 1
+      },
+      "recentCommits": [
+        {
+          "sha": "c501e891ff7380335b74a5b3beb5d91c4c4b5dff",
+          "message": "automation compleated",
+          "author": "black",
+          "date": "2023-12-11T17:07:44Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/c501e891ff7380335b74a5b3beb5d91c4c4b5dff"
+        },
+        {
+          "sha": "318f15b4f24fa271866e287136392c345de4f022",
+          "message": "nearly compleate",
+          "author": "black",
+          "date": "2023-12-11T16:37:55Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/318f15b4f24fa271866e287136392c345de4f022"
+        },
+        {
+          "sha": "34b8c742e4a585e23e3bd5a2bf54fe8eb3fc80e8",
+          "message": "nearly compleate",
+          "author": "black",
+          "date": "2023-12-11T16:34:46Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/34b8c742e4a585e23e3bd5a2bf54fe8eb3fc80e8"
+        },
+        {
+          "sha": "a0ea8cb2ab58c2e2c43b31f31757b1c526e98ed7",
+          "message": "update the code for computer event",
+          "author": "black",
+          "date": "2023-12-10T17:12:08Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/a0ea8cb2ab58c2e2c43b31f31757b1c526e98ed7"
+        },
+        {
+          "sha": "f7bde266a3631e624b40b45586a93f5b292fd5f1",
+          "message": "updated the README for touchmove-1st branch",
+          "author": "black",
+          "date": "2023-12-10T16:47:48Z",
+          "url": "https://github.com/JaberChowdhury/canvas-projects/commit/f7bde266a3631e624b40b45586a93f5b292fd5f1"
+        }
+      ]
+    }
+  ],
+  "readmes": [
+    {
+      "name": "main",
+      "readmeHtml": "<div id=\"readme\" class=\"md\" data-path=\"README.md\"><article class=\"markdown-body entry-content container-lg\" itemprop=\"text\"><div class=\"markdown-heading\" dir=\"auto\"><h1 class=\"heading-element\" dir=\"auto\">All my canvas practise</h1><a id=\"user-content-all-my-canvas-practise\" class=\"anchor\" aria-label=\"Permalink: All my canvas practise\" href=\"#all-my-canvas-practise\"><svg data-component=\"Octicon\" class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"><path d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"></path></svg></a></div>\n<div class=\"markdown-heading\" dir=\"auto\"><h2 class=\"heading-element\" dir=\"auto\">Check the branches</h2><a id=\"user-content-check-the-branches\" class=\"anchor\" aria-label=\"Permalink: Check the branches\" href=\"#check-the-branches\"><svg data-component=\"Octicon\" class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"><path d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"></path></svg></a></div>\n<ul dir=\"auto\">\n<li><a href=\"https://github.com/JaberChowdhury/canvas-projects/tree/main\">main</a></li>\n<li><a href=\"https://github.com/JaberChowdhury/canvas-projects/tree/bouncing-ball\">bouncing-ball</a></li>\n<li><a href=\"https://github.com/JaberChowdhury/canvas-projects/tree/bouncing-ball-2.0\">bouncing-ball-2.0</a></li>\n<li><a href=\"https://github.com/JaberChowdhury/canvas-projects/tree/bouncing-ball-3.0\">bouncing-ball-3.0</a></li>\n<li><a href=\"https://github.com/JaberChowdhury/canvas-projects/tree/collision\">collision</a></li>\n<li><a href=\"https://github.com/JaberChowdhury/canvas-projects/tree/collision-2.0\">collision-2.0</a></li>\n<li><a href=\"https://github.com/JaberChowdhury/canvas-projects/tree/collision-3.0\">collision-3.0</a></li>\n<li><a href=\"https://github.com/JaberChowdhury/canvas-projects/tree/glowing-perticle\">glowing-perticle</a></li>\n<li><a href=\"https://github.com/JaberChowdhury/canvas-projects/tree/glowing-perticle-2.0\">glowing-perticle-2.0</a></li>\n<li><a href=\"https://github.com/JaberChowdhury/canvas-projects/tree/gravity\">gravity</a></li>\n<li><a href=\"https://github.com/JaberChowdhury/canvas-projects/tree/gravity-2.0\">gravity-2.0</a></li>\n<li><a href=\"https://github.com/JaberChowdhury/canvas-projects/tree/touchmove-1st\">touchmove-1st</a></li>\n<li><a href=\"https://github.com/JaberChowdhury/canvas-projects/tree/touchmove-1st-auto\">touchmove-1st-auto</a></li>\n<li><a href=\"https://github.com/JaberChowdhury/canvas-projects/tree/starter-code\">starter-code</a></li>\n<li><a href=\"https://github.com/JaberChowdhury/canvas-projects/tree/lib\">lib</a></li>\n</ul>\n<div class=\"markdown-heading\" dir=\"auto\"><h2 class=\"heading-element\" dir=\"auto\">Get started</h2><a id=\"user-content-get-started\" class=\"anchor\" aria-label=\"Permalink: Get started\" href=\"#get-started\"><svg data-component=\"Octicon\" class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"><path d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"></path></svg></a></div>\n<div class=\"markdown-heading\" dir=\"auto\"><h4 class=\"heading-element\" dir=\"auto\">Clone the repository</h4><a id=\"user-content-clone-the-repository\" class=\"anchor\" aria-label=\"Permalink: Clone the repository\" href=\"#clone-the-repository\"><svg data-component=\"Octicon\" class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"><path d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"></path></svg></a></div>\n<div class=\"highlight highlight-source-shell notranslate position-relative overflow-auto\" dir=\"auto\" data-snippet-clipboard-copy-content=\"git clone https://github.com/JaberChowdhury/canvas-projects.git\"><pre>git clone https://github.com/JaberChowdhury/canvas-projects.git</pre></div>\n<div class=\"markdown-heading\" dir=\"auto\"><h4 class=\"heading-element\" dir=\"auto\">Go to the folder and install dependency</h4><a id=\"user-content-go-to-the-folder-and-install-dependency\" class=\"anchor\" aria-label=\"Permalink: Go to the folder and install dependency\" href=\"#go-to-the-folder-and-install-dependency\"><svg data-component=\"Octicon\" class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"><path d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"></path></svg></a></div>\n<div class=\"highlight highlight-source-shell notranslate position-relative overflow-auto\" dir=\"auto\" data-snippet-clipboard-copy-content=\"cd canvas-projects\nnpm install\"><pre><span class=\"pl-c1\">cd</span> canvas-projects\nnpm install</pre></div>\n<div class=\"markdown-heading\" dir=\"auto\"><h4 class=\"heading-element\" dir=\"auto\">Run the project</h4><a id=\"user-content-run-the-project\" class=\"anchor\" aria-label=\"Permalink: Run the project\" href=\"#run-the-project\"><svg data-component=\"Octicon\" class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"><path d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"></path></svg></a></div>\n<div class=\"highlight highlight-source-shell notranslate position-relative overflow-auto\" dir=\"auto\" data-snippet-clipboard-copy-content=\"npm run dev\"><pre>npm run dev</pre></div>\n<div class=\"markdown-heading\" dir=\"auto\"><h2 class=\"heading-element\" dir=\"auto\">Authors</h2><a id=\"user-content-authors\" class=\"anchor\" aria-label=\"Permalink: Authors\" href=\"#authors\"><svg data-component=\"Octicon\" class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"><path d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"></path></svg></a></div>\n<p dir=\"auto\"><a href=\"https://www.github.com/JaberChowdhury\">Mohammad Jaber Chowdhury</a></p>\n</article></div>"
+    }
+  ],
+  "languages": {},
+  "weeklyActivity": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+}
