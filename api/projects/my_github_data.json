@@ -7,31 +7,38 @@
   "language": "TypeScript",
   "topics": [],
   "stargazers_count": 0,
-  "updated_at": "2026-05-25T17:12:22Z",
+  "updated_at": "2026-05-25T19:37:19Z",
   "full_name": "JaberChowdhury/my_github_data",
   "watchers_count": 0,
   "forks_count": 0,
-  "pushed_at": "2026-05-25T17:12:18Z",
+  "pushed_at": "2026-05-25T19:37:15Z",
   "default_branch": "main",
   "fork": false,
-  "size": 396,
+  "size": 401,
   "open_issues_count": 0,
   "branches": [
     {
       "name": "main",
       "commit": {
-        "sha": "ebad27fb12f0bf815632d3ca120b1d164d0074da",
-        "url": "https://api.github.com/repos/JaberChowdhury/my_github_data/commits/ebad27fb12f0bf815632d3ca120b1d164d0074da"
+        "sha": "75fa664e039518f143b88a58c34c7706316008ed",
+        "url": "https://api.github.com/repos/JaberChowdhury/my_github_data/commits/75fa664e039518f143b88a58c34c7706316008ed"
       },
       "protected": false,
       "languages": {
         "Config": 1,
         "YAML": 1,
         "Markdown": 1,
-        "JSON": 65,
+        "JSON": 66,
         "TypeScript": 1
       },
       "recentCommits": [
+        {
+          "sha": "75fa664e039518f143b88a58c34c7706316008ed",
+          "message": "chore: auto-update portfolio data",
+          "author": "github-actions[bot]",
+          "date": "2026-05-25T19:37:15Z",
+          "url": "https://github.com/JaberChowdhury/my_github_data/commit/75fa664e039518f143b88a58c34c7706316008ed"
+        },
         {
           "sha": "ebad27fb12f0bf815632d3ca120b1d164d0074da",
           "message": "chore: auto-update portfolio data",
@@ -59,13 +66,6 @@
           "author": "jaber",
           "date": "2026-05-25T15:24:52Z",
           "url": "https://github.com/JaberChowdhury/my_github_data/commit/6fa0768e77a2833b479dcb9cf2bcd62047e50bc9"
-        },
-        {
-          "sha": "eaccf6871df833d1ea28e738319060c7b6870ea4",
-          "message": "chore: auto-update portfolio data",
-          "author": "github-actions[bot]",
-          "date": "2026-05-25T15:04:14Z",
-          "url": "https://github.com/JaberChowdhury/my_github_data/commit/eaccf6871df833d1ea28e738319060c7b6870ea4"
         }
       ]
     }
@@ -131,6 +131,6 @@
     0,
     0,
     0,
-    4
+    11
   ]
 }

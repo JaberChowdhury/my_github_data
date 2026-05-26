@@ -19,31 +19,45 @@
     "typescript"
   ],
   "stargazers_count": 0,
-  "updated_at": "2026-05-25T19:33:04Z",
+  "updated_at": "2026-05-25T20:00:05Z",
   "full_name": "JaberChowdhury/Portfolio-website",
   "watchers_count": 0,
   "forks_count": 0,
-  "pushed_at": "2026-05-25T19:33:01Z",
+  "pushed_at": "2026-05-25T20:00:02Z",
   "default_branch": "main",
   "fork": false,
-  "size": 0,
+  "size": 56378,
   "open_issues_count": 0,
   "branches": [
     {
       "name": "main",
       "commit": {
-        "sha": "41a85c87b86dd52e45afdedfe4896a0fc113bd8c",
-        "url": "https://api.github.com/repos/JaberChowdhury/Portfolio-website/commits/41a85c87b86dd52e45afdedfe4896a0fc113bd8c"
+        "sha": "ea61d1ee422655c5ed4a88a54380fc9d1d156dd4",
+        "url": "https://api.github.com/repos/JaberChowdhury/Portfolio-website/commits/ea61d1ee422655c5ed4a88a54380fc9d1d156dd4"
       },
       "protected": false,
       "languages": {
         "Markdown": 3,
-        "JSON": 4,
+        "JSON": 3,
         "TypeScript": 21,
         "React": 48,
         "CSS": 1
       },
       "recentCommits": [
+        {
+          "sha": "ea61d1ee422655c5ed4a88a54380fc9d1d156dd4",
+          "message": "Refactor ProjectDetailClient to fetch data client-side\n\nMigrated repository data fetching from the server component to the\nclient\ncomponent using useEffect. Updated the client to handle loading and\nerror states, and simplified the page component accordingly.",
+          "author": "jaber",
+          "date": "2026-05-25T19:59:59Z",
+          "url": "https://github.com/JaberChowdhury/Portfolio-website/commit/ea61d1ee422655c5ed4a88a54380fc9d1d156dd4"
+        },
+        {
+          "sha": "27f5a8e43bb2e5bb4c474c664f74cc1d342340df",
+          "message": "Switch to Bun package manager\n\nRemove the `package-lock.json` file and update `.gitignore` to ignore\nboth `package-lock.json` and `bun.lock`.",
+          "author": "jaber",
+          "date": "2026-05-25T19:49:44Z",
+          "url": "https://github.com/JaberChowdhury/Portfolio-website/commit/27f5a8e43bb2e5bb4c474c664f74cc1d342340df"
+        },
         {
           "sha": "41a85c87b86dd52e45afdedfe4896a0fc113bd8c",
           "message": "Improve portfolio README for recruiters",
@@ -64,20 +78,6 @@
           "author": "jaber",
           "date": "2026-05-25T18:16:22Z",
           "url": "https://github.com/JaberChowdhury/Portfolio-website/commit/09adfa94376b20a9d83a665a0e9106a0fc90c757"
-        },
-        {
-          "sha": "d29bf44a548e957a54a433536b8bbc6026f4512d",
-          "message": "Refactor : project list UI and optimize navbar for mobile\n\n- Replace standard inputs with MUI InputBase and consolidate hover\n  styles\n- Add language-specific icons and color coding to project repository\n  cards\n- Enforce English-only interface for mobile viewports in the navigation",
-          "author": "jaber",
-          "date": "2026-05-25T17:09:48Z",
-          "url": "https://github.com/JaberChowdhury/Portfolio-website/commit/d29bf44a548e957a54a433536b8bbc6026f4512d"
-        },
-        {
-          "sha": "d10d931342b622a4b26ce99546ab1434714f39fc",
-          "message": "Refactor : project details and add repository visualizations\n\n- Abstract project data fetching into `lib/projects.ts`\n- Implement `BranchSelector`, `BrowserPreview`, and\n  `ProjectVisualizations`\n- Add `CommitTimeline`, `LanguageDistribution`, and\n  `WeeklyActivityChart` components\n- Update `ProjectDetailClient` to use new modular components\n- Add fallback repository data and translation files",
-          "author": "jaber",
-          "date": "2026-05-25T16:19:54Z",
-          "url": "https://github.com/JaberChowdhury/Portfolio-website/commit/d10d931342b622a4b26ce99546ab1434714f39fc"
         }
       ]
     }
@@ -89,7 +89,7 @@
     }
   ],
   "languages": {
-    "TypeScript": 329381,
+    "TypeScript": 331052,
     "CSS": 932
   },
   "weeklyActivity": [
@@ -143,7 +143,7 @@
     0,
     0,
     0,
-    0,
+    8,
     17
   ]
 }
