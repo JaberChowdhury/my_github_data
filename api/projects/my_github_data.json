@@ -7,21 +7,21 @@
   "language": "TypeScript",
   "topics": [],
   "stargazers_count": 0,
-  "updated_at": "2026-05-25T19:37:19Z",
+  "updated_at": "2026-05-26T09:47:28Z",
   "full_name": "JaberChowdhury/my_github_data",
   "watchers_count": 0,
   "forks_count": 0,
-  "pushed_at": "2026-05-25T19:37:15Z",
+  "pushed_at": "2026-05-26T09:47:23Z",
   "default_branch": "main",
   "fork": false,
-  "size": 401,
+  "size": 430,
   "open_issues_count": 0,
   "branches": [
     {
       "name": "main",
       "commit": {
-        "sha": "75fa664e039518f143b88a58c34c7706316008ed",
-        "url": "https://api.github.com/repos/JaberChowdhury/my_github_data/commits/75fa664e039518f143b88a58c34c7706316008ed"
+        "sha": "dc131074b739d5936f5c005733537f706e3801b4",
+        "url": "https://api.github.com/repos/JaberChowdhury/my_github_data/commits/dc131074b739d5936f5c005733537f706e3801b4"
       },
       "protected": false,
       "languages": {
@@ -32,6 +32,13 @@
         "TypeScript": 1
       },
       "recentCommits": [
+        {
+          "sha": "dc131074b739d5936f5c005733537f706e3801b4",
+          "message": "chore: auto-update portfolio data",
+          "author": "github-actions[bot]",
+          "date": "2026-05-26T09:47:23Z",
+          "url": "https://github.com/JaberChowdhury/my_github_data/commit/dc131074b739d5936f5c005733537f706e3801b4"
+        },
         {
           "sha": "75fa664e039518f143b88a58c34c7706316008ed",
           "message": "chore: auto-update portfolio data",
@@ -59,13 +66,6 @@
           "author": "github-actions[bot]",
           "date": "2026-05-25T15:25:54Z",
           "url": "https://github.com/JaberChowdhury/my_github_data/commit/12a1dcd83135999a83634875d393ed412021c558"
-        },
-        {
-          "sha": "6fa0768e77a2833b479dcb9cf2bcd62047e50bc9",
-          "message": "Remove API data files\n\nRemove `api/portfolio.json` and `api/repos.json` as well as the\n`api/readmes/` directory.",
-          "author": "jaber",
-          "date": "2026-05-25T15:24:52Z",
-          "url": "https://github.com/JaberChowdhury/my_github_data/commit/6fa0768e77a2833b479dcb9cf2bcd62047e50bc9"
         }
       ]
     }
