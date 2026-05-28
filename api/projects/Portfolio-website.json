@@ -19,65 +19,65 @@
     "typescript"
   ],
   "stargazers_count": 0,
-  "updated_at": "2026-05-25T20:00:05Z",
+  "updated_at": "2026-05-27T18:37:24Z",
   "full_name": "JaberChowdhury/Portfolio-website",
   "watchers_count": 0,
   "forks_count": 0,
-  "pushed_at": "2026-05-25T20:00:02Z",
+  "pushed_at": "2026-05-27T18:37:19Z",
   "default_branch": "main",
   "fork": false,
-  "size": 56378,
+  "size": 56466,
   "open_issues_count": 0,
   "branches": [
     {
       "name": "main",
       "commit": {
-        "sha": "ea61d1ee422655c5ed4a88a54380fc9d1d156dd4",
-        "url": "https://api.github.com/repos/JaberChowdhury/Portfolio-website/commits/ea61d1ee422655c5ed4a88a54380fc9d1d156dd4"
+        "sha": "c526f856c12fa8ad12a7347e3cab9259090fabfb",
+        "url": "https://api.github.com/repos/JaberChowdhury/Portfolio-website/commits/c526f856c12fa8ad12a7347e3cab9259090fabfb"
       },
       "protected": false,
       "languages": {
         "Markdown": 3,
         "JSON": 3,
-        "TypeScript": 21,
-        "React": 48,
+        "TypeScript": 25,
+        "React": 67,
         "CSS": 1
       },
       "recentCommits": [
+        {
+          "sha": "c526f856c12fa8ad12a7347e3cab9259090fabfb",
+          "message": "fix : typescript errors",
+          "author": "jaber",
+          "date": "2026-05-27T18:37:16Z",
+          "url": "https://github.com/JaberChowdhury/Portfolio-website/commit/c526f856c12fa8ad12a7347e3cab9259090fabfb"
+        },
+        {
+          "sha": "578ec2a9b3f3d92aa7300f6c675cba238d52910f",
+          "message": "Add : blog posts and sidebar to competitive programming guide\n\n- Create new MDX files for competitive programming roadmap, C++ basics,\n  variables, I/O, operators, flow control, loops, strings, functions,\n  references, pointers, time complexity, brute force, greedy algorithm,\n  and constructive thinking\n- Add custom code block component with highlighting and line numbers to\n  MDX components\n- Implement BlogSidebar for navigation and PostStats for content metrics",
+          "author": "jaber",
+          "date": "2026-05-27T18:25:18Z",
+          "url": "https://github.com/JaberChowdhury/Portfolio-website/commit/578ec2a9b3f3d92aa7300f6c675cba238d52910f"
+        },
+        {
+          "sha": "4aa3a43dc535d4a044a06e61bba5f0bdf36e3e06",
+          "message": "Add : blog and tag management functionality\n\n- Integrate Nextra for blog post rendering\n- Add blog index, post layouts, and MDX support\n- Implement tag aggregation, search, and filtering\n- Create API routes for blog posts, tags, and TTS\n- Refactor project structure into a portfolio route group",
+          "author": "jaber",
+          "date": "2026-05-27T17:19:06Z",
+          "url": "https://github.com/JaberChowdhury/Portfolio-website/commit/4aa3a43dc535d4a044a06e61bba5f0bdf36e3e06"
+        },
+        {
+          "sha": "c2fdbbebc92afa7d46f65196bf35905a0ff2528f",
+          "message": "removed : static page generation completely",
+          "author": "jaber",
+          "date": "2026-05-27T10:40:36Z",
+          "url": "https://github.com/JaberChowdhury/Portfolio-website/commit/c2fdbbebc92afa7d46f65196bf35905a0ff2528f"
+        },
         {
           "sha": "ea61d1ee422655c5ed4a88a54380fc9d1d156dd4",
           "message": "Refactor ProjectDetailClient to fetch data client-side\n\nMigrated repository data fetching from the server component to the\nclient\ncomponent using useEffect. Updated the client to handle loading and\nerror states, and simplified the page component accordingly.",
           "author": "jaber",
           "date": "2026-05-25T19:59:59Z",
           "url": "https://github.com/JaberChowdhury/Portfolio-website/commit/ea61d1ee422655c5ed4a88a54380fc9d1d156dd4"
-        },
-        {
-          "sha": "27f5a8e43bb2e5bb4c474c664f74cc1d342340df",
-          "message": "Switch to Bun package manager\n\nRemove the `package-lock.json` file and update `.gitignore` to ignore\nboth `package-lock.json` and `bun.lock`.",
-          "author": "jaber",
-          "date": "2026-05-25T19:49:44Z",
-          "url": "https://github.com/JaberChowdhury/Portfolio-website/commit/27f5a8e43bb2e5bb4c474c664f74cc1d342340df"
-        },
-        {
-          "sha": "41a85c87b86dd52e45afdedfe4896a0fc113bd8c",
-          "message": "Improve portfolio README for recruiters",
-          "author": "jaber",
-          "date": "2026-05-25T19:32:56Z",
-          "url": "https://github.com/JaberChowdhury/Portfolio-website/commit/41a85c87b86dd52e45afdedfe4896a0fc113bd8c"
-        },
-        {
-          "sha": "8af4ef0ec257cc82eb106a8218dc1f8d48b6ac38",
-          "message": "Improve Preloader navigation and project metadata\n\n- Implement client-side routing detection in Preloader to display\n  loading\n  states on navigation.\n- Update project section metadata and localization labels.\n- Clean up minor code formatting and import order issues.",
-          "author": "jaber",
-          "date": "2026-05-25T19:17:39Z",
-          "url": "https://github.com/JaberChowdhury/Portfolio-website/commit/8af4ef0ec257cc82eb106a8218dc1f8d48b6ac38"
-        },
-        {
-          "sha": "09adfa94376b20a9d83a665a0e9106a0fc90c757",
-          "message": "feat: integrate preloader, simplify project data model, and implement server-side route for repo fetching",
-          "author": "jaber",
-          "date": "2026-05-25T18:16:22Z",
-          "url": "https://github.com/JaberChowdhury/Portfolio-website/commit/09adfa94376b20a9d83a665a0e9106a0fc90c757"
         }
       ]
     }
@@ -89,8 +89,9 @@
     }
   ],
   "languages": {
-    "TypeScript": 331052,
-    "CSS": 932
+    "TypeScript": 431357,
+    "MDX": 105576,
+    "CSS": 1014
   },
   "weeklyActivity": [
     0,
@@ -144,6 +145,6 @@
     0,
     0,
     8,
-    17
+    21
   ]
 }
