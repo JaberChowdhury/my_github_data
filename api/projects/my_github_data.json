@@ -7,21 +7,21 @@
   "language": "TypeScript",
   "topics": [],
   "stargazers_count": 0,
-  "updated_at": "2026-05-28T09:56:19Z",
+  "updated_at": "2026-05-29T09:47:22Z",
   "full_name": "JaberChowdhury/my_github_data",
   "watchers_count": 0,
   "forks_count": 0,
-  "pushed_at": "2026-05-28T09:56:15Z",
+  "pushed_at": "2026-05-29T09:47:18Z",
   "default_branch": "main",
   "fork": false,
-  "size": 477,
+  "size": 497,
   "open_issues_count": 0,
   "branches": [
     {
       "name": "main",
       "commit": {
-        "sha": "741fc780667a6b6d5f3b8c8778272ff64aec1026",
-        "url": "https://api.github.com/repos/JaberChowdhury/my_github_data/commits/741fc780667a6b6d5f3b8c8778272ff64aec1026"
+        "sha": "2d966bf482065f7e01432365b415f83ef64e2908",
+        "url": "https://api.github.com/repos/JaberChowdhury/my_github_data/commits/2d966bf482065f7e01432365b415f83ef64e2908"
       },
       "protected": false,
       "languages": {
@@ -32,6 +32,13 @@
         "TypeScript": 1
       },
       "recentCommits": [
+        {
+          "sha": "2d966bf482065f7e01432365b415f83ef64e2908",
+          "message": "chore: auto-update portfolio data",
+          "author": "github-actions[bot]",
+          "date": "2026-05-29T09:47:17Z",
+          "url": "https://github.com/JaberChowdhury/my_github_data/commit/2d966bf482065f7e01432365b415f83ef64e2908"
+        },
         {
           "sha": "741fc780667a6b6d5f3b8c8778272ff64aec1026",
           "message": "chore: auto-update portfolio data",
@@ -59,13 +66,6 @@
           "author": "github-actions[bot]",
           "date": "2026-05-25T19:37:15Z",
           "url": "https://github.com/JaberChowdhury/my_github_data/commit/75fa664e039518f143b88a58c34c7706316008ed"
-        },
-        {
-          "sha": "ebad27fb12f0bf815632d3ca120b1d164d0074da",
-          "message": "chore: auto-update portfolio data",
-          "author": "github-actions[bot]",
-          "date": "2026-05-25T17:12:17Z",
-          "url": "https://github.com/JaberChowdhury/my_github_data/commit/ebad27fb12f0bf815632d3ca120b1d164d0074da"
         }
       ]
     }
