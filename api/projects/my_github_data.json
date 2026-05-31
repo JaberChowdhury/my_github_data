@@ -7,21 +7,21 @@
   "language": "TypeScript",
   "topics": [],
   "stargazers_count": 0,
-  "updated_at": "2026-05-29T09:47:22Z",
+  "updated_at": "2026-05-30T08:24:29Z",
   "full_name": "JaberChowdhury/my_github_data",
   "watchers_count": 0,
   "forks_count": 0,
-  "pushed_at": "2026-05-29T09:47:18Z",
+  "pushed_at": "2026-05-30T08:24:26Z",
   "default_branch": "main",
   "fork": false,
-  "size": 497,
+  "size": 513,
   "open_issues_count": 0,
   "branches": [
     {
       "name": "main",
       "commit": {
-        "sha": "2d966bf482065f7e01432365b415f83ef64e2908",
-        "url": "https://api.github.com/repos/JaberChowdhury/my_github_data/commits/2d966bf482065f7e01432365b415f83ef64e2908"
+        "sha": "55f7b0a1ee5093ef7e828a9f7a9ac39b44421163",
+        "url": "https://api.github.com/repos/JaberChowdhury/my_github_data/commits/55f7b0a1ee5093ef7e828a9f7a9ac39b44421163"
       },
       "protected": false,
       "languages": {
@@ -32,6 +32,13 @@
         "TypeScript": 1
       },
       "recentCommits": [
+        {
+          "sha": "55f7b0a1ee5093ef7e828a9f7a9ac39b44421163",
+          "message": "chore: auto-update portfolio data",
+          "author": "github-actions[bot]",
+          "date": "2026-05-30T08:24:25Z",
+          "url": "https://github.com/JaberChowdhury/my_github_data/commit/55f7b0a1ee5093ef7e828a9f7a9ac39b44421163"
+        },
         {
           "sha": "2d966bf482065f7e01432365b415f83ef64e2908",
           "message": "chore: auto-update portfolio data",
@@ -59,13 +66,6 @@
           "author": "github-actions[bot]",
           "date": "2026-05-26T09:47:23Z",
           "url": "https://github.com/JaberChowdhury/my_github_data/commit/dc131074b739d5936f5c005733537f706e3801b4"
-        },
-        {
-          "sha": "75fa664e039518f143b88a58c34c7706316008ed",
-          "message": "chore: auto-update portfolio data",
-          "author": "github-actions[bot]",
-          "date": "2026-05-25T19:37:15Z",
-          "url": "https://github.com/JaberChowdhury/my_github_data/commit/75fa664e039518f143b88a58c34c7706316008ed"
         }
       ]
     }
