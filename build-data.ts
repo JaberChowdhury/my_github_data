@@ -297,7 +297,7 @@ async function buildPortfolioAPI() {
       // 2. Immediately write the detailed, heavy JSON file for this specific repository
       await Bun.write(
         `${outDir}/${result.summary.name}.json`,
-        JSON.stringify(result.detailed, null, 2),
+        JSON.stringify(result.detailed),
       );
     }
 
@@ -307,7 +307,7 @@ async function buildPortfolioAPI() {
   }
 
   // 3. Write the final lightweight index file
-  await Bun.write(`${outDir}/index.json`, JSON.stringify(summaryFeed, null, 2));
+  await Bun.write(`${outDir}/index.json`, JSON.stringify(summaryFeed));
 
   console.log(`\n✅ Complete! `);
   console.log(`📄 Saved lightweight feed to: ${outDir}/index.json`);

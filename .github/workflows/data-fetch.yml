@@ -2,7 +2,7 @@ name: Daily Portfolio Data Fetch
 
 on:
   schedule:
-    - cron: "0 6 * * *" # Runs at 12:00 PM Bangladesh Time (06:00 UTC)
+    - cron: "0 6 * * 5" # Every Friday at 12:00 PM Bangladesh Time
   workflow_dispatch:
 
 jobs:
@@ -20,14 +20,27 @@ jobs:
         with:
           bun-version: latest
 
-      - name: Fetch Data and Generate JSON
+      - name: Fetch Portfolio Data and Generate JSON
         env:
           PERSONAL_GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         run: bun run build-data.ts
 
+      - name: Fetch Obsidian Blogs and Generate Nextra Markdown
+        env:
+          PERSONAL_GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+        run: bun run build-blog.ts
+
       - name: Commit and Push Changes
+        if: ${{ !env.ACT }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Stage generated API json files and Nextra blog markdown files when present
           git add api/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: auto-update portfolio data" && git push)
+          if [ -d pages/blogs ]; then
+            git add pages/blogs/
+          fi
+
+          # Commit and push if there are any changes detected
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: auto-update portfolio data and sync obsidian blogs" && git push)
